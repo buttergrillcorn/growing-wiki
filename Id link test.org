@@ -2,15 +2,8 @@
 #+date: [2025-12-07 Sun 16:42]
 
 * Backlink
-:PROPERTIES:
-:ID:       20251207T220017.113556
-:END:
 
-[[id:20251207T215931.543713][Getting Started with Digital Gardens]]
 
-Link back to the [[id:20251207T215839.698958][main page]].
+Link back to the main page.
 
 * Title for link
-:PROPERTIES:
-:ID:       20251207T215723.124009
-:END:
