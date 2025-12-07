@@ -1,14 +1,11 @@
-:PROPERTIES:
-:ID:       20251207T215807.161364
-:END:
 #+title: Id link test
 #+date: [2025-12-07 Sun 16:42]
 
 * Backlink
 
-[[id:20251207T173743.962916][Getting Started with Digital Gardens]]
+[[id:20251207T215931.543713][Getting Started with Digital Gardens]]
 
-Link back to the [[id:20251207T182049.772992][main page]].
+Link back to the [[id:20251207T215839.698958][main page]].
 
 * Title for link
 :PROPERTIES:
