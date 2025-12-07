@@ -1,0 +1,44 @@
+#+title: Getting Started with Digital Gardens
+#+date: [2025-12-07 Sat]
+#+hugo_base_dir: .site
+#+hugo_section: notes
+
+* What is a Digital Garden?
+
+A digital garden is a collection of evolving ideas, unlike a traditional blog:
+
+- Notes are constantly updated and refined
+- Ideas are interconnected, not chronological
+- Imperfect thoughts are published early
+- Knowledge grows organically over time
+
+* Why Work in Public?
+
+Working in public means sharing your notes as you write them:
+
+- Get feedback early and often
+- Build connections with like-minded people
+- Create a knowledge base others can learn from
+- Hold yourself accountable to keep learning
+
+* Key Principles
+
+** Embrace Imperfection
+
+Don't wait for notes to be "ready" - publish drafts, rough ideas, and incomplete thoughts. The value is in the process, not just the final product.
+
+** Link Liberally
+
+Connect related ideas using org-id links. These links never break, even when you rename files or reorganize.
+
+** Iterate Continuously
+
+Return to notes and expand them as you learn more. Digital gardens are living documents, not static posts.
+
+* Next Steps
+
+- [[id:example-link][Create your first note]]
+- Experiment with linking between notes
+- Share your digital garden with others
+
+Remember: Start small, iterate often, and enjoy the journey!
