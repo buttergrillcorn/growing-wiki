@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       20251207T215839.698958
+:END:
 #+title: Growing Wiki
 #+date: [2025-12-07 Sat]
 #+hugo_base_dir: .site
@@ -37,6 +40,6 @@ Start writing your first note!
 
 * Linking
 
-You can navigate with links like this
+You can navigate with links like [[id:20251207T215723.124009][this]]
 
 
