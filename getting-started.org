@@ -44,7 +44,7 @@ Return to notes and expand them as you learn more. Digital gardens are living do
 :ID:       20251207T164424.828596
 :END:
 
-- [[id:example-link][Create your first note]]
+- [[id:20251207T220017.113556][Create your first note]]
 - Experiment with linking between notes
 - Share your digital garden with others
 
