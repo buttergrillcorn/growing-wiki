@@ -7,7 +7,7 @@ draft = false
 
 ## Backlink {#backlink}
 
-[Getting Started with Digital Gardens](/notes/getting-started)
+Link back to the main page.
 
 
 ## Title for link {#title-for-link}
