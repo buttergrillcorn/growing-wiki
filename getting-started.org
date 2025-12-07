@@ -36,9 +36,13 @@ Connect related ideas using org-id links. These links never break, even when you
 Return to notes and expand them as you learn more. Digital gardens are living documents, not static posts.
 
 * Next Steps
+:PROPERTIES:
+:ID:       20251207T164424.828596
+:END:
 
 - [[id:example-link][Create your first note]]
 - Experiment with linking between notes
 - Share your digital garden with others
 
 Remember: Start small, iterate often, and enjoy the journey!
+
