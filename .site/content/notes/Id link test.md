@@ -7,7 +7,9 @@ draft = false
 
 ## Backlink {#backlink}
 
-Link back to the main page.
+Link the other note below:
+
+Link back to the main page here.
 
 
 ## Title for link {#title-for-link}
