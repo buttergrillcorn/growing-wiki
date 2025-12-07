@@ -10,6 +10,7 @@ publishDir = "public"
 # Permalinks - clean URLs
 [permalinks]
 posts = "/:title"
+notes = "/notes/:slug"
 
 # Little Ocean theme settings
 [params]
