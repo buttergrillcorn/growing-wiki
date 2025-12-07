@@ -1,11 +1,12 @@
-:PROPERTIES:
-:ID:       20251207T182049.772992
-:END:
 #+title: Growing Wiki
 #+date: [2025-12-07 Sat]
 #+hugo_base_dir: .site
 #+hugo_section:
 #+export_file_name: _index
+
+:PROPERTIES:
+:ID:       20251207T182049.772992
+:END:
 
 * Description
 
