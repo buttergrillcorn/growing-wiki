@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       20251207T215839.698958
-:END:
 #+title: Growing Wiki
 #+date: [2025-12-07 Sat]
 #+hugo_base_dir: .site
@@ -8,9 +5,6 @@
 #+export_file_name: _index
 
 * Description
-:PROPERTIES:
-:ID:       20251207T182049.772992
-:END:
 
 This is my personal notes wiki, using the working in public / digital garden methodology.
 
