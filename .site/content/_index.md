@@ -5,9 +5,6 @@ date = 2025-12-07T00:00:00+00:00
 draft = false
 +++
 
-:ID:       20251207T182049.772992
-
-
 ## Description {#description}
 
 This is my personal notes wiki, using the working in public / digital garden methodology.
