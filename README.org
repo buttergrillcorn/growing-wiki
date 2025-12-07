@@ -4,11 +4,10 @@
 #+hugo_section:
 #+export_file_name: _index
 
+* Description
 :PROPERTIES:
 :ID:       20251207T182049.772992
 :END:
-
-* Description
 
 This is my personal notes wiki, using the working in public / digital garden methodology.
 
