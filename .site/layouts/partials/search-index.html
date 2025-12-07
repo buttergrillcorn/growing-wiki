@@ -1,0 +1,18 @@
+<script>
+window.store = {
+    {{ range where .Site.Pages "Section" "notes" }}
+    "{{ .Permalink }}": {
+        "title": "{{ .Title  }}",
+        "tags": [{{ range .Params.Tags }}"{{ . }}",{{ end }}],
+        "content": {{ .Content | plainify }},
+        "url": "{{ .Permalink }}"
+    },
+    {{ end }}
+}
+</script>
+
+{{ $lunrjs := resources.Get "js/lunr.min.js" }}
+<script src="{{$lunrjs.Permalink}}" type="text/javascript"></script>
+
+{{ $searchjs := resources.Get "js/search.js" }}
+<script src="{{$searchjs.Permalink}}" type="text/javascript"></script>

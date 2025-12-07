@@ -1,10 +1,9 @@
-#+title: Growing Wiki
-#+date: [2025-12-07 Sat]
-#+hugo_base_dir: .site
-#+hugo_section:
-#+export_file_name: _index
+---
+title: "Growing Wiki"
+date: 2025-12-07
+---
 
-* Description
+## Description
 
 This is my personal notes wiki, using the working in public / digital garden methodology.
 
@@ -14,20 +13,20 @@ Built with:
 - ox-hugo for export
 - Hugo + Little Ocean theme for publishing
 
-** Navigation
+### Navigation
 
-- Press =SPC n n= to find or create a note
-- Press =SPC n G= to search all notes
-- Press =SPC n I= to insert a link
-- Press =SPC n b= to see backlinks
+- Press `SPC n n` to find or create a note
+- Press `SPC n G` to search all notes
+- Press `SPC n I` to insert a link
+- Press `SPC n b` to see backlinks
 
-** Workflow
+### Workflow
 
 1. Write notes in Org mode
 2. Save automatically exports to Hugo via ox-hugo
 3. Git commits and pushes automatically (enabled by default)
 4. Website updates on Cloudflare Pages
 
-Toggle auto-sync with =SPC n A= if you prefer manual control.
+Toggle auto-sync with `SPC n A` if you prefer manual control.
 
 Start writing your first note!
