@@ -31,3 +31,7 @@ Built with:
 Toggle auto-sync with =SPC n A= if you prefer manual control.
 
 Start writing your first note!
+
+* Linking
+
+You can navigate with links like this
