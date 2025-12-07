@@ -1,0 +1,6 @@
+#+title: Growing Wiki 
+
+* Description
+
+This is my personal notes wiki, using the working in public / digital garden methodology.
+
