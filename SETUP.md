@@ -34,15 +34,15 @@ M-x doom/reload
 
 Try the new wiki commands:
 
-- `SPC w f` - Find or create a note (with live preview!)
-- `SPC w s` - Search all notes with ripgrep
-- `SPC w l` - Insert an ID-based link to a file
-- `SPC w h` - Insert an ID-based link to a heading
-- `SPC w b` - Show backlinks to current note
-- `SPC w i` - Create an ID for current heading
-- `SPC w g` - Go to a note by ID
-- `SPC w p` - Manually git sync (commit + push)
-- `SPC w a` - Toggle auto-sync on save
+- `SPC W f` - Find or create a note (with live preview!)
+- `SPC W s` - Search all notes with ripgrep
+- `SPC W l` - Insert an ID-based link to a file
+- `SPC W h` - Insert an ID-based link to a heading
+- `SPC W b` - Show backlinks to current note
+- `SPC W i` - Create an ID for current heading
+- `SPC W g` - Go to a note by ID
+- `SPC W p` - Manually git sync (commit + push)
+- `SPC W a` - Toggle auto-sync on save
 
 ### 3. Preview Your Site Locally
 
@@ -98,7 +98,7 @@ baseURL = "https://wiki-YOUR_PAGES_ID.pages.dev/"
 
 ### Writing Notes
 
-1. Press `SPC w f` and type a note name
+1. Press `SPC W f` and type a note name
 2. If it doesn't exist, it creates a new note with:
    - Title from filename
    - Current date
@@ -109,12 +109,12 @@ baseURL = "https://wiki-YOUR_PAGES_ID.pages.dev/"
 ### Linking Notes
 
 **For file links:**
-1. Press `SPC w l`
+1. Press `SPC W l`
 2. Select the note (with preview)
 3. An `id:UUID` link is inserted
 
 **For heading links:**
-1. Press `SPC w h`
+1. Press `SPC W h`
 2. Navigate to the heading
 3. ID link to that specific heading is inserted
 
@@ -124,17 +124,17 @@ baseURL = "https://wiki-YOUR_PAGES_ID.pages.dev/"
 
 **Option A: Manual (default)**
 - Write notes, save them
-- When ready: `SPC w p` to commit & push
+- When ready: `SPC W p` to commit & push
 - Cloudflare Pages auto-builds
 
 **Option B: Automatic (optional)**
-- Enable with `SPC w a`
+- Enable with `SPC W a`
 - Every save → export → commit → push → deploy
 - Great for true "work in public"
 
 ### Finding Backlinks
 
-Press `SPC w b` in any note to see all notes that link to it. Uses ripgrep to search for the current note's ID across all files.
+Press `SPC W b` in any note to see all notes that link to it. Uses ripgrep to search for the current note's ID across all files.
 
 ## File Structure
 
@@ -194,7 +194,7 @@ All wiki functions are in `~/dotfile/dotfiles.org` under `*** Wiki`. Each functi
 - Run `doom sync && doom reload` to load new config
 
 **"No ID found for current entry"**
-- Press `SPC w i` to create an ID for the current heading/file
+- Press `SPC W i` to create an ID for the current heading/file
 
 **"Hugo build fails"**
 - Check `.site/public/` is gitignored (it is)
@@ -224,11 +224,11 @@ Both systems coexist independently!
 2. **Link liberally:** Connect related ideas as you go
 3. **Iterate often:** Return to notes and expand them
 4. **Embrace imperfection:** Publish drafts and WIP
-5. **Work in public:** Enable auto-sync (`SPC w a`) for accountability
+5. **Work in public:** Enable auto-sync (`SPC W a`) for accountability
 
 ## Next: Try It Out!
 
-1. Press `SPC w f` and create your first note
+1. Press `SPC W f` and create your first note
 2. Add some content and org-id links
 3. Save and watch it export to Hugo
 4. Run `hugo server` to preview locally
