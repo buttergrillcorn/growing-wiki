@@ -13,3 +13,5 @@ Link back to the main page here.
 
 
 ## Title for link {#title-for-link}
+
+This heading/title should be linked from main page.
