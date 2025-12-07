@@ -16,16 +16,16 @@ Built with:
 
 ** Navigation
 
-- Press =SPC W f= to find or create a note
-- Press =SPC W s= to search all notes
-- Press =SPC W l= to insert a link
-- Press =SPC W b= to see backlinks
+- Press =SPC n n= to find or create a note
+- Press =SPC n G= to search all notes
+- Press =SPC n I= to insert a link
+- Press =SPC n b= to see backlinks
 
 ** Workflow
 
 1. Write notes in Org mode
 2. Save automatically exports to Hugo via ox-hugo
-3. Git commits and pushes automatically (when enabled with =SPC W a=)
+3. Git commits and pushes automatically (when enabled with =SPC n A=)
 4. Website updates on Cloudflare Pages
 
 Start writing your first note!

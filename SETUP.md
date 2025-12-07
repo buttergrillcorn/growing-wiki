@@ -34,15 +34,17 @@ M-x doom/reload
 
 Try the new wiki commands:
 
-- `SPC W f` - Find or create a note (with live preview!)
-- `SPC W s` - Search all notes with ripgrep
-- `SPC W l` - Insert an ID-based link to a file
-- `SPC W h` - Insert an ID-based link to a heading
-- `SPC W b` - Show backlinks to current note
-- `SPC W i` - Create an ID for current heading
-- `SPC W g` - Go to a note by ID
-- `SPC W p` - Manually git sync (commit + push)
-- `SPC W a` - Toggle auto-sync on save
+- `SPC n n` - Find or create a note (with live preview!)
+- `SPC n G` - Search all notes with ripgrep (capital G)
+- `SPC n I` - Insert an ID-based link to a file (capital I)
+- `SPC n h` - Insert an ID-based link to a heading
+- `SPC n b` - Show backlinks to current note
+- `SPC n i` - Create an ID for current heading
+- `SPC n g` - Go to a note by ID
+- `SPC n p` - Manually git sync (commit + push)
+- `SPC n A` - Toggle auto-sync on save (capital A)
+
+**Note:** Org capture moved to `SPC n x` and goto target to `SPC n X`
 
 ### 3. Preview Your Site Locally
 
@@ -98,7 +100,7 @@ baseURL = "https://wiki-YOUR_PAGES_ID.pages.dev/"
 
 ### Writing Notes
 
-1. Press `SPC W f` and type a note name
+1. Press `SPC n n` and type a note name
 2. If it doesn't exist, it creates a new note with:
    - Title from filename
    - Current date
@@ -109,12 +111,12 @@ baseURL = "https://wiki-YOUR_PAGES_ID.pages.dev/"
 ### Linking Notes
 
 **For file links:**
-1. Press `SPC W l`
+1. Press `SPC n I`
 2. Select the note (with preview)
 3. An `id:UUID` link is inserted
 
 **For heading links:**
-1. Press `SPC W h`
+1. Press `SPC n h`
 2. Navigate to the heading
 3. ID link to that specific heading is inserted
 
@@ -124,17 +126,17 @@ baseURL = "https://wiki-YOUR_PAGES_ID.pages.dev/"
 
 **Option A: Manual (default)**
 - Write notes, save them
-- When ready: `SPC W p` to commit & push
+- When ready: `SPC n p` to commit & push
 - Cloudflare Pages auto-builds
 
 **Option B: Automatic (optional)**
-- Enable with `SPC W a`
+- Enable with `SPC n A`
 - Every save → export → commit → push → deploy
 - Great for true "work in public"
 
 ### Finding Backlinks
 
-Press `SPC W b` in any note to see all notes that link to it. Uses ripgrep to search for the current note's ID across all files.
+Press `SPC n b` in any note to see all notes that link to it. Uses ripgrep to search for the current note's ID across all files.
 
 ## File Structure
 
@@ -194,7 +196,7 @@ All wiki functions are in `~/dotfile/dotfiles.org` under `*** Wiki`. Each functi
 - Run `doom sync && doom reload` to load new config
 
 **"No ID found for current entry"**
-- Press `SPC W i` to create an ID for the current heading/file
+- Press `SPC n i` to create an ID for the current heading/file
 
 **"Hugo build fails"**
 - Check `.site/public/` is gitignored (it is)
@@ -213,7 +215,7 @@ All wiki functions are in `~/dotfile/dotfiles.org` under `*** Wiki`. Each functi
 | **Linking** | File-based with denote IDs | org-id (files + headings) |
 | **Publishing** | Hugo with your current setup | Little Ocean theme |
 | **Navigation** | Denote's file naming | Slide navigation on web |
-| **Keybindings** | `SPC d` | `SPC w` |
+| **Keybindings** | `SPC d` | `SPC n` |
 | **Philosophy** | Organized, tagged notes | Experimental, work in public |
 
 Both systems coexist independently!
@@ -224,11 +226,11 @@ Both systems coexist independently!
 2. **Link liberally:** Connect related ideas as you go
 3. **Iterate often:** Return to notes and expand them
 4. **Embrace imperfection:** Publish drafts and WIP
-5. **Work in public:** Enable auto-sync (`SPC W a`) for accountability
+5. **Work in public:** Enable auto-sync (`SPC n A`) for accountability
 
 ## Next: Try It Out!
 
-1. Press `SPC W f` and create your first note
+1. Press `SPC n n` and create your first note
 2. Add some content and org-id links
 3. Save and watch it export to Hugo
 4. Run `hugo server` to preview locally
