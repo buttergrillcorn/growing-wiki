@@ -124,15 +124,16 @@ baseURL = "https://wiki-YOUR_PAGES_ID.pages.dev/"
 
 ### Publishing Workflow
 
-**Option A: Manual (default)**
-- Write notes, save them
+**Automatic (enabled by default)**
+- Every save → export → commit → push → deploy
+- True "work in public" experience
+- Disable with `SPC n A` if you want manual control
+
+**Manual (optional)**
+- Disable auto-sync with `SPC n A`
+- Write notes, save them locally
 - When ready: `SPC n p` to commit & push
 - Cloudflare Pages auto-builds
-
-**Option B: Automatic (optional)**
-- Enable with `SPC n A`
-- Every save → export → commit → push → deploy
-- Great for true "work in public"
 
 ### Finding Backlinks
 
@@ -226,7 +227,7 @@ Both systems coexist independently!
 2. **Link liberally:** Connect related ideas as you go
 3. **Iterate often:** Return to notes and expand them
 4. **Embrace imperfection:** Publish drafts and WIP
-5. **Work in public:** Enable auto-sync (`SPC n A`) for accountability
+5. **Work in public:** Auto-sync is on by default - every save goes live!
 
 ## Next: Try It Out!
 

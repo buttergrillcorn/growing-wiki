@@ -25,7 +25,9 @@ Built with:
 
 1. Write notes in Org mode
 2. Save automatically exports to Hugo via ox-hugo
-3. Git commits and pushes automatically (when enabled with =SPC n A=)
+3. Git commits and pushes automatically (enabled by default)
 4. Website updates on Cloudflare Pages
+
+Toggle auto-sync with =SPC n A= if you prefer manual control.
 
 Start writing your first note!
