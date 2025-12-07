@@ -1,3 +1,6 @@
+:PROPERTIES:
+:ID:       20251207T220017.113556
+:END:
 #+title: Id link test
 #+date: [2025-12-07 Sun 16:42]
 
