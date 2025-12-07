@@ -3,4 +3,9 @@
 :END:
 #+title: Id link test
 #+date: [2025-12-07 Sun 16:42]
-[[id:]]
+
+* Backlink
+
+[[id:20251207T173743.962916][Getting Started with Digital Gardens]]
+
+* Title for link
