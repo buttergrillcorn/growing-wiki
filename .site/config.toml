@@ -1,0 +1,44 @@
+baseURL = "https://your-site.pages.dev/"
+languageCode = "en-us"
+title = "Growing Wiki"
+theme = "little-ocean"
+
+# Content directory (ox-hugo exports here)
+contentDir = "content"
+publishDir = "public"
+
+# Permalinks - clean URLs
+[permalinks]
+posts = "/:title"
+
+# Little Ocean theme settings
+[params]
+# Logo/favicon (optional)
+# logoUrl = "/favicon.png"
+
+# Style customization (all optional - defaults to Andy Matuschak's aesthetic)
+# Uncomment and modify to customize colors/fonts
+[params.styles]
+# Base styles
+# color = "#fff"
+# backgroundColor = "#000"
+# fontFamily = "Your Font, sans-serif"
+
+# Page styles
+# pageMaxWidth = "625px"
+# pageFontSize = "16px"
+
+# Backlinks
+# backlinksBackgroundColor = "#222"
+# backlinkTitleColor = "#ccc"
+
+# Preview popups
+# previewWidth = "500px"
+# previewMaxHeight = "350px"
+# previewScale = "0.7"
+
+# Markup settings for org-mode content
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow HTML in markdown (for ox-hugo exports)

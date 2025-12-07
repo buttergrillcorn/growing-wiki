@@ -1,0 +1,23 @@
+# Hugo build outputs
+.site/public/
+.site/resources/
+
+# Hugo cache
+.site/.hugo_build.lock
+
+# Emacs temporary files
+*~
+\#*\#
+.\#*
+.dir-locals.el~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.backup
+
+# Logs
+*.log
