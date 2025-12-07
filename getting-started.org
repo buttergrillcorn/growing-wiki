@@ -2,7 +2,6 @@
 #+date: [2025-12-07 Sat]
 #+hugo_base_dir: .site
 #+hugo_section: notes
-#+property: FILE_ID 202501010101
 
 * What is a Digital Garden?
 
