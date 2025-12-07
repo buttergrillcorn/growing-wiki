@@ -8,5 +8,6 @@
 
 [[id:20251207T173743.962916][Getting Started with Digital Gardens]]
 
+Link back to the [[id:20251207T182049.772992][main page]].
 
 * Title for link
