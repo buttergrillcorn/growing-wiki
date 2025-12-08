@@ -5,8 +5,9 @@
 
 Link the other note below:
 
+[[id:20251208T151639.355793][Getting Started with Digital Gardens]]
 
-Link back to the main page here.
+Link back to the main page [[id:20251208T151647.187317][here]].
 
 * Title for link
 :PROPERTIES:
