@@ -4,6 +4,9 @@
 #+hugo_section: notes
 
 * What is a Digital Garden?
+:PROPERTIES:
+:ID:       20251208T151639.355793
+:END:
 
 A digital garden is a collection of evolving ideas, unlike a traditional blog:
 
@@ -37,7 +40,7 @@ Return to notes and expand them as you learn more. Digital gardens are living do
 
 * Next Steps
 
-- Create your first note, and link it here
+- Create your first note, and link it [[id:20251208T151705.420935][here]]
 - Experiment with linking between notes
 - Share your digital garden with others
 
