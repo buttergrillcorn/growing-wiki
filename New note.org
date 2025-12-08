@@ -1,0 +1,4 @@
+#+title: New note
+#+date: [2025-12-08 Mon 16:55]
+
+* This is a new note
