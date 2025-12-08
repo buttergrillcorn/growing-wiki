@@ -18,3 +18,6 @@ Link back to the main page [[id:20251208T151647.187317][here]].
 :END:
 
 This heading/title should be linked from main page.
+
+* ID link test
+[[id:20251208T1520]]
