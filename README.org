@@ -5,9 +5,6 @@
 #+export_file_name: _index
 
 * Description
-:PROPERTIES:
-:ID:       20251208T151647.187317
-:END:
 
 This is my personal notes wiki, using the working in public / digital garden methodology.
 
