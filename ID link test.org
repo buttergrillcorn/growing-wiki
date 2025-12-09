@@ -14,5 +14,8 @@ Link the other note below:
 Link back to the main page [[id:20251209T173420.941781][here]].
 
 * Title for link
+:PROPERTIES:
+:ID:       20251209T173518.333382
+:END:
 
 This heading/title should be linked from main page.

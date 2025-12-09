@@ -9,7 +9,9 @@ draft = false
 
 Link the other note below:
 
-Link back to the main page here.
+[Getting Started with Digital Gardens](/notes/getting-started)
+
+Link back to the main page [here](/notes/README).
 
 
 ## Title for link {#title-for-link}
