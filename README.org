@@ -1,9 +1,10 @@
 #+title: Growing Wiki
 #+HUGO_BASE_DIR: /home/james/wiki/.site
-#+HUGO_SECTION: notes
+#+HUGO_SECTION: /
 #+HUGO_DRAFT: false
-#+HUGO_DATE: 2025-12-07
-#+date: [2025-12-07 Sat]
+#+EXPORT_FILE_NAME: _index
+
+
 * Description
 
 This is my personal notes wiki, using the working in public / digital garden methodology.
