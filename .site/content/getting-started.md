@@ -52,3 +52,4 @@ Return to notes and expand them as you learn more. Digital gardens are living do
 Remember: Start small, iterate often, and enjoy the journey!
 
 A link:
+[ID link test](/id-link-test/#title-for-link)
