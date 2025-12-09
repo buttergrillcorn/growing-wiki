@@ -4,6 +4,8 @@
 #+EXPORT_FILE_NAME: _index
 #+EXPORT_FILE_NAME: _index
 #+EXPORT_FILE_NAME: _index
+#+EXPORT_FILE_NAME: _index
+#+EXPORT_FILE_NAME: _index
 #+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: /
 #+HUGO_DRAFT: false
