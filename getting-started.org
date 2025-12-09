@@ -1,14 +1,11 @@
 #+title: Getting Started with Digital Gardens
-#+date: [2025-12-07 Sat]
+#+date: [2025-12-09 Tue]
 #+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: notes
 #+HUGO_DRAFT: false
-#+HUGO_DATE: 2025-12-07
+#+HUGO_DATE: 2025-12-09
 
 * What is a Digital Garden?
-:PROPERTIES:
-:ID:       20251208T155905.010224
-:END:
 
 A digital garden is a collection of evolving ideas, unlike a traditional blog:
 
