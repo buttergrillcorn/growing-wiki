@@ -1,7 +1,9 @@
 #+title: Getting Started with Digital Gardens
+#+date: [2025-12-07 Sat]
 #+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: notes
 #+HUGO_DRAFT: false
+#+HUGO_DATE: 2025-12-07
 
 
 
