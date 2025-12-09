@@ -39,4 +39,4 @@ Start writing your first note!
 
 ## Linking {#linking}
 
-You can navigate with links like this.
+You can navigate with links like [this](/notes/ID link test)
