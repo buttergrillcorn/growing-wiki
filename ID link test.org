@@ -9,10 +9,12 @@
 
 Link the other note below:
 
-[[id:20251209T212228.339983][Getting Started with Digital Gardens]]
 
 Link back to the main page here.
 
 * Title for link
+:PROPERTIES:
+:ID:       20251209T212256.718187
+:END:
 
 This heading/title should be linked from main page.
