@@ -45,7 +45,7 @@ Return to notes and expand them as you learn more. Digital gardens are living do
 
 ## Next Steps {#next-steps}
 
--   Create your first note, and link it here
+-   Create your first note, and link it [here](/notes/Problem)
 -   Experiment with linking between notes
 -   Share your digital garden with others
 
