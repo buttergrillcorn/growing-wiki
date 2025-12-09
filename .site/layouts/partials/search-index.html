@@ -1,18 +1,20 @@
+{{/* Build a JSON-safe search index for all pages */}}
+{{- $pages := .Site.AllPages -}}
+{{- $docs := slice -}}
+{{- range $pages -}}
+  {{- $docs = $docs | append (dict
+      "id" .Permalink
+      "title" .Title
+      "tags" .Params.tags
+      "content" (.Content | plainify | htmlUnescape)
+      "url" .Permalink) -}}
+{{- end -}}
 <script>
-window.store = {
-    {{ range where .Site.Pages "Section" "notes" }}
-    "{{ .Permalink }}": {
-        "title": "{{ .Title  }}",
-        "tags": [{{ range .Params.Tags }}"{{ . }}",{{ end }}],
-        "content": {{ .Content | plainify }},
-        "url": "{{ .Permalink }}"
-    },
-    {{ end }}
-}
+  window.store = {{ $docs | jsonify | safeJS }};
 </script>
 
 {{ $lunrjs := resources.Get "js/lunr.min.js" }}
 <script src="{{$lunrjs.Permalink}}" type="text/javascript"></script>
 
-{{ $searchjs := resources.Get "js/search.js" }}
+{{ $searchjs := resources.Get "js/search.js" | resources.Fingerprint }}
 <script src="{{$searchjs.Permalink}}" type="text/javascript"></script>

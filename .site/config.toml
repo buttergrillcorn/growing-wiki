@@ -2,6 +2,7 @@ baseURL = "https://your-site.pages.dev/"
 languageCode = "en-us"
 title = "Growing Wiki"
 theme = "little-ocean"
+buildFuture = true
 
 # Content directory (ox-hugo exports here)
 contentDir = "content"

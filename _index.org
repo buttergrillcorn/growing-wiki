@@ -40,3 +40,5 @@ Start writing your first note!
 * Linking
 
 You can navigate with links like [[id:20251209T212256.718187][this]].
+
+[[id:20251209T175259.866567][Problem]]
