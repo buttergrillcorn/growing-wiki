@@ -10,7 +10,9 @@
 
 Link the other note below:
 
-Link back to the main page here.
+[[id:20251209T212650.246649][Getting Started with Digital Gardens]]
+
+Link back to the main page [[id:20251209T214330.737315][here]].
 
 * Title for link
 :PROPERTIES:
