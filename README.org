@@ -1,6 +1,7 @@
 #+title: Growing Wiki
 #+date: [2025-12-09 Tue]
 #+EXPORT_FILE_NAME: _index
+#+EXPORT_FILE_NAME: _index
 #+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: /
 #+HUGO_DRAFT: false
@@ -40,5 +41,4 @@ Start writing your first note!
 
 * Linking
 
-You can navigate with links like this.
-
+You can navigate with links like [[id:20251209T173518.333382][this]]
