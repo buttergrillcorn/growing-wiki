@@ -1,5 +1,6 @@
 #+title: Getting Started with Digital Gardens
 #+date: [2025-12-09 Tue]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: notes
 #+HUGO_DRAFT: false
 #+HUGO_DATE: 2025-12-09
@@ -41,7 +42,7 @@ Return to notes and expand them as you learn more. Digital gardens are living do
 
 * Next Steps
 
-- Create your first note, and link it here
+- Create your first note, and link it [[id:20251209T175259.866567][here]]
 - Experiment with linking between notes
 - Share your digital garden with others
 
