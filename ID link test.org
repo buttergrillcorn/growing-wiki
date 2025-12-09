@@ -1,20 +1,17 @@
 #+title: ID link test
-#+date: [2025-12-08 Mon 15:56]
+#+date: [2025-12-09 Tue]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: notes
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2025-12-09
 
 * Backlink
-:PROPERTIES:
-:ID:       20251208T155834.812993
-:END:
 
 Link the other note below:
 
-[[id:20251208T155905.010224][Getting Started with Digital Gardens]]
 
-Link back to the main page [[id:20251208T161906.782070][here]].
+Link back to the main page here.
 
 * Title for link
-:PROPERTIES:
-:ID:       20251208T155855.936490
-:END:
 
 This heading/title should be linked from main page.
