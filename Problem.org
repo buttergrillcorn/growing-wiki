@@ -1,7 +1,14 @@
 #+title: Problem
 #+date: [2025-12-08 Mon 16:56]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: notes
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2025-12-08
 
 * What this is
+:PROPERTIES:
+:ID:       20251209T175259.866567
+:END:
 
 This is my dotfiles for my Linux laptop using Emacs, org files and tangling, with Stow to symlink them.
 
