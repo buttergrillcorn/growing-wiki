@@ -39,4 +39,4 @@ Start writing your first note!
 
 ## Linking {#linking}
 
-You can navigate with links like [this]({{< relref "ID link test.md#title-for-link" >}})
+You can navigate with links like [this](/notes/ID link test#title-for-link)
