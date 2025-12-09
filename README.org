@@ -1,5 +1,6 @@
 #+title: Growing Wiki
 #+date: [2025-12-09 Tue]
+#+EXPORT_FILE_NAME: _index
 #+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: /
 #+HUGO_DRAFT: false
@@ -7,6 +8,9 @@
 #+EXPORT_FILE_NAME: _index
 
 * Description
+:PROPERTIES:
+:ID:       20251209T173420.941781
+:END:
 
 This is my personal notes wiki, using the working in public / digital garden methodology.
 
