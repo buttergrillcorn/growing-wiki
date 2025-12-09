@@ -7,6 +7,9 @@
 #+EXPORT_FILE_NAME: _index
 
 * Description
+:PROPERTIES:
+:ID:       20251209T212327.851187
+:END:
 
 This is my personal notes wiki, using the working in public / digital garden methodology.
 
@@ -36,4 +39,4 @@ Start writing your first note!
 
 * Linking
 
-You can navigate with links like this.
+You can navigate with links like [[id:20251209T212256.718187][this]].
