@@ -3,8 +3,8 @@
 #+hugo_base_dir: /home/james/wiki/.site
 #+hugo_section:
 #+HUGO_DRAFT: false
-#+HUGO_DATE: 2025-12-07
 notes
+#+HUGO_DATE: 2025-12-07
 
 * Description
 
