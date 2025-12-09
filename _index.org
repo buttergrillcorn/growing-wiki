@@ -1,0 +1,39 @@
+#+title:  Index
+#+date: [2025-12-09 Tue]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: 
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2025-12-09
+#+EXPORT_FILE_NAME: _index
+
+* Description
+
+This is my personal notes wiki, using the working in public / digital garden methodology.
+
+Built with:
+- Org mode for writing
+- org-id for unbreakable links
+- ox-hugo for export
+- Hugo + Little Ocean theme for publishing
+
+** Navigation
+
+- Press =SPC n n= to find or create a note
+- Press =SPC n G= to search all notes
+- Press =SPC n I= to insert a link
+- Press =SPC n b= to see backlinks
+
+** Workflow
+
+1. Write notes in Org mode
+2. Save automatically exports to Hugo via ox-hugo
+3. Git commits and pushes automatically (enabled by default)
+4. Website updates on Cloudflare Pages
+
+Toggle auto-sync with =SPC n A= if you prefer manual control.
+
+Start writing your first note!
+
+* Linking
+
+You can navigate with links like [[id:20251209T212256.718187][this]].
