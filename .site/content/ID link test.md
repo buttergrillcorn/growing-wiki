@@ -11,7 +11,7 @@ Link the other note below:
 
 [Getting Started with Digital Gardens](getting-started.md#next-steps)
 
-Link back to the main page .
+Link back to the main page [here](_index.md#linking).
 
 
 ## Title for link {#title-for-link}
