@@ -9,9 +9,9 @@ draft = false
 
 Link the other note below:
 
-[Getting Started with Digital Gardens]({{< relref "getting-started.md#what-is-a-digital-garden" >}})
+[Getting Started with Digital Gardens](/notes/getting-started#next-steps)
 
-Link back to the main page [here]({{< relref "README.md#description" >}}).
+Link back to the main page [here](/#linking).
 
 
 ## Title for link {#title-for-link}
