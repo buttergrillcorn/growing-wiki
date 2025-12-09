@@ -9,8 +9,6 @@ draft = false
 
 Link the other note below:
 
-
-
 Link back to the main page here.
 
 
