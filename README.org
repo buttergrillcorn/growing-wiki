@@ -39,4 +39,4 @@ Start writing your first note!
 
 * Linking
 
-You can navigate with links like [[id:20251209T173518.333382][this]]
+You can navigate with links like [[id:20251209T173518.333382][this]].
