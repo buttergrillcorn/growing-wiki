@@ -1,3 +1,9 @@
+#+date: [2025-12-09 Tue]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: notes
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2025-12-09
+
 +++
 title = "Getting Started with Digital Gardens"
 author = ["James"]
