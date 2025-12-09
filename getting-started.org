@@ -6,9 +6,6 @@
 #+HUGO_DATE: 2025-12-09
 
 * What is a Digital Garden?
-:PROPERTIES:
-:ID:       20251209T173408.409551
-:END:
 
 A digital garden is a collection of evolving ideas, unlike a traditional blog:
 
