@@ -1,13 +1,12 @@
 #+title: Growing Wiki
 #+date: [2025-12-07 Sat]
-#+hugo_base_dir: .site
+#+hugo_base_dir: /home/james/wiki/.site
 #+hugo_section:
-#+export_file_name: _index
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2025-12-07
+notes
 
 * Description
-:PROPERTIES:
-:ID:       20251208T161906.782070
-:END:
 
 This is my personal notes wiki, using the working in public / digital garden methodology.
 
@@ -37,5 +36,5 @@ Start writing your first note!
 
 * Linking
 
-You can navigate with links like [[id:20251208T155855.936490][this]].
+You can navigate with links like this.
 
