@@ -13,8 +13,8 @@
   window.store = {{ $docs | jsonify | safeJS }};
 </script>
 
-{{ $lunrjs := resources.Get "js/lunr.min.js" }}
-<script src="{{$lunrjs.Permalink}}" type="text/javascript"></script>
+{{ $lunrjs := resources.Get "js/lunr.min.js" | resources.Fingerprint }}
+<script src="{{$lunrjs.RelPermalink}}" type="text/javascript" defer></script>
 
 {{ $searchjs := resources.Get "js/search.js" | resources.Fingerprint }}
-<script src="{{$searchjs.Permalink}}" type="text/javascript"></script>
+<script src="{{$searchjs.RelPermalink}}" type="text/javascript" defer></script>

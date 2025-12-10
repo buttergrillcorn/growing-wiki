@@ -52,3 +52,8 @@
     --search-extract-color: {{ index $.Site.Params.styles "searchExtractColor" | default "#aaaaaa" | safeCSS }};
   }
 </style>
+
+{{ $urijs := resources.Get "js/URI.js" | resources.Fingerprint }}
+<script src="{{ $urijs.RelPermalink }}" defer></script>
+{{ $pagejs := resources.Get "js/page.js" | resources.Fingerprint }}
+<script src="{{ $pagejs.RelPermalink }}" defer></script>

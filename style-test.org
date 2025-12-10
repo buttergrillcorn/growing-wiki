@@ -1,0 +1,204 @@
+#+TITLE: Style Test
+#+DATE: [2025-12-10 Wed]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: 
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2025-12-10
+#+EXPORT_FILE_NAME: style-test
+
+This page demonstrates all org-mode syntax elements and how they're rendered in the published site.
+
+* Headings
+
+** Level 2 Heading
+
+*** Level 3 Heading
+
+**** Level 4 Heading
+
+***** Level 5 Heading
+
+* Text Formatting
+
+Regular paragraph text with *bold*, /italic/, _underline_, +strikethrough+, and =highlighted text= (verbatim).
+
+You can also use ~code snippets~ inline like this.
+
+* Lists
+
+** Unordered Lists
+
+- First item
+- Second item
+  - Nested item 1
+  - Nested item 2
+    - Deep nested item
+- Third item
+- Fourth item with longer text to see how wrapping works in the design
+
+** Ordered Lists
+
+1. First numbered item
+2. Second numbered item
+   1. Nested numbered
+   2. Another nested
+3. Third item
+
+** Mixed Lists
+
+- Bullet point
+  1. Numbered sub-item
+  2. Another numbered
+- Another bullet
+  - Nested bullet
+    1. Deep numbered
+
+* Links
+
+** Internal Links
+
+Link to another note: [[denote:20251128T152020][test note for blog]]
+
+Link to heading in same file: [[*Tables][Jump to Tables section]]
+
+** External Links
+
+Visit [[https://orgmode.org][Org Mode website]] for documentation.
+
+* Code Blocks
+
+** Inline Code
+
+Use ~git status~ to check repository state.
+
+** Code Block
+
+#+begin_src python
+def fibonacci(n):
+    """Calculate fibonacci number recursively."""
+    if n <= 1:
+        return n
+    return fibonacci(n-1) + fibonacci(n-2)
+
+# Test it
+print(fibonacci(10))
+#+end_src
+
+** Another Language
+
+#+begin_src elisp
+(defun my-function (arg)
+  "Example Emacs Lisp function."
+  (message "Hello %s!" arg))
+
+(my-function "World")
+#+end_src
+
+* Tables
+
+** Simple Table
+
+| Name    | Age | City       |
+|---------+-----+------------|
+| Alice   |  30 | New York   |
+| Bob     |  25 | London     |
+| Charlie |  35 | Tokyo      |
+| Diana   |  28 | Paris      |
+
+** Table with Alignment
+
+| Left aligned   |   Center |   Right |
+| :------------- | :------: | ------: |
+| Text           |      123 |    4.56 |
+| More text      |      789 |   10.11 |
+
+* Quotes
+
+#+begin_quote
+This is a blockquote. It can span multiple lines and is used for citing text or emphasizing important passages.
+
+It supports multiple paragraphs as well.
+#+end_quote
+
+* Special Blocks
+
+** Example Block
+
+#+begin_example
+This is an example block.
+  It preserves formatting.
+    Including indentation.
+#+end_example
+
+** Verse Block
+
+#+begin_verse
+Roses are red
+Violets are blue
+Org mode is great
+And so are you
+#+end_verse
+
+* Emphasis and Highlighting
+
+- This has =highlighted text= which should be prominent
+- This has ~inline code~ which is different
+- This is *bold* and this is /italic/
+- This is _underlined_ and this is +strikethrough+
+
+* Images
+
+Example image link (if it exists):
+
++ :: 
+[[file:./images/example.png]]
+
+* Horizontal Rule
+
+Above the line.
+
+-----
+
+Below the line.
+
+* Definition Lists
+
+- Term 1 :: Definition of term 1
+- Term 2 :: Definition of term 2 with more details
+- Long Term :: This is a longer definition that might wrap to multiple lines to demonstrate how definition lists are rendered
+
+* Checkboxes
+
+- [ ] Unchecked item
+- [-] Partially checked item
+- [X] Checked item
+- [ ] Another unchecked with longer text to see wrapping behavior
+
+* Footnotes
+
+This text has a footnote reference[fn:1].
+
+Here's another reference[fn:test].
+
+* Backlinks Test
+
+This note should show backlinks from any note that links to it. Try creating a link to this test page from another note to see how backlinks appear at the bottom.
+
+* Summary
+
+This page demonstrates all major org-mode syntax elements. Use it to test:
+
+1. Typography and heading styles
+2. List formatting
+3. Table rendering
+4. Code block styling
+5. Link behavior
+6. Special blocks and quotes
+7. Text emphasis and highlighting
+8. Backlinks functionality
+
+Check the rendered HTML to ensure everything displays correctly with the org-mode inspired styling.
+
+[fn:1] This is the first footnote.
+
+[fn:test] This is a named footnote with more details.
