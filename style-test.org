@@ -176,7 +176,7 @@ Below the line.
 - [X] Checked item
 - [ ] Another unchecked with longer text to see wrapping behavior
 
-* Footnotes
+* Foot notes
 
 This text has a footnote reference[fn:1].
 
