@@ -128,11 +128,10 @@ print(fibonacci(10))
 
 ### Table with Alignment {#table-with-alignment}
 
-| Left aligned   | Center   | Right   |
-|----------------|----------|---------|
-| :------------- | :------: | ------: |
-| Text           | 123      | 4.56    |
-| More text      | 789      | 10.11   |
+| Left aligned | Center &lt;c&gt; | Right &lt;r&gt; |
+|--------------|------------------|-----------------|
+| Text         | 123              | 4.56            |
+| More text    | 789              | 10.11           |
 
 
 ## Quotes {#quotes}
