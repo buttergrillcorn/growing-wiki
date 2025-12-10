@@ -209,6 +209,13 @@ Long Term
 -   [ ] Another unchecked with longer text to see wrapping behavior
 
 
+## Foot notes {#foot-notes}
+
+This text has a footnote reference[^fn:1].
+
+Here's another reference[^fn:2].
+
+
 ## Backlinks Test {#backlinks-test}
 
 This note should show backlinks from any note that links to it. Try creating a link to this test page from another note to see how backlinks appear at the bottom.
