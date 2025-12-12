@@ -42,3 +42,5 @@ Start writing your first note!
 You can navigate with links like [this](/id-link-test/#title-for-link).
 
 [Problem](/problem/#re-evaluation)
+
+[Style Test](/style-test/#summary)

@@ -128,10 +128,20 @@ print(fibonacci(10))
 
 ### Table with Alignment {#table-with-alignment}
 
-| Left aligned | Center &lt;c&gt; | Right &lt;r&gt; |
-|--------------|------------------|-----------------|
-| Text         | 123              | 4.56            |
-| More text    | 789              | 10.11           |
+| Left aligned | Center | Right |
+|--------------|:------:|------:|
+| Text         | 123    | 4.56  |
+| More text    | 789    | 10.11 |
+
+
+### Longer Table {#longer-table}
+
+| Number | Name    | Age | Gender | City     |
+|--------|---------|-----|--------|----------|
+| 1      | Alice   | 30  | Female | New York |
+| 2      | Bob     | 25  | Male   | London   |
+| 3      | Charlie | 35  | Male   | Tokyo    |
+| 4      | Diana   | 28  | Femail | Paris    |
 
 
 ## Quotes {#quotes}
