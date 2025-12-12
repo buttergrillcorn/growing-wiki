@@ -231,7 +231,7 @@ Here's another reference[^fn:2].
 This note should show backlinks from any note that links to it. Try creating a link to this test page from another note to see how backlinks appear at the bottom.
 
 
-## Summary {#summary}
+## Summary Section {#summary-section}
 
 This page demonstrates all major org-mode syntax elements. Use it to test:
 
