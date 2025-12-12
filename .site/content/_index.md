@@ -1,11 +1,11 @@
 +++
-title = "Welcome!"
+title = "Hey there,"
 author = ["James"]
 date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
-## What this is all about? {#what-this-is-all-about}
+## Welcome to Growing Wiki {#welcome-to-growing-wiki}
 
 This is my personal notes wiki, using the working in public / digital garden methodology.
 
