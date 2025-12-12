@@ -51,3 +51,11 @@ notes = "/notes/:slug"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true  # Allow HTML in markdown (for ox-hugo exports)
+
+  [markup.highlight]
+    noClasses = false  # Use CSS classes instead of inline styles
+    lineNos = false
+    lineNumbersInTable = false
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false

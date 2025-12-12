@@ -124,7 +124,7 @@ print(fibonacci(10))
 |      1 | Alice   |  30 | Female | New York |
 |      2 | Bob     |  25 | Male   | London   |
 |      3 | Charlie |  35 | Male   | Tokyo    |
-|      4 | Diana   |  28 | Femail | Paris    |
+|      4 | Diana   |  28 | Female | Paris    |
 
 * Quotes
 
