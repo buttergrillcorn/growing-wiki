@@ -1,4 +1,4 @@
-baseURL = "https://your-site.pages.dev/"
+baseURL = "https://growing.wiki/"
 languageCode = "en-us"
 title = "Growing Wiki"
 theme = "little-ocean"
