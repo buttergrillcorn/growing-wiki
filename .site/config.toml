@@ -1,10 +1,3 @@
-#+date: [2025-12-12 Fri]
-#+HUGO_BASE_DIR: /home/james/wiki/.site
-#+HUGO_SECTION: 
-#+HUGO_DRAFT: false
-#+HUGO_DATE: 2025-12-12
-#+EXPORT_FILE_NAME: config
-
 baseURL = "https://growing.wiki/"
 languageCode = "en-us"
 title = "Growing Wiki"
