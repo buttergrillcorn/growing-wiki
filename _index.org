@@ -6,27 +6,23 @@
 #+HUGO_DATE: 2025-12-09
 #+EXPORT_FILE_NAME: _index
 
-* Welcome to Growing Wiki
+* Welcome to Growing Wiki 🌱
 :PROPERTIES:
 :ID:       20251209T214330.737315
 :END:
 
-This is my personal notes wiki, using the working in public / digital garden methodology.
+This is my personal notes wiki, using the [[id:20251212T222128.005838][working in public]] / [[id:20251212T222156.478599][digital garden]] methodology.
 
-Built with:
+* How the website is built:
+
+** Tools that I use
+
 - Org mode for writing
 - org-id for unbreakable links
 - ox-hugo for export
 - Hugo + Little Ocean theme for publishing
 
-** Navigation
-
-- Press =SPC n n= to find or create a note
-- Press =SPC n G= to search all notes
-- Press =SPC n I= to insert a link
-- Press =SPC n b= to see backlinks
-
-** Workflow
+** My note taking workflow
 
 1. Write notes in Org mode
 2. Save automatically exports to Hugo via ox-hugo
@@ -41,6 +37,6 @@ Start writing your first note!
 
 You can navigate with links like [[id:20251209T212256.718187][this]].
 
-[[id:20251209T175259.866567][Problem]]
+** Temporary (for testing purpose only)
 
 [[id:20251212T151847.338743][Style Test]]

@@ -5,11 +5,15 @@ date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
-## Welcome to Growing Wiki {#welcome-to-growing-wiki}
+## Welcome to Growing Wiki 🌱 {#welcome-to-growing-wiki}
 
-This is my personal notes wiki, using the working in public / digital garden methodology.
+This is my personal notes wiki, using the [working in public](/working-in-public/#what-does-working-in-public-mean) / [digital garden](/digital-garden/#what-is-a-digital-garden) methodology.
 
-Built with:
+
+## How the website is built: {#how-the-website-is-built}
+
+
+### Tools that I use {#tools-that-i-use}
 
 -   Org mode for writing
 -   org-id for unbreakable links
@@ -17,15 +21,7 @@ Built with:
 -   Hugo + Little Ocean theme for publishing
 
 
-### Navigation {#navigation}
-
--   Press `SPC n n` to find or create a note
--   Press `SPC n G` to search all notes
--   Press `SPC n I` to insert a link
--   Press `SPC n b` to see backlinks
-
-
-### Workflow {#workflow}
+### My note taking workflow {#my-note-taking-workflow}
 
 1.  Write notes in Org mode
 2.  Save automatically exports to Hugo via ox-hugo
@@ -41,6 +37,7 @@ Start writing your first note!
 
 You can navigate with links like [this](/id-link-test/#title-for-link).
 
-[Problem](/problem/#re-evaluation)
+
+### Temporary (for testing purpose only) {#temporary--for-testing-purpose-only}
 
 [Style Test](/style-test/#summary-section)
