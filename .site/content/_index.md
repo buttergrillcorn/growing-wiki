@@ -1,11 +1,11 @@
 +++
-title = "Index"
+title = "Welcome!"
 author = ["James"]
 date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
-## Description {#description}
+## What this is all about? {#what-this-is-all-about}
 
 This is my personal notes wiki, using the working in public / digital garden methodology.
 
