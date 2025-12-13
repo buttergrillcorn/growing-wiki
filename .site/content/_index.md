@@ -10,13 +10,9 @@ draft = false
 This is my personal notes wiki, using the [working in public](/working-in-public/#what-does-working-in-public-mean) / [digital garden](/digital-garden/#what-is-a-digital-garden) methodology.
 It is essentially an **always growing** collection of all my notes, ideas, thoughts and experiments that I want to share with the world, with you.
 
-<div class="verse">
-
-It is **not** polished content;<br />
-It is **not** a blog;<br />
-It is a **work in progress** you can wander through and explore.<br />
-
-</div>
+> It is **not** polished content;
+> It is **not** a blog;
+> It is a **work in progress** you can wander through and explore.
 
 
 ## How the website is built: {#how-the-website-is-built}
