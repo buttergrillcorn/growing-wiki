@@ -12,7 +12,7 @@ It is essentially an **always growing** collection of all my notes, ideas, thoug
 
 > It is **not** polished content; <br />
 > It is **not** a blog; <br />
-> It is a **work in progress** you can wander through and explore.
+> It is a <span class="underline">work in progress</span> you can wander through and explore.
 
 
 ## How the website is built: {#how-the-website-is-built}
