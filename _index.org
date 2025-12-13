@@ -6,7 +6,7 @@
 #+HUGO_DATE: 2025-12-09
 #+EXPORT_FILE_NAME: _index
 
-* 🌱 Welcome to Growing Wiki 
+* 🌱  Welcome to Growing Wiki 
 :PROPERTIES:
 :ID:       20251209T214330.737315
 :END:
