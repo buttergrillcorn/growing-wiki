@@ -14,42 +14,40 @@ It is essentially an **always growing** collection of all my notes, ideas, thoug
 
 It is **NOT** polished content; <br />
 It is **NOT** a blog; <br />
-It is a **work-in-progress** you can wander through and explore.<br />
+It is a **W-I-P** you can wander through and explore.<br />
 
 </div>
 
 
-### And what's the point of it? {#and-what-s-the-point-of-it}
+### and what's the point of it? {#and-what-s-the-point-of-it}
 
 
-## How the website is built: {#how-the-website-is-built}
+## how the website is built: {#how-the-website-is-built}
 
 
-### Tools that I use {#tools-that-i-use}
+### tools that i use {#tools-that-i-use}
 
--   Org mode for writing
+-   org mode for writing
 -   org-id for unbreakable links
 -   ox-hugo for export
--   Hugo + Little Ocean theme for publishing
+-   hugo + little ocean theme for publishing
 
 
-### My note taking workflow {#my-note-taking-workflow}
+### my note taking workflow {#my-note-taking-workflow}
 
-1.  Write notes in Org mode
-2.  Save automatically exports to Hugo via ox-hugo
-3.  Git commits and pushes automatically (enabled by default)
-4.  Website updates on Cloudflare Pages
+1.  write notes in org mode
+2.  save automatically exports to hugo via ox-hugo
+3.  git commits and pushes automatically (enabled by default)
+4.  website updates on cloudflare pages
 
-Toggle auto-sync with `SPC n A` if you prefer manual control.
+toggle auto-sync with `spc n a` if you prefer manual control.
 
-Start writing your first note!
-
-
-## Linking {#linking}
-
-You can navigate with links like [this](/id-link-test/#title-for-link).
+start writing your first note!
 
 
-### Temporary (for testing purpose only) {#temporary--for-testing-purpose-only}
+## linking {#linking}
 
-[Style Test](/style-test/#summary-section)
+you can navigate with links like .
+
+
+### temporary (for testing purpose only) {#temporary--for-testing-purpose-only}
