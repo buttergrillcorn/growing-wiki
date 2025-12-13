@@ -5,21 +5,23 @@ date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
-## Welcome to Growing Wiki  🌱 {#welcome-to-growing-wiki}
+## Welcome to the Growing Wiki  🌱 {#welcome-to-the-growing-wiki}
 
 This is my personal notes wiki, using the [working in public](/working-in-public/#what-does-working-in-public-mean) / [digital garden](/digital-garden/#what-is-a-digital-garden) method.
-It is essentially an **always growing** collection of all my notes, ideas, thoughts and experiments that I want to share with the world, with you.
+This is an **always growing** collection of all my notes, ideas, thoughts and experiments that I want to share with the world, with you.
 
 <div class="verse">
 
-It is **NOT** polished content; <br />
-It is **NOT** a blog; <br />
-It is a **W-I-P** [^fn:1] you can wander through and explore.<br />
+This is **NOT** polished content. <br />
+This is **NOT** a blog. <br />
+This is a **W-I-P** [^fn:1] you can wander through and explore.<br />
 
 </div>
 
 
-### and what's the point of it? {#and-what-s-the-point-of-it}
+### "Why?" {#why}
+
+The original idea sprouted quite a while back. I would say ever since I have encountered Logseq, Obsidian and the idea of Zettelkasten.
 
 
 ## how the website is built: {#how-the-website-is-built}
@@ -54,7 +56,6 @@ you can navigate with links like [this](/id-link-test/#title-for-link).
 
 [Style Test](/style-test/#summary-section)
 
-
-## Footnote {#footnote}
+---
 
 [^fn:1]: Work-In-Progress or Work-In-Public

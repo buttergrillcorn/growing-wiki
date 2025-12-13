@@ -22,7 +22,8 @@ This is a *W-I-P* [fn:1] you can wander through and explore.
 
 ** "Why?"
 
-The original idea sprouted quite 
+The original idea sprouted quite a while back. I would say ever since I have encountered Logseq, Obsidian and the idea of Zettelkasten.
+
 
 * how the website is built:
 
@@ -52,6 +53,6 @@ you can navigate with links like [[id:20251209T212256.718187][this]].
 
 [[id:20251212T151847.338743][Style Test]]
 
-* Footnote
+------
 
 [fn:1] Work-In-Progress or Work-In-Public
