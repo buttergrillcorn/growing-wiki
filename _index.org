@@ -17,7 +17,7 @@ It is essentially an *always growing* collection of all my notes, ideas, thought
 #+BEGIN_VERSE
 It is *NOT* polished content; \\
 It is *NOT* a blog; \\
-It is a *W-I-P* you can wander through and explore.
+It is a *W-I-P* [fn:1] you can wander through and explore.
 #+end_verse
 
 ** and what's the point of it?
