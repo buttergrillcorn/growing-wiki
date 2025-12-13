@@ -14,8 +14,8 @@ It is essentially an **always growing** collection of all my notes, ideas, thoug
 
 <div class="org-center">
 
-It is **not** polished content; _/
-It is **not** a blog; //_
+It is **not** polished content; <br />
+It is **not** a blog; <br />
 It is a **work in progress** you can wander through and explore.
 
 </div>
