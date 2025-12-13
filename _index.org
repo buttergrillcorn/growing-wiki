@@ -46,8 +46,12 @@ start writing your first note!
 
 * linking
 
-you can navigate with links like [[id:20251209t212256.718187][this]].
+you can navigate with links like [[id:20251209T212256.718187][this]].
 
 ** temporary (for testing purpose only)
 
-[[id:20251212t151847.338743][style test]]
+[[id:20251212T151847.338743][Style Test]]
+
+* Footnote
+
+[fn:1] Work-In-Progress or Work-In-Public

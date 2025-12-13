@@ -14,7 +14,7 @@ It is essentially an **always growing** collection of all my notes, ideas, thoug
 
 It is **NOT** polished content; <br />
 It is **NOT** a blog; <br />
-It is a **W-I-P** you can wander through and explore.<br />
+It is a **W-I-P** [^fn:1] you can wander through and explore.<br />
 
 </div>
 
@@ -47,7 +47,14 @@ start writing your first note!
 
 ## linking {#linking}
 
-you can navigate with links like .
+you can navigate with links like [this](/id-link-test/#title-for-link).
 
 
 ### temporary (for testing purpose only) {#temporary--for-testing-purpose-only}
+
+[Style Test](/style-test/#summary-section)
+
+
+## Footnote {#footnote}
+
+[^fn:1]: Work-In-Progress or Work-In-Public
