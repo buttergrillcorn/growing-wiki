@@ -1,28 +1,28 @@
 #+title: Hey there,
 #+date: [2025-12-09 Tue]
-#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_BASE_DIR: /data/data/com.termux/files/home/wiki/.site
 #+HUGO_SECTION: 
 #+HUGO_DRAFT: false
 #+HUGO_DATE: 2025-12-09
 #+EXPORT_FILE_NAME: _index
 
-* Welcome to Growing Wiki  🌱
+* Welcome to the Growing Wiki  🌱
 :PROPERTIES:
 :ID:       20251209T214330.737315
 :END:
 
 This is my personal notes wiki, using the [[id:20251212T222128.005838][working in public]] / [[id:20251212T222156.478599][digital garden]] method.
-It is essentially an *always growing* collection of all my notes, ideas, thoughts and experiments that I want to share with the world, with you. 
+This is an *always growing* collection of all my notes, ideas, thoughts and experiments that I want to share with the world, with you. 
 
 #+BEGIN_VERSE
-It is *NOT* polished content; \\
-It is *NOT* a blog; \\
-It is a *W-I-P* [fn:1] you can wander through and explore.
+This is *NOT* polished content. \\
+This is *NOT* a blog. \\
+This is a *W-I-P* [fn:1] you can wander through and explore.
 #+end_verse
 
-** and what's the point of it?
+** "Why?"
 
-
+The original idea sprouted quite 
 
 * how the website is built:
 
