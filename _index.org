@@ -20,6 +20,7 @@ This is *NOT* a blog. \\
 This is a *W-I-P* [fn:1] you can wander through and explore.
 #+end_verse
 
+
 ** "Why?"
 
 The original idea sprouted quite a while back. I would say ever since I have encountered Logseq, Obsidian and the idea of Zettelkasten.
