@@ -6,10 +6,14 @@
 #+HUGO_DATE: 2025-12-14
 #+EXPORT_FILE_NAME: main-entrance
 
-* "What"
+* What
 :PROPERTIES:
 :ID:       20251214T165008.884123
 :END:
 
 This is my attempt at growing my own [[id:20251214T182547.516206][Digital Garden]].
+
+* Why
+
+* How 
 
