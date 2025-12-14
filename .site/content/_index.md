@@ -16,7 +16,6 @@ draft = false
 
  🧑‍🌾 tending : irregular
 
-
  🌿 habitat :
 
    🌱 soil : fertile
