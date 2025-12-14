@@ -16,6 +16,10 @@ In this ever-growing garden, you will find things like:
 -   Attempted writings
 -   Brewing thoughts
 
+The point is **not** to have a polished final piece;
+
+But rather a W-I-P that is constantly evolving and `growing`.
+
 
 ## Why {#why}
 
