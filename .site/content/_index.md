@@ -19,7 +19,7 @@ draft = false
 ```
 
 
-## This is my [digital garden](/digital-garden/#what-is-a-digital-garden) {#this-is-my-digital-garden--digital-garden-dot-md}
+## The `entrance` {#the-entrance}
 
 <div class="verse">
 

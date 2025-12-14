@@ -19,7 +19,7 @@
  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #+end_example
 
-* This is my [[id:20251212T222156.478599][digital garden]]
+* The =entrance=
 :PROPERTIES:
 :ID:       20251209T214330.737315
 :END:
