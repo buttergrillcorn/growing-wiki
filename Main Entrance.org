@@ -6,7 +6,7 @@
 #+HUGO_DATE: 2025-12-14
 #+EXPORT_FILE_NAME: main-entrance
 
-* "What?"
+* What?
 :PROPERTIES:
 :ID:       20251214T154820.898744
 :END:
