@@ -39,4 +39,6 @@ draft = false
 ---
 
 
-### [Entrance](/meta/#the-entrance) {#entrance--meta-dot-md}
+### Ready? {#ready}
+
+[Entrance](/meta/#the-entrance)
