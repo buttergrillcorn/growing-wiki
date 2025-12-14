@@ -9,22 +9,22 @@ draft = false
 
 ```text
 --------------------------------
-|
-| 🌱 state : growing
-| 🚶 path : exploratory
-| 🧑‍🌾 tending : irregular
-|
-| 🌿 habitat:
-|   🌾 soil : fertile
-|   ⛅️ light : uneven
-|   ☀️ weather : shifting
-|   🍃 stability : delicate
-|
-| 🪴 process:
-|   🌰 seeds: [ 📖, ✍️, 👀, 🛠 ]
-|   ✂️ care: [ 🔗, 🔄, 🍂 ]
-|   🌼 sprouts: [ 📝, ❓, ✨ ]
-|
+
+ 🌱 state : growing
+ 🚶 path : exploratory
+ 🧑‍🌾 tending : irregular
+
+ 🌿 habitat:
+   🌾 soil : fertile
+   ⛅️ light : uneven
+   ☀️ weather : shifting
+   🍃 stability : delicate
+
+ 🪴 process:
+   🌰 seeds: [ 📖, ✍️, 👀, 🛠 ]
+   ✂️ care: [ 🔗, 🔄, 🍂 ]
+   🌼 sprouts: [ 📝, ❓, ✨ ]
+
 --------------------------------
 ```
 
