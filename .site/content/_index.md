@@ -9,8 +9,6 @@ draft = false
 
 <a id="code-snippet--Garden"></a>
 ```cfg
-garden :
-
   🌱 state : growing
 
   🧭 mode : exploratory

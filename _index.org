@@ -13,8 +13,6 @@
 
 #+name: Garden
 #+begin_src conf
-garden :
-
   🌱 state : growing
 
   🧭 mode : exploratory
