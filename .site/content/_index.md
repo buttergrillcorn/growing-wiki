@@ -17,9 +17,8 @@ garden:
 
   🧑‍🌾 tending: irregular
 
-  ⏳ tempo: slow
 
-  🌿 environment:
+  🌿 habitat :
 
     🌱 soil: fertile
     ⛅️ light: uneven
