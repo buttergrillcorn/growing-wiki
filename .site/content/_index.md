@@ -11,10 +11,27 @@ draft = false
 ```cfg
 garden:
   🌱 state: growing
-  🌿 soil: fertile
-  🌤 weather: unpredictable
-  🧑‍🌾 tending: best_effort
   🧭 mode: exploratory
+  🧑‍🌾 tending: irregular
+
+  🌿 environment:
+    soil: fertile
+    light: uneven
+    weather: unpredictable
+
+  🧪 process:
+    inputs:
+      - reading
+      - writing
+      - tinkering
+    methods:
+      - linking
+      - revising
+      - forgetting
+    outputs:
+      - notes
+      - questions
+      - fragments
 ```
 
 <div class="verse">
