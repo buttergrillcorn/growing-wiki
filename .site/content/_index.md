@@ -23,9 +23,9 @@ draft = false
    ✂️ care: [ 🔗, 🔄, 🍂 ]
    🌼 sprouts: [ 📝, ❓, ✨ ]
 
+\\
 ```
 
-
-### Ready to explore? {#ready-to-explore}
+---
 
 ➡️ [Entrance](/main-entrance/#how)
