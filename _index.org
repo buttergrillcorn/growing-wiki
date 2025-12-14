@@ -12,7 +12,7 @@
 :END:
 
 #+begin_src conf 
- ###
+ #                              #
 
  🌱 state : growing
  🚶 path : exploratory
@@ -29,7 +29,7 @@
    ✂️ care: [ 🔗, 🔄, 🍂 ]
    🌼 sprouts: [ 📝, ❓, ✨ ]
   
- ###
+ #                              #
 #+end_src
 
 ** Ready to explore?
