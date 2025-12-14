@@ -1,4 +1,4 @@
-#+title: The Entrance
+#+title: Entrance
 #+date: [2025-12-14 Sun 15:48]
 #+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: 
