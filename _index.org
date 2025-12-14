@@ -11,7 +11,7 @@
 :ID:       20251209T214330.737315
 :END:
 
-#+begin_src yaml
+#+begin_src conf 
 
  🌱 state : growing
  🧭 mode : exploratory

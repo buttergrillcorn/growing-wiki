@@ -7,7 +7,7 @@ draft = false
 
 ## The Garden {#the-garden}
 
-```yaml
+```cfg
 
  🌱 state : growing
  🧭 mode : exploratory
