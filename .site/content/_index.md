@@ -46,4 +46,4 @@ draft = false
 
 ---
 
--&gt; [Entrance](/meta/#content)
+---------&gt; [Entrance](/meta/#the-entrance)
