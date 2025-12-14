@@ -4,7 +4,7 @@
 #+HUGO_SECTION: 
 #+HUGO_DRAFT: false
 #+HUGO_DATE: 2025-12-14
-#+EXPORT_FILE_NAME: Main Entrance
+#+EXPORT_FILE_NAME: main-entrance
 
 * "What?"
 :PROPERTIES:
