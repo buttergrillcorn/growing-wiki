@@ -11,7 +11,6 @@
 :ID:       20251209T214330.737315
 :END:
 
-#+name: Garden
 #+begin_src conf
 
  🌱 state : growing
@@ -49,19 +48,6 @@
      - fragments
 #+end_src
 
-#+BEGIN_VERSE
-This is *NOT* polished content. \\
-This is *NOT* a blog. \\
-This is a *W-I-P* [fn:1] you can wander through and explore.
-#+end_verse
+-----
 
-** "Why?"
-
-The original idea sprouted quite a while back. I would say ever since I have encountered Logseq, Obsidian and the idea of Zettelkasten.
-
-I loved the idea of retaining knowledge through note taking and collection of information. 
-
-
-------
-
-[fn:1] Work-In-Progress or Work-In-Public
+-> Entrance
