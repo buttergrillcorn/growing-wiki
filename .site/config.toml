@@ -1,6 +1,6 @@
 baseURL = "https://growing.wiki/"
 languageCode = "en-us"
-title = "Growing Wiki"
+title = "Growing WiKi"
 theme = "little-ocean"
 buildFuture = true
 
