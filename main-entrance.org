@@ -6,6 +6,8 @@
 #+HUGO_DATE: 2025-12-14
 #+EXPORT_FILE_NAME: main-entrance
 
+Welcome to the Growing WiKi
+
 * "What?"
 :PROPERTIES:
 :ID:       20251214T165008.884123
