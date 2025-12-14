@@ -1,11 +1,11 @@
 +++
-title = "The Garden 🪴"
+title = "🪴"
 author = ["James"]
 date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
-## This is the entrance {#this-is-the-entrance}
+## The Garden {#the-garden}
 
 <a id="code-snippet--Garden"></a>
 ```cfg
