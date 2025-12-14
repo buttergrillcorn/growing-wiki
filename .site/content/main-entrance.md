@@ -8,4 +8,3 @@ draft = false
 ## "What?" {#what}
 
 This is my attempt at growing my own [Digital Garden](/digital-garden/#content).
-In this garden, I will be planting seeds and
