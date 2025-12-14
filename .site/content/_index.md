@@ -21,20 +21,20 @@ draft = false
 
  🧪 process :
    📥 inputs :
-        - reading
-        - writing
-        - watching
-        - tinkering
+      - reading
+      - writing
+      - watching
+      - tinkering
 
    🔁 methods :
-        - linking
-        - revising
-        - forgetting
+      - linking
+      - revising
+      - forgetting
 
    📤 outputs :
-        - notes
-        - questions
-        - fragments
+      - notes
+      - questions
+      - fragments
 
 ```
 
