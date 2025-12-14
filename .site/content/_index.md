@@ -5,9 +5,7 @@ date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
-## To my [digital garden](/digital-garden/#what-is-a-digital-garden) {#to-my-digital-garden--digital-garden-dot-md}
-
----
+## This is my [digital garden](/digital-garden/#what-is-a-digital-garden) {#this-is-my-digital-garden--digital-garden-dot-md}
 
 ```text
         ,,,                      ,,,

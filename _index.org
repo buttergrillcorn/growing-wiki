@@ -6,12 +6,12 @@
 #+HUGO_DATE: 2025-12-09
 #+EXPORT_FILE_NAME: _index
 
-* To my [[id:20251212T222156.478599][digital garden]]
+* This is my [[id:20251212T222156.478599][digital garden]]
 :PROPERTIES:
 :ID:       20251209T214330.737315
 :END:
 
------
+
 
 #+begin_example
         ,,,                      ,,,
