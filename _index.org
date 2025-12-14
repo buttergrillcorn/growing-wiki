@@ -7,7 +7,15 @@
 #+EXPORT_FILE_NAME: _index
 
 #+begin_summary
-· · ─ ·𖥸· ─ · ·
+#+begin_example
+         wWWWw               wWWWw
+   vVVVv (___) wWWWw         (___)  vVVVv
+   (___)  ~Y~  (___)  vVVVv   ~Y~   (___)
+    ~Y~   \|    ~Y~   (___)    |/    ~Y~
+    \|   \ |/   \| /  \~Y~/   \|    \ |/
+   \\|// \\|// \\|/// \\|//  \\|// \\\|///
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#+end_example
 #+end_summary
 
 
