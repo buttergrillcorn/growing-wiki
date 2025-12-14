@@ -1,12 +1,12 @@
-#+title: Working In Public
+#+title: Learning In Public
 #+date: [2025-12-12 Fri 22:20]
 #+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: 
 #+HUGO_DRAFT: false
 #+HUGO_DATE: 2025-12-12
-#+EXPORT_FILE_NAME: Working In Public
+#+EXPORT_FILE_NAME: Learning In Public
 
-* What does "working in public" mean?
+* What does "learning in public" mean?
 :PROPERTIES:
 :ID:       20251212T222128.005838
 :END:
