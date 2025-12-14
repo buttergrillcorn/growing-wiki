@@ -1,4 +1,4 @@
-#+title: 🪴 Welcome !
+#+title: 🪴 Welcome . . .
 #+date: [2025-12-09 Tue]
 #+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: 
