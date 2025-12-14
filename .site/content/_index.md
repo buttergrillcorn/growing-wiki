@@ -18,7 +18,7 @@ garden:
   🌿 environment:
     🌱 soil: fertile
     ☁️ light: uneven
-      weather: unpredictable
+    ⛅ weather: unpredictable
     🍃 stability: variable
 
   🧪 process:
