@@ -7,6 +7,8 @@ draft = false
 
 ## To my [digital garden](/digital-garden/#what-is-a-digital-garden) {#to-my-digital-garden--digital-garden-dot-md}
 
+---
+
 ```text
         ,,,                      ,,,
        {{{}}    ,,,             {{{}}    ,,,
