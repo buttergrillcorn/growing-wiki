@@ -6,6 +6,3 @@ draft = false
 +++
 
 ## <span class="org-todo todo TODO">TODO</span> Content {#content}
-
-
-## <span class="org-todo todo TODO">TODO</span>  {#d41d8c}
