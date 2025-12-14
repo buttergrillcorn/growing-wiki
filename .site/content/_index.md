@@ -9,11 +9,12 @@ draft = false
 
 <a id="code-snippet--Garden"></a>
 ```cfg
-garden_state="🌱 growing"
-tending="irregular"
-ideas="in_progress"
-confidence="provisional"
-mode="🧭 exploratory"
+garden:
+  🌱 state: growing
+  🌿 soil: fertile
+  🌤 weather: unpredictable
+  🧑‍🌾 tending: best_effort
+  🧭 mode: exploratory
 ```
 
 <div class="verse">

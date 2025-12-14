@@ -13,11 +13,12 @@
 
 #+name: Garden
 #+begin_src conf
-garden_state="🌱 growing"
-tending="irregular"
-ideas="in_progress"
-confidence="provisional"
-mode="🧭 exploratory"
+garden:
+  🌱 state: growing
+  🌿 soil: fertile
+  🌤 weather: unpredictable
+  🧑‍🌾 tending: best_effort
+  🧭 mode: exploratory
 #+end_src
 
 #+BEGIN_VERSE
