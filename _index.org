@@ -7,8 +7,7 @@
 #+EXPORT_FILE_NAME: _index
 
 #+begin_summary
-˖°𖡼.𖤣𖥧𖡼.𖤣𖥧.𖡼.𖤣𖥧𖡼.𖤣𖥧˖°𖡼.𖤣𖥧𖡼.𖤣𖥧.𖡼.𖤣𖥧𖡼.𖤣𖥧
-𓇢𓆸
+· · ─ ·𖥸· ─ · ·
 #+end_summary
 
 
