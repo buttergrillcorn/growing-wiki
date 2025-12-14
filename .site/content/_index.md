@@ -10,20 +10,20 @@ draft = false
 <a id="code-snippet--Garden"></a>
 ```cfg
 [garden.system]
-state       = growing
-phase       = cultivation
-conditions  = variable
-tending     = irregular
+state: growing
+phase: cultivation
+conditions: variable
+tending: irregular
 
 [garden.environment]
-soil        = fertile
-light       = uneven
-weather     = unpredictable
+soil: fertile
+light: uneven
+weather: unpredictable
 
 [garden.process]
-inputs      = reading, writing, tinkering
-methods     = linking, revising, forgetting
-outputs     = notes, questions, fragments
+inputs: reading, writing, tinkering
+methods: linking, revising, forgetting
+outputs: notes, questions, fragments
 ```
 
 <div class="verse">
