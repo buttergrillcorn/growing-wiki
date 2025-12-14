@@ -8,6 +8,7 @@ draft = false
 ##  {#d41d8c}
 
 ```cfg
+#
 
 🌱 state : growing
 🚶 path : exploratory
@@ -23,6 +24,8 @@ draft = false
   🌰 seeds: [ 📖, ✍️, 👀, 🛠 ]
   ✂️ care: [ 🔗, 🔄, 🍂 ]
   🌼 sprouts: [ 📝, ❓, ✨ ]
+
+#
 ```
 
 
