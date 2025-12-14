@@ -25,9 +25,9 @@ garden :
   🌿 habitat :
 
     🌱 soil : fertile
-    ⛅️ light : dappled
-    ☀️ weather : unpredictable
-    🍃 stability : emerging
+    ⛅️ light : uneven
+    ☀️ weather : shifting
+    🍃 stability : variable
 
   🧪 process :
 
