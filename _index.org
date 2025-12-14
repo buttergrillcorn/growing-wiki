@@ -32,5 +32,5 @@
 ################################
 #+end_example
 
-* Ready to explore?
-➡️ *[[id:20251214T165008.884123][Entrance]]*
+*Ready to explore?* \\
+➡️ **[[id:20251214T165008.884123][Entrance]]**
