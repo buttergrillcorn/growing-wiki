@@ -36,8 +36,6 @@ draft = false
       - fragments
 ```
 
----
-
 
 ### Ready to explore? {#ready-to-explore}
 

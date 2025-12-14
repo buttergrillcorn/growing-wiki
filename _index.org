@@ -40,8 +40,6 @@
       - fragments
 #+end_src
 
------
-
 ** Ready to explore?
 
 -> [[id:20251214T154820.898744][Entrance]]
