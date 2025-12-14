@@ -7,7 +7,7 @@ draft = false
 
 ## Welcome to the Growing Wiki  🌱 {#welcome-to-the-growing-wiki}
 
-This is my personal notes wiki, using the [working in public](/working-in-public/#what-does-working-in-public-mean) / [digital garden](/digital-garden/#what-is-a-digital-garden) method.
+This is my personal notes wiki, using the [learning in public](/learning-in-public/#what-does-learning-in-public-mean) / [digital garden](/digital-garden/#what-is-a-digital-garden) method.
 This is an **always growing** collection of all my notes, ideas, thoughts and experiments that I want to share with the world, with you.
 
 <div class="verse">
