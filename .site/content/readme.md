@@ -35,8 +35,3 @@ Built with:
 Toggle auto-sync with `SPC n A` if you prefer manual control.
 
 Start writing your first note!
-
-
-## Linking {#linking}
-
-You can navigate with links like [this](/id-link-test/#title-for-link).

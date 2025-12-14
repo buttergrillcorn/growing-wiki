@@ -1,0 +1,13 @@
+#+title: _index
+#+date: [2025-12-14 Sun 16:51]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: 
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2025-12-14
+#+EXPORT_FILE_NAME: index
+
+* Content
+:PROPERTIES:
+:ID:       20251214T165134.986673
+:END:
+

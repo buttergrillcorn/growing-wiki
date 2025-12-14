@@ -43,11 +43,9 @@ Return to notes and expand them as you learn more. Digital gardens are living do
 
 * Next Steps
 
-- Create your first note, and link it [[id:20251209T175259.866567][here]]
+- Create your first note, and link it [[id:20251214T165134.986673][here]]
 - Experiment with linking between notes
 - Share your digital garden with others
 
 Remember: Start small, iterate often, and enjoy the journey!
 
-A link:
-[[id:20251209T220116.644872][ID link test]]

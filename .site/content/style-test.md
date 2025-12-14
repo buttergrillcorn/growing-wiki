@@ -70,14 +70,14 @@ You can also use `code snippets` inline like this.
 
 ### Internal Links {#internal-links}
 
-Link to another note:
+Link to another note: [Getting Started with Digital Gardens](/getting-started/#next-steps)
 
-Link to heading in same file:
+Link to heading in same file: [Jump to Tables section](#tables)
 
 
 ### External Links {#external-links}
 
-Visit for documentation.
+Visit [Org Mode website](https://orgmode.org) for documentation.
 
 
 ## Code Blocks {#code-blocks}
@@ -188,6 +188,8 @@ And so are you<br />
 Example image link (if it exists):
 
 -   ::
+
+{{< figure src="./images/example.png" >}}
 
 
 ## Horizontal Rule {#horizontal-rule}

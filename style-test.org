@@ -60,7 +60,7 @@ You can also use ~code snippets~ inline like this.
 
 ** Internal Links
 
-Link to another note: [[denote:20251128T152020][test note for blog]]
+Link to another note: [[id:20251209T212650.246649][Getting Started with Digital Gardens]] 
 
 Link to heading in same file: [[*Tables][Jump to Tables section]]
 
