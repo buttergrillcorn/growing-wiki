@@ -6,11 +6,10 @@
 #+HUGO_DATE: 2025-12-09
 #+EXPORT_FILE_NAME: _index
 
-#+begin_src make
-[ garden state ]
-seeds: planted
-weeds: present
-paths: forming
+#+begin_src toml 
+Status: 🌱 growing
+Last tended: recently
+Weather: unpredictable
 #+end_src
 * This is the entrance
 :PROPERTIES:

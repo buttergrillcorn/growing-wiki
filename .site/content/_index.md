@@ -5,11 +5,10 @@ date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
-```make
-[ garden state ]
-seeds: planted
-weeds: present
-paths: forming
+```toml
+Status: 🌱 growing
+Last tended: recently
+Weather: unpredictable
 ```
 
 
