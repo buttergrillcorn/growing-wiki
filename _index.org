@@ -6,33 +6,16 @@
 #+HUGO_DATE: 2025-12-09
 #+EXPORT_FILE_NAME: _index
 
-#+begin_example
-          ,,,
-         {{{}}    ,,,
-      ,,, ~Y~    {{{}},,,
-     {{}}} |/,,,  ~Y~{{}}}
-  ,,, ~Y~ \|{{}}}/\|/ ~Y~  ,,,
- {{}}}\|/ \|/~Y~  \|,,,|/ {{}}}
-  ~Y~ \|/ \|/\|/  \{{{}}/  ~Y~
-  \|/ \|/\\|/\|/ \\|~Y~//  \|/
-  \|/ \|//\|/\|/,\\|/|/|// \|/
- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-#+end_example
-
 * This is the entrance
 :PROPERTIES:
 :ID:       20251209T214330.737315
 :END:
-
-
-
 
 #+BEGIN_VERSE
 This is *NOT* polished content. \\
 This is *NOT* a blog. \\
 This is a *W-I-P* [fn:1] you can wander through and explore.
 #+end_verse
-
 
 ** "Why?"
 
