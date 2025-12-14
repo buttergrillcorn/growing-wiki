@@ -9,7 +9,7 @@ draft = false
 
 ```cfg
 
- 🌲 state : growing
+ 🪴 state : growing
  🚶 path : exploratory
  🧑‍🌾 tending : irregular
 
