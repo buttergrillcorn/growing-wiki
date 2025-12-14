@@ -28,9 +28,3 @@ draft = false
 ```
 
 ---
-
-<div class="verse">
-
-➡️    [Entrance](/main-entrance/#how)<br />
-
-</div>

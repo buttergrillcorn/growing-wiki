@@ -33,6 +33,6 @@
 
 -----
 
-#+begin_verse
-  ➡️    [[id:20251214T165008.884123][Entrance]]
-#+end_verse
+#+begin_comment
+  ➡️ [[id:20251214T165008.884123][Entrance]]
+#+end_comment
