@@ -1,13 +1,24 @@
-{{/* Build a JSON-safe search index for all pages */}}
+{{/* Build a JSON-safe search index for all pages (excluding search and index pages) */}}
 {{- $pages := .Site.AllPages -}}
 {{- $docs := slice -}}
 {{- range $pages -}}
-  {{- $docs = $docs | append (dict
-      "id" .Permalink
-      "title" .Title
-      "tags" .Params.tags
-      "content" (.Content | plainify | htmlUnescape)
-      "url" .Permalink) -}}
+  {{/* Exclude search page and index pages from search results */}}
+  {{- $isSearchPage := eq .Type "search" -}}
+  {{- $isIndexPage := false -}}
+  {{- if .File -}}
+    {{- $isIndexPage = eq .File.BaseFileName "_index" -}}
+  {{- end -}}
+  {{- if and (not $isSearchPage) (not $isIndexPage) -}}
+    {{- $growth := partial "growth-level.html" . -}}
+    {{- $docs = $docs | append (dict
+        "id" .Permalink
+        "title" .Title
+        "tags" .Params.tags
+        "content" (.Content | plainify | htmlUnescape)
+        "url" .Permalink
+        "emoji" $growth.emoji
+        "level" $growth.level) -}}
+  {{- end -}}
 {{- end -}}
 <script>
   window.store = {{ $docs | jsonify | safeJS }};
