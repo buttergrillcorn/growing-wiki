@@ -7,7 +7,14 @@ draft = false
 
 ## What {#what}
 
-This is my attempt at growing my own [Digital Garden](/digital-garden/#content).
+This is my attempt at growing my own [Digital Garden](/digital-garden/#content) and [learning in public](/learning-in-public/#content).
+
+In this ever-growing garden, you will find things like:
+
+-   Rough ideas
+-   Unfinished notes
+-   Attempted writings
+-   Brewing thoughts
 
 
 ## Why {#why}

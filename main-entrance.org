@@ -11,7 +11,13 @@
 :ID:       20251214T165008.884123
 :END:
 
-This is my attempt at growing my own [[id:20251214T182547.516206][Digital Garden]].
+This is my attempt at growing my own [[id:20251214T182547.516206][Digital Garden]] and [[id:20251214T183616.136892][learning in public]].
+
+In this ever-growing garden, you will find things like:
++ Rough ideas
++ Unfinished notes
++ Attempted writings
++ Brewing thoughts
 
 * Why
 
