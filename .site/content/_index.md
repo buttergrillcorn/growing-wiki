@@ -6,9 +6,9 @@ draft = false
 +++
 
 ```yaml
-Status: 🌱 growing
-Last tended: recently
-Weather: unpredictable
+ Status: 🌱 growing
+ Last tended: recently
+ Weather: unpredictable
 ```
 
 
