@@ -34,6 +34,7 @@
 
 ** Ready to explore?
 
-#+begin_quote
-🕳  [[id:20251214T165008.884123][Entrance]]
-#+end_quote
+#+begin_verse
+🕳 \\
+[[id:20251214T165008.884123][Entrance]]
+#+end_verse
