@@ -12,8 +12,11 @@ draft = false
 garden:
 
   🌱 state: growing
+
   🧭 mode: exploratory
+
   🧑‍🌾 tending: irregular
+
   ⏳ tempo: slow
 
   🌿 environment:
