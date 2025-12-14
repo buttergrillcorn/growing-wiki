@@ -5,9 +5,7 @@ date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
-\#+hugo
-
-```text
+<summary><pre class="example" id="org2a09e66">
         ,,,                      ,,,
        {{{}}    ,,,             {{{}}    ,,,
     ,,, ~Y~    {{{}},,,      ,,, ~Y~    {{{}},,,
@@ -18,7 +16,7 @@ draft = false
     \|/\\|/\|/ \\|~Y~//  \|/ \|/\\|/\|/ \\|~Y~//  \|/
     \|//\|/\|/,\\|/|/|// \|/ \|//\|/\|/,\\|/|/|// \|/
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-```
+</pre></summary>
 
 
 ## This is my [digital garden](/digital-garden/#what-is-a-digital-garden) {#this-is-my-digital-garden--digital-garden-dot-md}
