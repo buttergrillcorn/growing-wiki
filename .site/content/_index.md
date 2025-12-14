@@ -28,6 +28,6 @@ draft = false
 ################################
 ```
 
-Ready to explore? <br />
+`Ready to explore?` <br />
 🕳 <br />
 [Entrance](/main-entrance/#what)
