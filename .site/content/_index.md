@@ -10,26 +10,32 @@ draft = false
 <a id="code-snippet--Garden"></a>
 ```cfg
 garden:
+
   🌱 state: growing
   🧭 mode: exploratory
-  ‍🌾 tending: irregular
+  🧑‍🌾 tending: irregular
   ⏳ tempo: slow
 
   🌿 environment:
+
     🌱 soil: fertile
     ⛅️ light: uneven
     ☀️ weather: unpredictable
     🍃 stability: variable
 
   🧪 process:
+
     📥 inputs:
       - reading
       - writing
+      - watching
       - tinkering
+
     🔁 methods:
       - linking
       - revising
       - forgetting
+
     📤 outputs:
       - notes
       - questions
