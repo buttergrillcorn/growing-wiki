@@ -39,6 +39,6 @@ draft = false
 ---
 
 
-### Ready? {#ready}
+### Ready to explore? {#ready-to-explore}
 
 [Entrance](/meta/#the-entrance)
