@@ -1,17 +1,11 @@
 +++
-title = "🪴 Welcome!"
+title = "🪴 Welcome !"
 author = ["James"]
 date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
 ## The starting point {#the-starting-point}
-
-> Notes left in the open
-> Some are seeds
-> Some are weeds
->
-> Wander slowly
 
 <div class="verse">
 
