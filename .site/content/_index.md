@@ -41,4 +41,4 @@ draft = false
 
 ### Ready to explore? {#ready-to-explore}
 
-[Main entrance](/meta/#the-entrance)
+[Entrance](/meta/#the-entrance)
