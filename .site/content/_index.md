@@ -7,7 +7,7 @@ draft = false
 
 ##  {#d41d8c}
 
-```yaml
+```text
 ################################
 
  🌱 state : growing
