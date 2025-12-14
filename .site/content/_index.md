@@ -21,7 +21,7 @@ draft = false
    🍃 stability : delicate
 
  🪴 process:
-   🌰 seeds: [ 📖, ✍️, 👀, 🛠 ]
+   🌰 seeds: [ 📖, 👀, 🛠 ]
    ✂️ care: [ 🔗, 🔄, 🍂 ]
    🌼 sprouts: [ 📝, ❓, ✨ ]
 
