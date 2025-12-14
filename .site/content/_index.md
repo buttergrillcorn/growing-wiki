@@ -8,22 +8,12 @@ draft = false
 ## The Garden {#the-garden}
 
 <a id="code-snippet--Garden"></a>
-```cfg
-[garden.system]
-state: growing
-phase: cultivation
-conditions: variable
-tending: irregular
-
-[garden.environment]
-soil: fertile
-light: uneven
-weather: unpredictable
-
-[garden.process]
-inputs: reading, writing, tinkering
-methods: linking, revising, forgetting
-outputs: notes, questions, fragments
+```bash
+garden_state="🌱 growing"
+tending="irregular"
+ideas="in_progress"
+confidence="provisional"
+mode="🧭 exploratory"
 ```
 
 <div class="verse">
