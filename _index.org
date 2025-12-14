@@ -6,7 +6,7 @@
 #+HUGO_DATE: 2025-12-09
 #+EXPORT_FILE_NAME: _index
 
-#+begin_src yaml 
+#+begin_src conf 
 Status: 🌱 growing
 Last tended: recently
 Weather: unpredictable
