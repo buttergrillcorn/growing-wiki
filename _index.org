@@ -25,6 +25,8 @@ This is a *W-I-P* [fn:1] you can wander through and explore.
 
 The original idea sprouted quite a while back. I would say ever since I have encountered Logseq, Obsidian and the idea of Zettelkasten.
 
+I loved the idea of retaining knowledge through note taking and collection of information. 
+
 
 * how the website is built:
 
