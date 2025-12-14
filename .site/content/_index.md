@@ -30,4 +30,4 @@ draft = false
 
 `Ready to explore?` <br />
 🕳 <br />
-[Entrance](/main-entrance/#what)
+**[Entrance](/main-entrance/#what)**
