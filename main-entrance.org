@@ -27,9 +27,11 @@ Rather a W-I-P that is constantly evolving and *growing*, for the sake of always
 
 Because why not?
 
-On a serious note, I find myself to be a very forgetful person. So to retain the content I consume, ideas that sparkled and notes that I plan on re-visiting; I need a place to store and recall everything.
+On a serious note, I find myself to be a very forgetful person. So to retain the content I consume, ideas that sparkled and notes that I plan on re-visiting; I have longed for a place to store, curate and recall everything.
 
-As for why doing it this way, instead of x...
+** As for why doing it this way, instead of x...
+
+
 
 
 * How 
