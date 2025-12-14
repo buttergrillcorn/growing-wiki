@@ -12,7 +12,6 @@
 :END:
 
 #+begin_src conf 
-
  🌱 state : growing
  🧭 mode : exploratory
  🧑‍🌾 tending : irregular
@@ -43,4 +42,4 @@
 
 -----
 
----> [[id:20251214T154820.898744][Entrance]]
+** -> [[id:20251214T154820.898744][Entrance]]

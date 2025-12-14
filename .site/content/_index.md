@@ -8,7 +8,6 @@ draft = false
 ## The Garden {#the-garden}
 
 ```cfg
-
  🌱 state : growing
  🧭 mode : exploratory
  🧑‍🌾 tending : irregular
@@ -39,4 +38,5 @@ draft = false
 
 ---
 
----&gt; [Entrance](/meta/#the-entrance)
+
+### -&gt; [Entrance](/meta/#the-entrance) {#entrance--meta-dot-md}
