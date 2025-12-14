@@ -5,7 +5,7 @@ date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
-```toml
+```yaml
 Status: 🌱 growing
 Last tended: recently
 Weather: unpredictable
