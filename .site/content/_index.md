@@ -5,6 +5,8 @@ date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
+## This is the entrance {#this-is-the-entrance}
+
 <a id="code-snippet--Garden"></a>
 ```cfg
 [garden.system]
@@ -23,9 +25,6 @@ inputs = ["reading", "writing", "tinkering"]
 methods = ["linking", "revising", "forgetting"]
 outputs = ["notes", "questions", "fragments"]
 ```
-
-
-## This is the entrance {#this-is-the-entrance}
 
 <div class="verse">
 

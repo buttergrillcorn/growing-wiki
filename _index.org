@@ -6,6 +6,11 @@
 #+HUGO_DATE: 2025-12-09
 #+EXPORT_FILE_NAME: _index
 
+* This is the entrance
+:PROPERTIES:
+:ID:       20251209T214330.737315
+:END:
+
 #+name: Garden
 #+begin_src conf
 [garden.system]
@@ -24,10 +29,6 @@ inputs = ["reading", "writing", "tinkering"]
 methods = ["linking", "revising", "forgetting"]
 outputs = ["notes", "questions", "fragments"]
 #+end_src
-* This is the entrance
-:PROPERTIES:
-:ID:       20251209T214330.737315
-:END:
 
 #+BEGIN_VERSE
 This is *NOT* polished content. \\
