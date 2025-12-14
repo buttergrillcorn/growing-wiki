@@ -29,4 +29,8 @@ draft = false
 
 ---
 
-➡️ [Entrance](/main-entrance/#how)
+<div class="verse">
+
+➡️    [Entrance](/main-entrance/#how)<br />
+
+</div>
