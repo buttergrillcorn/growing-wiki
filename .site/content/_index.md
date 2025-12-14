@@ -25,12 +25,10 @@ draft = false
      - writing
      - watching
      - tinkering
-
    🔁 methods :
      - linking
      - revising
      - forgetting
-
    📤 outputs :
      - notes
      - questions
