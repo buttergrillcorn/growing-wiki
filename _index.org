@@ -11,8 +11,13 @@
 :ID:       20251209T214330.737315
 :END:
 
-This is my personal notes wiki, using the [[id:20251212T222128.005838][learning in public]] / [[id:20251212T222156.478599][digital garden]] method.
-This is an *always growing* collection of all my notes, ideas, thoughts and experiments that I want to share with the world, with you. 
+#+begin_quote
+Notes left in the open
+Some are seeds
+Some are weeds
+
+Wander slowly
+#+end_quote
 
 #+BEGIN_VERSE
 This is *NOT* polished content. \\
