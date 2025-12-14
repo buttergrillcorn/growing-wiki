@@ -6,5 +6,3 @@ draft = false
 +++
 
 ## "What?" {#what}
-
-This
