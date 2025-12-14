@@ -29,10 +29,4 @@ draft = false
 
 ---
 
-<style>.org-center { margin-left: auto; margin-right: auto; text-align: center; }</style>
-
-<div class="org-center">
-
-➡️ [Entrance](/main-entrance/#how)
-
-</div>
+> ➡️ [Entrance](/main-entrance/#how)
