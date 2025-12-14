@@ -13,7 +13,7 @@
 
 #+name: Garden
 #+begin_src conf
-🌳garden:
+garden:
   🌱 state: growing
   🧭 mode: exploratory
   🧑‍🌾 tending: irregular
