@@ -6,6 +6,11 @@
 #+HUGO_DATE: 2025-12-09
 #+EXPORT_FILE_NAME: _index
 
+#+begin_src yaml 
+Status: 🌱 growing
+Last tended: recently
+Weather: unpredictable
+#+end_src
 * This is the entrance
 :PROPERTIES:
 :ID:       20251209T214330.737315

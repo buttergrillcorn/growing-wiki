@@ -5,6 +5,13 @@ date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
+```yaml
+Status: 🌱 growing
+Last tended: recently
+Weather: unpredictable
+```
+
+
 ## This is the entrance {#this-is-the-entrance}
 
 <div class="verse">
