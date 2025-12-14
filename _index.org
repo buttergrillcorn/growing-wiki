@@ -7,9 +7,9 @@
 #+EXPORT_FILE_NAME: _index
 
 #+begin_src yaml 
- Status: 🌱 growing
- Last tended: recently
- Weather: unpredictable
+Status: 🌱 growing
+Last tended: recently
+Weather: unpredictable
 #+end_src
 * This is the entrance
 :PROPERTIES:
