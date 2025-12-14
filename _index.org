@@ -12,8 +12,6 @@
 :END:
 
 #+begin_example
-##############################
-
  🌱 state : growing
  🚶 path : exploratory
  🧑‍🌾 tending : irregular
@@ -29,7 +27,6 @@
    ✂️ care: [ 🔗, 🔄, 🍂 ]
    🌼 sprouts: [ 📝, ❓, ✨ ]
   
-###############################
 #+end_example
 
 ** Ready to explore?
