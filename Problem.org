@@ -4,7 +4,7 @@
 #+HUGO_SECTION: 
 #+HUGO_DRAFT: false
 #+HUGO_DATE: 2025-12-08
-#+EXPORT_FILE_NAME: Problem
+#+EXPORT_FILE_NAME: problem
 
 * What this is
 :PROPERTIES:

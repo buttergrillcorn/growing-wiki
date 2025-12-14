@@ -4,7 +4,7 @@
 #+HUGO_SECTION: 
 #+HUGO_DRAFT: false
 #+HUGO_DATE: 2025-12-12
-#+EXPORT_FILE_NAME: Digital Garden
+#+EXPORT_FILE_NAME: digital-garden
 
 * What is a "digital garden"?
 :PROPERTIES:

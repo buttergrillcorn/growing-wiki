@@ -4,7 +4,7 @@
 #+HUGO_SECTION: 
 #+HUGO_DRAFT: false
 #+HUGO_DATE: 2025-12-12
-#+EXPORT_FILE_NAME: Learning In Public
+#+EXPORT_FILE_NAME: learning-in-public
 
 * What does "learning in public" mean?
 :PROPERTIES:
