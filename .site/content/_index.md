@@ -8,6 +8,7 @@ draft = false
 ##  {#d41d8c}
 
 ```text
+
  🌱 state : growing
  🚶 path : exploratory
  🧑‍🌾 tending : irregular

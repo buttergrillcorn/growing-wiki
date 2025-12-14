@@ -12,6 +12,7 @@
 :END:
 
 #+begin_example
+
  🌱 state : growing
  🚶 path : exploratory
  🧑‍🌾 tending : irregular
