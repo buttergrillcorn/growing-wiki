@@ -7,15 +7,6 @@
 #+EXPORT_FILE_NAME: _index
 
 #+begin_summary
-#+begin_src
-         wWWWw               wWWWw
-        (___) wWWWw         (___)  vVVVv
-   vVVVv  ~Y~  (___)  vVVVv   ~Y~   (___)
-    (___)   \|    ~Y~   (___)    |/    ~Y~
-    ~Y~   \ |/   \| /  \~Y~/   \|    \ |/
-   \|// \\|// \\|/// \\|//  \\|// \\\|///
-  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-#+end_src
 #+end_summary
 
 
