@@ -27,6 +27,8 @@ Because why not?
 
 On a serious note, I find myself to be a very forgetful person. So to retain the content I consume, ideas that sparkled and notes that I plan on re-visiting; I have longed for a place to store, curate and recall everything.
 
+I also find it super helpful to "grow" and "cultivate" my thoughts and ideas when trying to share it with a friend. So you know, it's very reminiscent of the rubber duck method. But instead of talking to a rubber duck, I choose to scream into the void of internet, to you.
+
 
 ### As for why doing it this way, instead of x... {#as-for-why-doing-it-this-way-instead-of-x-dot-dot-dot}
 
