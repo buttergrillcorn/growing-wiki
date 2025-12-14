@@ -6,8 +6,7 @@
 #+HUGO_DATE: 2025-12-09
 #+EXPORT_FILE_NAME: _index
 
-#+begin_summary
-#+begin_src 
+#+begin_example
           ,,,
          {{{}}    ,,,
       ,,, ~Y~    {{{}},,,
@@ -18,8 +17,7 @@
   \|/ \|/\\|/\|/ \\|~Y~//  \|/
   \|/ \|//\|/\|/,\\|/|/|// \|/
  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-#+end_src
-#+end_summary
+#+end_example
 
 * This is my [[id:20251212T222156.478599][digital garden]]
 :PROPERTIES:
