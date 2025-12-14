@@ -6,13 +6,6 @@
 #+HUGO_DATE: 2025-12-09
 #+EXPORT_FILE_NAME: _index
 
-* This is my [[id:20251212T222156.478599][digital garden]]
-:PROPERTIES:
-:ID:       20251209T214330.737315
-:END:
-
-
-
 #+begin_example
         ,,,                      ,,,
        {{{}}    ,,,             {{{}}    ,,,
@@ -26,7 +19,13 @@
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #+end_example
 
-+end_verse
+* This is my [[id:20251212T222156.478599][digital garden]]
+:PROPERTIES:
+:ID:       20251209T214330.737315
+:END:
+
+
+
 
 #+BEGIN_VERSE
 This is *NOT* polished content. \\
