@@ -5,15 +5,16 @@ date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
-<summary><pre class="example" id="orge1f6278">
-         wWWWw               wWWWw
+<summary><div class="org-src-container">
+<pre class="src src-nil">         wWWWw               wWWWw
    vVVVv (___) wWWWw         (___)  vVVVv
    (___)  ~Y~  (___)  vVVVv   ~Y~   (___)
     ~Y~   \|    ~Y~   (___)    |/    ~Y~
     \|   \ |/   \| /  \~Y~/   \|    \ |/
    \\|// \\|// \\|/// \\|//  \\|// \\\|///
   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-</pre></summary>
+</pre>
+</div></summary>
 
 
 ## This is my [digital garden](/digital-garden/#what-is-a-digital-garden) {#this-is-my-digital-garden--digital-garden-dot-md}
