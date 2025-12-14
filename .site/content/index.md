@@ -1,17 +1,13 @@
-#+title: 🪴 The Garden
-#+date: [2025-12-09 Tue]
-#+HUGO_BASE_DIR: /home/james/wiki/.site
-#+HUGO_SECTION: 
-#+HUGO_DRAFT: false
-#+HUGO_DATE: 2025-12-09
-#+EXPORT_FILE_NAME: index
++++
+title = "🪴 The Garden"
+author = ["James"]
+date = 2025-12-09T00:00:00+00:00
+draft = false
++++
 
-* 
-:PROPERTIES:
-:ID:       20251209T214330.737315
-:END:
+##  {#d41d8c}
 
-#+begin_src conf 
+```cfg
  🌱 state : growing
  🧭 mode : exploratory
  🧑‍🌾 tending : irregular
@@ -26,8 +22,9 @@
   🌱 seeds: [📖, ✍️, 👀, 🛠]
   🧑‍🌾 care: [🔗, 🔄, 🍂]
   🌿 sprouts: [📝, ❓, ✨]
-#+end_src
+```
 
-** Ready to explore?
 
--> [[id:20251214T154820.898744][Entrance]]
+### Ready to explore? {#ready-to-explore}
+
+-&gt; [Entrance](/main-entrance/#what)
