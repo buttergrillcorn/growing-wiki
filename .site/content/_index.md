@@ -31,9 +31,5 @@ draft = false
 
 ### Ready to explore? {#ready-to-explore}
 
-<div class="verse">
-
 🕳 <br />
-[Entrance](/main-entrance/#what)<br />
-
-</div>
+[Entrance](/main-entrance/#what)
