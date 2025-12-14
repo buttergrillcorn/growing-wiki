@@ -29,4 +29,4 @@ draft = false
 ```
 
 **Ready to explore?** <br />
-➡️ ****[Entrance](/main-entrance/#what)****
+➡️ [Entrance](/main-entrance/#what)
