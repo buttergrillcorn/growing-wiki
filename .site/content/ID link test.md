@@ -11,7 +11,7 @@ Link the other note below:
 
 [Getting Started with Digital Gardens](/getting-started/#next-steps)
 
-Link back to the main page [here](/#temporary-for-testing-purpose-only).
+Link back to the main page [here](/#ready-to-explore).
 
 
 ## Title for link {#title-for-link}
