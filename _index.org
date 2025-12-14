@@ -17,22 +17,24 @@ garden:
   🌱 state: growing
   🧭 mode: exploratory
   🧑‍🌾 tending: irregular
+  ⏳ tempo: slow
 
   🌿 environment:
-    soil: fertile
-    light: uneven
-    weather: unpredictable
+    🌱 soil: fertile
+    🌤 light: uneven
+    🌦 weather: unpredictable
+    🍃 stability: variable
 
   🧪 process:
-    inputs:
+    📥 inputs:
       - reading
       - writing
       - tinkering
-    methods:
+    🔁 methods:
       - linking
       - revising
       - forgetting
-    outputs:
+    📤 outputs:
       - notes
       - questions
       - fragments
