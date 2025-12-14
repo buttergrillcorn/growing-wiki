@@ -13,40 +13,41 @@
 
 #+name: Garden
 #+begin_src conf
-  🌱 state : growing
 
-  🧭 mode : exploratory
+ 🌱 state : growing
 
-  🧑‍🌾 tending : irregular
+ 🧭 mode : exploratory
+
+ 🧑‍🌾 tending : irregular
 
 
-  🌿 habitat :
+ 🌿 habitat :
 
-    🌱 soil : fertile
-    ⛅️ light : uneven
-    ☀️ weather : shifting
-    🍃 stability : delicate
+   🌱 soil : fertile
+   ⛅️ light : uneven
+   ☀️ weather : shifting
+   🍃 stability : delicate
 
-  🧪 process :
+ 🧪 process :
 
-    📥 inputs :
+   📥 inputs :
 
-      - reading
-      - writing
-      - watching
-      - tinkering
+     - reading
+     - writing
+     - watching
+     - tinkering
 
-    🔁 methods :
+   🔁 methods :
 
-      - linking
-      - revising
-      - forgetting
+     - linking
+     - revising
+     - forgetting
 
-    📤 outputs :
+   📤 outputs :
 
-      - notes
-      - questions
-      - fragments
+     - notes
+     - questions
+     - fragments
 #+end_src
 
 #+BEGIN_VERSE
