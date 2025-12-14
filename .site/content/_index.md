@@ -20,21 +20,21 @@ draft = false
    🍃 stability : delicate
 
  🧪 process :
-     📥 inputs :
-     - reading
-     - writing
-     - watching
-     - tinkering
+   📥 inputs :
+        - reading
+        - writing
+        - watching
+        - tinkering
 
-     🔁 methods :
-     - linking
-     - revising
-     - forgetting
+   🔁 methods :
+        - linking
+        - revising
+        - forgetting
 
-     📤 outputs :
-     - notes
-     - questions
-     - fragments
+   📤 outputs :
+        - notes
+        - questions
+        - fragments
 
 ```
 
