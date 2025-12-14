@@ -8,7 +8,7 @@ draft = false
 ## The Garden {#the-garden}
 
 <a id="code-snippet--Garden"></a>
-```bash
+```cfg
 garden_state="🌱 growing"
 tending="irregular"
 ideas="in_progress"
