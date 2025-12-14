@@ -14,9 +14,7 @@
 #+begin_src conf
 
  🌱 state : growing
-
  🧭 mode : exploratory
-
  🧑‍🌾 tending : irregular
 
  🌿 habitat :
