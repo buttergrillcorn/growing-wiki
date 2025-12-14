@@ -18,7 +18,7 @@ In this ever-growing garden, you will find things like:
 
 The point is **not** to have a highly polished final piece to showcase;
 
-Rather a W-I-P that is constantly evolving and **growing**, for the sake of always learning.
+Rather a W-I-P that is constantly evolving and **growing**, for the sake of always <span class="underline">learning</span>.
 
 
 ## Why {#why}
