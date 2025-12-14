@@ -8,6 +8,7 @@ draft = false
 ##  {#d41d8c}
 
 ```cfg
+
  🌱 state : growing
  🚶 path : exploratory
  🧑‍🌾 tending : irregular
@@ -19,9 +20,9 @@ draft = false
    🍃 stability : delicate
 
 🪴 process:
-  🌱 seeds: [📖, ✍️, 👀, 🛠]
-  🧑‍🌾 care: [🔗, 🔄, 🍂]
-  🌿 sprouts: [📝, ❓, ✨]
+  🌱 seeds: [ 📖, ✍️, 👀, 🛠 ]
+  🧑‍🌾 care: [ 🔗, 🔄, 🍂 ]
+  🌿 sprouts: [ 📝, ❓, ✨ ]
 ```
 
 

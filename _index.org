@@ -12,6 +12,7 @@
 :END:
 
 #+begin_src conf 
+
  🌱 state : growing
  🚶 path : exploratory 
  🧑‍🌾 tending : irregular
@@ -23,9 +24,9 @@
    🍃 stability : delicate
 
 🪴 process:
-  🌱 seeds: [📖, ✍️, 👀, 🛠]
-  🧑‍🌾 care: [🔗, 🔄, 🍂]
-  🌿 sprouts: [📝, ❓, ✨]
+  🌱 seeds: [ 📖, ✍️, 👀, 🛠 ]
+  🧑‍🌾 care: [ 🔗, 🔄, 🍂 ]
+  🌿 sprouts: [ 📝, ❓, ✨ ]
 #+end_src
 
 ** Ready to explore?
