@@ -5,11 +5,23 @@ date = 2025-12-09T00:00:00+00:00
 draft = false
 +++
 
+<a id="code-snippet--Garden"></a>
 ```cfg
-[ garden status ]
-state = 🌱 growing
-last_tended = recently
-weather = unpredictable
+[garden.system]
+state = "growing"
+phase = "cultivation"
+conditions = "variable"
+tending = "irregular"
+
+[garden.environment]
+soil = "fertile"
+light = "uneven"
+weather = "unpredictable"
+
+[garden.process]
+inputs = ["reading", "writing", "tinkering"]
+methods = ["linking", "revising", "forgetting"]
+outputs = ["notes", "questions", "fragments"]
 ```
 
 

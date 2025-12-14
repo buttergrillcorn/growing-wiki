@@ -6,11 +6,23 @@
 #+HUGO_DATE: 2025-12-09
 #+EXPORT_FILE_NAME: _index
 
+#+name: Garden
 #+begin_src conf
-[ garden status ]
-state = 🌱 growing
-last_tended = recently
-weather = unpredictable
+[garden.system]
+state = "growing"
+phase = "cultivation"
+conditions = "variable"
+tending = "irregular"
+
+[garden.environment]
+soil = "fertile"
+light = "uneven"
+weather = "unpredictable"
+
+[garden.process]
+inputs = ["reading", "writing", "tinkering"]
+methods = ["linking", "revising", "forgetting"]
+outputs = ["notes", "questions", "fragments"]
 #+end_src
 * This is the entrance
 :PROPERTIES:
