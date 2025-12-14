@@ -15,4 +15,5 @@ This is my attempt at growing my own [[id:20251214T182547.516206][Digital Garden
 
 ** It is *NOT*
 + Finished content
++ A blog
 + 
