@@ -13,7 +13,7 @@
 
 #+begin_src conf 
 
- 🌱 state : growing
+ 🌲 state : growing
  🚶 path : exploratory 
  🧑‍🌾 tending : irregular
 
