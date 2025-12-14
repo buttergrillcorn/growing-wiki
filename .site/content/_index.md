@@ -1,5 +1,5 @@
 +++
-title = "🪴 The Garden"
+title = "The Garden 🪴"
 author = ["James"]
 date = 2025-12-09T00:00:00+00:00
 draft = false
