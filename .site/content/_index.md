@@ -31,4 +31,4 @@ draft = false
 
 ### Ready to explore? {#ready-to-explore}
 
--&gt; [Entrance](/main-entrance/#what)
+-&gt; 🕳 [Entrance](/main-entrance/#what)
