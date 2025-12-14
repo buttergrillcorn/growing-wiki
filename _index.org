@@ -7,9 +7,10 @@
 #+EXPORT_FILE_NAME: _index
 
 #+begin_src conf 
-Status: 🌱 growing
-Last tended: recently
-Weather: unpredictable
+[ garden status ]
+state: 🌱 growing
+last_tended: recently
+weather: unpredictable
 #+end_src
 * This is the entrance
 :PROPERTIES:
