@@ -8,9 +8,9 @@
 
 #+begin_src conf
 [ garden status ]
-state: 🌱 growing
-last_tended: recently
-weather: unpredictable
+state = 🌱 growing
+last_tended = recently
+weather = unpredictable
 #+end_src
 * This is the entrance
 :PROPERTIES:

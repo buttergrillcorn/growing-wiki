@@ -7,9 +7,9 @@ draft = false
 
 ```cfg
 [ garden status ]
-state: 🌱 growing
-last_tended: recently
-weather: unpredictable
+state = 🌱 growing
+last_tended = recently
+weather = unpredictable
 ```
 
 
