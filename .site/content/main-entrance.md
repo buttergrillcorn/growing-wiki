@@ -12,4 +12,5 @@ This is my attempt at growing my own [Digital Garden](/digital-garden/#content).
 
 ### It is **NOT** {#it-is-not}
 
+-   Finished content
 -
