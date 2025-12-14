@@ -39,8 +39,6 @@
       - notes
       - questions
       - fragments
-     
-
 #+end_src
 
 -----
