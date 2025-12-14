@@ -19,7 +19,7 @@
  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #+end_example
 
-* The =entrance=
+* This is the entrance
 :PROPERTIES:
 :ID:       20251209T214330.737315
 :END:
