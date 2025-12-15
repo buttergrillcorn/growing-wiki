@@ -41,7 +41,7 @@ My workflow is something like:
 
 The underlined tools and programmes that I use are:
 
-[Emacs](/emacs/#content) ( specifically [Doom Emacs](https://github.com/doomemacs/doomemacs) )
+[Emacs](/emacs/#content) ( [Doom Emacs](https://github.com/doomemacs/doomemacs) )
 : For editing `.org` files, which is the base file format.
 
 [Ox-Hugo](https://ox-hugo.scripter.co/)
