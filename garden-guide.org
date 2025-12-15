@@ -6,7 +6,7 @@
 #+HUGO_DATE: 2025-12-15
 #+EXPORT_FILE_NAME: garden-guide
 
-* TODO Navigation
+* Navigation
 :PROPERTIES:
 :ID:       20251215T162248.587790
 :END:
@@ -19,7 +19,31 @@ Hover your mouse/cursor over any internal links will show you a preview pop-up o
 
 [fn:1] This likely does *not* work on (mobile) touch devices unfortunately.
 
-** 
+** Scroll-able pages
+
+As you may have noticed, opening a new page will spawn it in an ever-growing list that you can scroll through.
+
+This is very helpful for maintaining context and knowing how you arrived at the page.
+
+** Backlinks
+
+A backlink section is present at the bottom of every note.
+This extends our option for exploration, particularly in related notes and concepts.
+
+** Search
+
+Clicking on the =search= button at the top of the site will toggle a search box for you to search through all my notes,
+However, this is not prioritised as a primary method of navigating around the website as the capabilities are quite limited (currently).
+
+When you search for a keyword/query, you are able to see a list of notes with only their name and growth level[fn:2] being displayed.
+
+Currently, there are no hint or guidance on where the keyword/query is mentioned in the note(s). You may only know that the note(s) is related and not the extent of it.
+
+This encourages exploration of your own so I am not planning on implementing any advanced features, at least yet.
+
+* Growth Level
+
+
 
 
 
