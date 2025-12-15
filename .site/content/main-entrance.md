@@ -29,7 +29,7 @@ On a serious note, I find myself to be a very forgetful person. So to retain the
 
 I also find it super helpful to "grow" and "cultivate" my thoughts and ideas when trying to share it with a friend. It's very reminiscent of the rubber duck method. But instead of talking to a rubber duck, I choose to scream into the void of internet, to you.
 
-As for why doing it this way, instead of x ... find out [here](/why-growing-wiki/#content).
+As for why doing it this way, instead of x ... and more, find out [here](/why-growing-wiki/#content).
 
 
 ## How {#how}
