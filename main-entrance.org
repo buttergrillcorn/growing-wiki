@@ -43,4 +43,6 @@ My workflow is something like:
 The underlined tools and programmes that I use are:
 + [[id:20251215T153409.412913][Emacs]] ( specifically [[https://github.com/doomemacs/doomemacs][Doom Emacs]] ) :: For editing =.org= files, which is the base file format.
 + [[https://ox-hugo.scripter.co/][Ox-Hugo]] :: For exporting =.org= files to =.md= files. 
-+ Hugo :: 
++ [[https://gohugo.io/][Hugo]] :: Static site generator, or /"The world's fastest framework for building websites"/.
++ Git ( and currently GitHub ) ::  For version control and syncing remotely.
++ Cloudflare :: For domain management and hosting. 
