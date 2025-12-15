@@ -1,0 +1,13 @@
+#+title: Emacs
+#+date: [2025-12-15 Mon 15:34]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: 
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2025-12-15
+#+EXPORT_FILE_NAME: emacs
+
+* TODO
+:PROPERTIES:
+:ID:       20251215T153409.412913
+:END:
+
