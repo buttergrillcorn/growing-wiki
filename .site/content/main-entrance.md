@@ -46,7 +46,7 @@ As for why doing it this way, instead of x ... and more, find out [here](/why-gr
 This website is essentially my notebook that's kept in the open for everyone and anyone to see. I treat this as something like an [Obsidian](https://obsidian.md/) vault.
 The only difference being that it's public. I designed it to be this way to keep it as simple as possible, to reduce the friction to write and publish.
 
-My workflow is something like:
+My workflow is something like: <br />
 `Write / Edit → Sync → Publish`
 
 The underlined tools and programmes that I use are:
