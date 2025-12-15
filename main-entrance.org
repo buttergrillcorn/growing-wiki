@@ -41,7 +41,7 @@ My workflow is something like:
 =Write / Edit → Sync → Publish=
 
 The underlined tools and programmes that I use are:
-+ Emacs ( specifically [[https://github.com/doomemacs/doomemacs][Doom Emacs]] ) :: For editing =.org= files, which is the base file format.
++ [[id:20251215T160403.586725][Emacs]] ( specifically [[https://github.com/doomemacs/doomemacs][Doom Emacs]] ) :: For editing =.org= files, which is the base file format.
 + [[https://ox-hugo.scripter.co/][Ox-Hugo]] :: For exporting =.org= files to =.md= files. 
 + [[https://gohugo.io/][Hugo]] :: Static site generator, or /"The world's fastest framework for building websites"/.
 + Git ( and currently [[https://github.com][GitHub]] ) ::  For version control and syncing remotely.
