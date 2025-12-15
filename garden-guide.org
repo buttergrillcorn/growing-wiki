@@ -11,5 +11,13 @@
 :ID:       20251215T162248.587790
 :END:
 
-As the name suggests, this place is almost like a "wiki"
+As the name suggests, this place is almost like a "[[https://en.wikipedia.org/wiki/Wiki][Wiki]]". Hyperlinks are used heavy to navigate you around the garden. It is encouraged to click on links you find interesting and wander around freely.
+
+** Previews
+
+Hover your mouse/cursor over any internal links will show you a preview pop-up of the page.
+
+=Tip:= Long press on mobile/touch devices will also give you the preview, given that you click off from the pop-up menu mobile devices often prompts you.
+
+
 

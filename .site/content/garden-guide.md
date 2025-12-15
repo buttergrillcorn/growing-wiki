@@ -2,7 +2,16 @@
 title = "Garden Guide"
 author = ["James"]
 date = 2025-12-15T16:22:00+00:00
-draft = true
+draft = false
 +++
 
-wiki
+## <span class="org-todo todo TODO">TODO</span> Navigation {#navigation}
+
+As the name suggests, this place is almost like a "[Wiki](https://en.wikipedia.org/wiki/Wiki)". Hyperlinks are used heavy to navigate you around the garden. It is encouraged to click on links you find interesting and wander around freely.
+
+
+### Previews {#previews}
+
+Hover your mouse/cursor over any internal links will show you a preview pop-up of the page.
+
+`Tip:` Long press on mobile/touch devices will also give you the preview, given that you click off from the pop-up menu mobile devices often prompts you.
