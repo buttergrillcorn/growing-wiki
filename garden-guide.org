@@ -6,7 +6,7 @@
 #+HUGO_DATE: 2025-12-15
 #+EXPORT_FILE_NAME: garden-guide
 
-* TODO Content
+* TODO Garden
 :PROPERTIES:
 :ID:       20251215T162248.587790
 :END:
