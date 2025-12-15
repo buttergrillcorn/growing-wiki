@@ -36,11 +36,11 @@ As for why doing it this way, instead of x ... and more, find out [[id:20251215T
 
 * How 
 
-** How to navigate
+** (How) to navigate
 
 *[[id:20251215T162248.587790][Guide]]*
 
-** How the website is made
+** (How) the website is made
 
 This website is essentially my notebook that's kept in the open for everyone and anyone to see. I treat this as something like an [[https://obsidian.md/][Obsidian]] vault.
 The only difference being that it's public. I designed it to be this way to keep it as simple as possible, to reduce the friction to write and publish.
