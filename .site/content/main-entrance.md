@@ -36,12 +36,12 @@ As for why doing it this way, instead of x ... and more, find out [here](/why-gr
 ## How {#how}
 
 
-### [How] to navigate {#how-to-navigate}
+### (How) to navigate {#how--to-navigate}
 
-**[Guide](/garden-guide/#content)**
+**[Guide](/garden-guide/#growth-level)**
 
 
-### [How] the website is made {#how-the-website-is-made}
+### (How) the website is made {#how--the-website-is-made}
 
 This website is essentially my notebook that's kept in the open for everyone and anyone to see. I treat this as something like an [Obsidian](https://obsidian.md/) vault.
 The only difference being that it's public. I designed it to be this way to keep it as simple as possible, to reduce the friction to write and publish.
