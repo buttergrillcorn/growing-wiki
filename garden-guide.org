@@ -6,8 +6,10 @@
 #+HUGO_DATE: 2025-12-15
 #+EXPORT_FILE_NAME: garden-guide
 
-* TODO Garden
+* TODO Navigation
 :PROPERTIES:
 :ID:       20251215T162248.587790
 :END:
+
+As the name suggests, this place is almost like a "wiki"
 
