@@ -1,0 +1,43 @@
+<title>{{ .Title }}</title>
+
+<!-- META TAGS -->
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta
+  name="viewport"
+  content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+
+<link href="/favicon.png" rel="icon" type="image/x-icon" />
+
+<!-- Async Google Fonts loading for better performance -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=DM+Sans:wght@500;600&display=swap" media="print" onload="this.media='all'">
+<noscript>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=DM+Sans:wght@500;600&display=swap">
+</noscript>
+
+{{ $IndexCss := resources.Get "/css/index.scss" | css.Sass (dict "outputStyle" "compressed") | fingerprint }}
+<link rel="stylesheet" href="{{ $IndexCss.RelPermalink }}" />
+
+<script>
+  (function () {
+    const saved = localStorage.getItem("theme");
+    const prefersDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    const theme = saved || (prefersDark ? "dark" : "light");
+    document.documentElement.setAttribute("data-theme", theme);
+  })();
+</script>
+
+{{ $urijs := resources.Get "js/URI.js" | resources.Fingerprint }}
+<script src="{{ $urijs.RelPermalink }}" defer></script>
+{{ $pagejs := resources.Get "js/page.js" | resources.Fingerprint }}
+<script src="{{ $pagejs.RelPermalink }}" defer></script>
+{{ $themejs := resources.Get "js/theme-toggle.js" | resources.Fingerprint }}
+<script src="{{ $themejs.RelPermalink }}" defer></script>
+{{ $langjs := resources.Get "js/lang-label.js" | resources.Fingerprint }}
+<script src="{{ $langjs.RelPermalink }}" defer></script>
+{{ $copyjs := resources.Get "js/copy-code.js" | resources.Fingerprint }}
+<script src="{{ $copyjs.RelPermalink }}" defer></script>

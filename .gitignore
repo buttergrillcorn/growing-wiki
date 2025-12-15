@@ -5,6 +5,9 @@
 # Hugo cache
 .site/.hugo_build.lock
 
+# Auto-generated markdown files (but not search/)
+.site/content/*.md
+
 # Emacs temporary files
 *~
 \#*\#
