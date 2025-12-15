@@ -14,4 +14,7 @@ As the name suggests, this place is almost like a "[Wiki](https://en.wikipedia.o
 
 Hover your mouse/cursor over any internal links will show you a preview pop-up of the page.&nbsp;[^fn:1]
 
+
+###  {#d41d8c}
+
 [^fn:1]: This likely does **not** work on (mobile) touch devices unfortunately.
