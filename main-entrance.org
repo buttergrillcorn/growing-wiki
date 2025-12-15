@@ -36,7 +36,11 @@ As for why doing it this way, instead of x ... and more, find out [[id:20251215T
 
 * How 
 
-_*[[id:20251215T162248.587790][Guide]] for navigating around the garden*_
+** How to navigate
+
+_*[[id:20251215T162248.587790][Guide]] for the garden*_
+
+** How the website is made
 
 This website is essentially my notebook that's kept in the open for everyone and anyone to see. I treat this as something like an [[https://obsidian.md/][Obsidian]] vault.
 The only difference being that it's public. I designed it to be this way to keep it as simple as possible, to reduce the friction to write and publish.
@@ -49,4 +53,4 @@ The underlined tools and programmes that I use are:
 + [[https://ox-hugo.scripter.co/][Ox-Hugo]] :: For exporting =.org= files to =.md= files. 
 + [[https://gohugo.io/][Hugo]] :: Static site generator, or /"The world's fastest framework for building websites"/.
 + Git ( and currently [[https://github.com][GitHub]] ) ::  For version control and syncing remotely.
-+ [[https:www.cloudflare.com][Cloudflare]] :: For domain management and hosting. 
++ [[https:www.cloudflare.com][Cloudflare]] :: For domain management and hosting.
