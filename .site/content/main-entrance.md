@@ -38,7 +38,7 @@ As for why doing it this way, instead of x ... and more, find out [here](/why-gr
 
 ### How to navigate {#how-to-navigate}
 
-<span class="underline">**[Guide](/garden-guide/#content) for the garden**</span>
+**[Guide](/garden-guide/#content)**
 
 
 ### How the website is made {#how-the-website-is-made}

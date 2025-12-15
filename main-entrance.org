@@ -38,7 +38,7 @@ As for why doing it this way, instead of x ... and more, find out [[id:20251215T
 
 ** How to navigate
 
-_*[[id:20251215T162248.587790][Guide]] for the garden*_
+*[[id:20251215T162248.587790][Guide]]*
 
 ** How the website is made
 
