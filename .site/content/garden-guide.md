@@ -40,6 +40,6 @@ Currently, there are no hint or guidance on where the keyword/query is mentioned
 This encourages exploration of your own so I am not planning on implementing any advanced features, at least yet.
 
 
-## Growth Level {#growth-level}
+## <span class="org-todo todo TODO">TODO</span> Growth Level {#growth-level}
 
 [^fn:1]: This likely does **not** work on (mobile) touch devices unfortunately.
