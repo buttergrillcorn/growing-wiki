@@ -1,5 +1,5 @@
 #+title: Emacs
-#+date: [2025-12-15 Mon 16:04]
+#+date: [2025-12-15 Mon 16:11]
 #+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: 
 #+HUGO_DRAFT: false
@@ -8,6 +8,6 @@
 
 * TODO Content
 :PROPERTIES:
-:ID:       20251215T160403.586725
+:ID:       20251215T161118.828881
 :END:
 

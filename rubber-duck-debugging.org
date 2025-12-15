@@ -1,5 +1,5 @@
 #+title: Rubber duck debugging
-#+date: [2025-12-15 Mon 15:18]
+#+date: [2025-12-15 Mon 16:11]
 #+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: 
 #+HUGO_DRAFT: false
@@ -8,5 +8,6 @@
 
 * TODO Content
 :PROPERTIES:
-:ID:       20251215T151850.126685
+:ID:       20251215T161102.986249
 :END:
+
