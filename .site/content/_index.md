@@ -33,6 +33,6 @@ draft = false
 
 _Take a deep breath..._<br />
 <br />
-➡️ [Entrance](/main-entrance/#how)<br />
+➡️ [Enter](/main-entrance/#how) The Garden<br />
 
 </div>
