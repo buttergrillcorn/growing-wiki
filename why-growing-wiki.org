@@ -11,3 +11,6 @@
 :ID:       20251215T151413.540793
 :END:
 
+The idea of sharing my notes and learning with the internet wasn't actually a recent thought. I came across such concepts ever since the discovering of productivity tools like Logseq and Obsidian.
+
+Not ashamed to share this, this is not my first attempt at it.
