@@ -32,7 +32,7 @@ draft = false
 <div class="verse">
 
 _Take a deep breath..._<br />
-**[Enter The Garden](/main-entrance/#how)**<br />
+**[Enter the garden -&gt;](/main-entrance/#how)**<br />
 ➡️<br />
 
 </div>
