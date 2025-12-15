@@ -1,0 +1,13 @@
+#+title: Garden Guide
+#+date: [2025-12-15 Mon 16:22]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: 
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2025-12-15
+#+EXPORT_FILE_NAME: garden-guide
+
+* TODO Content
+:PROPERTIES:
+:ID:       20251215T162248.587790
+:END:
+
