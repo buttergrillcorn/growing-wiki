@@ -12,6 +12,8 @@ As the name suggests, this place is almost like a "[Wiki](https://en.wikipedia.o
 
 ### Previews {#previews}
 
-Hover your mouse/cursor over any internal links will show you a preview pop-up of the page.
+Hover your mouse/cursor over any internal links will show you a preview pop-up of the page.&nbsp;[^fn:1]
 
-`Tip:` Long press on mobile/touch devices will also give you the preview, given that you click off from the pop-up menu mobile devices often prompts you.
+---
+
+[^fn:1]: This likely does **not** work on (mobile) touch devices unfortunately.
