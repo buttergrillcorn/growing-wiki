@@ -33,7 +33,7 @@ This extends our option for exploration, particularly in related notes and conce
 Clicking on the `search` button at the top of the site will toggle a search box for you to search through all my notes,
 However, this is not prioritised as a primary method of navigating around the website as the capabilities are quite limited (currently).
 
-When you search for a keyword/query, you are able to see a list of notes with only their name and [growth level](/garden-guide/#growth-level) being displayed.
+When you search for a keyword/query, you are able to see a list of notes with only their name and [growth level](#growth-level) being displayed.
 
 Currently, there are no hint or guidance on where the keyword/query is mentioned in the note(s). You may only know that the note(s) is related and not the extent of it.
 
