@@ -41,16 +41,7 @@ Currently, there are no hint or guidance on where the keyword/query is mentioned
 
 This encourages exploration of your own so I am not planning on implementing any advanced features, at least yet.
 
-
 * TODO Growth Level
 :PROPERTIES:
 :ID:       20251216T141610.186930
 :END:
-
-
-
-
-
-
-
-
