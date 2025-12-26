@@ -48,7 +48,13 @@ The only difference being that it's public. I designed it to be this way to keep
 
 My workflow is something like:
 
+<style>.org-center { margin-left: auto; margin-right: auto; text-align: center; }</style>
+
+<div class="org-center">
+
 `Write / Edit → Sync → Publish`
+
+</div>
 
 The underlined tools and programmes that I use are:
 
