@@ -31,7 +31,7 @@ sudo pacman -S fnm
 You will then have to set up your shell, in my case `~/.zshrc`, like:
 
 ```bash
-eval "$(fnm evn --use-on-cd)"
+eval "$(fnm evn --use-on-cd --shell zsh)"
 ```
 
 And finally, install Node:
