@@ -30,4 +30,14 @@ Not to shame those who work in retail and the likes, I don't find myself to care
 
 Unfortunately, I don't actually have a goal that drives me out of bed every morning, ready to tackle the next obstacle in the way. What I do know, is the fact that I am passionate about all things tech related.
 
-As ordinary as this may sound, I love problem solving. Typing this out on my Lenovo T480 that currently runs Arch Linux using Doom Emacs, I can also be certain that I have a thing for computers. And so I have concluded this attempt at entering the IT industry.
+As ordinary as this may sound, I love problem solving. Typing this out on my Lenovo T480 that currently runs Arch Linux using Doom Emacs, I can also be certain that I have a thing for computers. And so I have concluded this attempt at entering the *IT industry*.
+
+My first stepping stone would ideally be something along the lines of "Cloud Ops".
+(I landed at this after some consideration of both my past, current situation and future outlook)
+
+* *THE PLAN*
+
+Like many things in life, the path is very unclear and likely to have many unpredictable changes.
+
+To make sure that I don't strafe off too far, I will need a plan.
+
