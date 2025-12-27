@@ -26,20 +26,22 @@ The goal is to have a local VM running a hardened web server ( SELinux Enforcing
 -   [ ] Install a RHEL-based distro ( Set up Rocky Linux or Fedora in a VM )
 -   [ ] Master Package Management ( `dnf` or `rpm` instead of `pacman` )
 -   [ ] Learn SELinux ( Learn how to check logs and `audit2allow` )
+-   [ ] Learn `nmcli`
 -   [ ] Firewall ( Learn `firewalld` )
 
 
-### Week 2: Networking Fundamentals {#week-2-networking-fundamentals}
+### Week 2 - 4: Deep Dive ( SAA-C03 ) {#week-2-4-deep-dive--saa-c03}
 
 -   [ ] CIDR Notation ( Subnet ranges )
 -   [ ] DNS Debugging ( Master `dig` and `nslookup` )
 -   [ ] HTTP Status Codes ( Memorise difference between 401/403 and 502/503 )
 -   [ ] The Packet Journey ( Be able to explain what happens when you type an address into a browser, e.g. `growing.wiki` and `DNS` -&gt; `IP` -&gt; `TCP Handshake` -&gt; `TLS` -&gt; `HTTP` )
+-   [ ] Content Consumption ( Adrian Cantrill's or Stephane Maarek's AWS SAA-C03 course. Focus on `VPC`, `S3`, `EC2` and `IAM` )
+-   [ ] `VPC Networking` and `IAM` ( Most people struggle hardest with )
 
 
-### Week 3 - 4:  AWS Certified Solutions Architect ( SAA-C03 ) {#week-3-4-aws-certified-solutions-architect--saa-c03}
+### Week 5:  AWS Certified Solutions Architect ( SAA-C03 ) {#week-5-aws-certified-solutions-architect--saa-c03}
 
--   [ ] Course ( Complete Adrian Cantrill's or Stephane Maarek's AWS SAA-C03 course. Skip "coding" parts and focus on `VPC`, `S3`, `EC2` and `IAM` )
 -   [ ] Practice Exams ( TutorialsDojo practice exams )
 -   [ ] Exam ( PASS IT )
 
