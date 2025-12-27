@@ -25,8 +25,9 @@ Rather a W.I.P that is constantly evolving and **growing**, for the sake of alwa
 
 ## So what's next? {#so-what-s-next}
 
-You can:
+You can read about:
 
--   Find out [why I made the Growing Wiki](/why-i-made-the-growing-wiki/#content)
--   Read [the guide](/garden-guide/#growth-level)
--   Read about [how this website was made](/how-i-made-the-growing-wiki/#content) (and how it works)
+-   [why I made the Growing Wiki](/why-i-made-the-growing-wiki/#content)
+-   [The guide](/garden-guide/#growth-level) to this website
+-   [How this website was made](/how-i-made-the-growing-wiki/#content) (and how it works)
+-   My most recent project
