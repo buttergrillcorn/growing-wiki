@@ -53,10 +53,11 @@ The goal is to have a local VM running a hardened web server ( SELinux Enforcing
 The goal here is to build two professional projects using org mode.
 
 
-### Week 5: Tooling {#week-5-tooling}
+### Week 5: Tooling + "Skeleton" {#week-5-tooling-plus-skeleton}
 
 -   [ ] Learn and set up LSP's ( `terraform-ls` and `docker-langserver` )
 -   [ ] Set up Doom Emacs for writing code
+-   [ ] Set up Terraform Remote State ( S3 bucket for state and DynamoDB for locking )
 
 
 ### Week 6: Project A ( Static Site Migration `ongoingarchive.com` ) {#week-6-project-a--static-site-migration-ongoingarchive-dot-com}
