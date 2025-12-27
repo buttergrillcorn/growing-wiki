@@ -17,7 +17,10 @@ I will also be documenting my progress as well as what I learn here.
 
 * PHASE 1 - The Foundation and Certification
 =WEEKS 1 - 4=
-** Week 1 - The
+** Week 1 - The Enterprise Linux Gap
+This is where I will be bridge the knowledge gap between personal Linux and enterprise Linux.
+
+*** [ ] Install a RHEL-based distro
 
 * PHASE 2
 

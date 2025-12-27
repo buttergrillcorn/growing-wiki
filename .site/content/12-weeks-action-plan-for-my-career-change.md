@@ -17,7 +17,12 @@ I will also be documenting my progress as well as what I learn here.
 `WEEKS 1 - 4`
 
 
-### Week 1 - The {#week-1-the}
+### Week 1 - The Enterprise Linux Gap {#week-1-the-enterprise-linux-gap}
+
+This is where I will be bridge the knowledge gap between personal Linux and enterprise Linux.
+
+
+#### <span class="org-todo todo ___">[ ]</span> Install a RHEL-based distro {#install-a-rhel-based-distro}
 
 
 ## PHASE 2 {#phase-2}
