@@ -49,7 +49,10 @@ This is where I will be bridge the knowledge gap between personal Linux and ente
 The goal here is to build two professional projects using org mode.
 
 
-### Week 5: {#week-5}
+### Week 5: Tooling {#week-5-tooling}
+
+-   [ ] Learn and set up LSP's ( `terraform-ls` and `docker-langserver` )
+-   [ ] Set up Doom Emacs for writing code
 
 
 ## PHASE 3 {#phase-3}
