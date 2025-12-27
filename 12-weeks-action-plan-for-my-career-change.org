@@ -67,6 +67,8 @@ Don't just make it work, make it *secure*!
   
 ** Week 7: Project B ( Container Orchestration =growing.wiki= ) 
 
+Build a secure *"Production"* environment.
+
 + [ ] Containerise ( Write a multi-stage =Dockerfile=, from build stage to runtime stage, to keep the image small using Alpine Linux )
 + [ ] Orchestrate ( Use Terraform to deploy this to =AWS ECS Fargate= )
   + [ ] Create a =VPC= with Public/Private subnets
