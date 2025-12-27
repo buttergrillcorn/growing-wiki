@@ -1,0 +1,13 @@
+#+title: Why I made the Growing Wiki
+#+date: [2025-12-27 Sat 15:45]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: 
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2025-12-27
+#+EXPORT_FILE_NAME: Why I made the Growing Wiki
+
+* Content
+:PROPERTIES:
+:ID:       20251227T154508.043143
+:END:
+
