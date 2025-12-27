@@ -5,4 +5,28 @@ date = 2025-12-27T18:08:00+00:00
 draft = false
 +++
 
-## <span class="org-todo todo TODO">TODO</span> From retail to ... {#from-retail-to-dot-dot-dot}
+## Background {#background}
+
+I have been working in the retail and food catering industry for over 7 years now. Started out as
+a "Sandwich Artist" in Subway at the age of 17.
+
+I went from making sandwiches, to:
+
+-   Serving sushi
+-   Working in a media company that live streams on TikTok
+-   Retail experience in an Asian grocery store (including invoice processing and website management)
+-   Brewing coffee at Starbucks (I now proudly have my own espresso machine, miles better)
+-   Retail at M&amp;S (current job as of 2025)
+
+
+## Why am I seeking a career change? {#why-am-i-seeking-a-career-change}
+
+Apart from money and personal life reasons, I never had a "passion" for retail.
+Not to shame those who work in retail and the likes, I don't find myself to care about retail besides the salary that I need. I have built up a lot of respect for those who work in retail, especially towards the bottom of the hierarchy.
+
+
+## What is the new beginning? {#what-is-the-new-beginning}
+
+Unfortunately, I don't actually have a goal that drives me out of bed every morning, ready to tackle the next obstacle in the way. What I do know, is the fact that I am passionate about all things tech related.
+
+As ordinary as this may sound, I love problem solving. Typing this out on my Lenovo T480 that currently runs Arch Linux using Doom Emacs, I can also be certain that I have a thing for computers. And so I have concluded this attempt at entering the IT industry.
