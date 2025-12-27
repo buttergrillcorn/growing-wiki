@@ -12,12 +12,15 @@ This plan is design with my current life circumstances in mind - working 20 hour
 I will also be documenting my progress as well as what I learn here.
 
 
-## Phase 1 - The Foundation and Certification {#phase-1-the-foundation-and-certification}
+## PHASE 1 - The Foundation and Certification {#phase-1-the-foundation-and-certification}
 
 `WEEKS 1 - 4`
 
 
-## Phase 2 {#phase-2}
+### Week 1 - The {#week-1-the}
 
 
-## Phase 3 {#phase-3}
+## PHASE 2 {#phase-2}
+
+
+## PHASE 3 {#phase-3}
