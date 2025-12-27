@@ -17,7 +17,7 @@ I will also be documenting my progress as well as what I learn here.
 `WEEKS 1 - 4`
 
 
-### Week 1 - The Enterprise Linux Gap {#week-1-the-enterprise-linux-gap}
+### Week 1: The Enterprise Linux Gap {#week-1-the-enterprise-linux-gap}
 
 This is where I will be bridge the knowledge gap between personal Linux and enterprise Linux.
 
@@ -25,6 +25,14 @@ This is where I will be bridge the knowledge gap between personal Linux and ente
 -   [ ] Master Package Management ( `dnf` or `rpm` instead of `pacman` )
 -   [ ] Learn SELinux ( Learn how to check logs and `audit2allow` )
 -   [ ] Firewall ( Learn `firewalld` )
+
+
+### Week 2: Networking Fundamentals {#week-2-networking-fundamentals}
+
+-   [ ] CIDR Notation ( Subnet ranges )
+-   [ ] DNS Debugging ( Master `dig` and `nslookup` )
+-   [ ] HTTP Status Codes ( Memorise difference between 401/403 and 502/503 )
+-   [ ] The Packet Journey ( Be able to explain what happens when you type an address into a browser, e.g. `growing.wiki` )
 
 
 ## PHASE 2 {#phase-2}

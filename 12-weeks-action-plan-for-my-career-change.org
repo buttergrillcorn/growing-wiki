@@ -17,13 +17,22 @@ I will also be documenting my progress as well as what I learn here.
 
 * PHASE 1 - The Foundation and Certification
 =WEEKS 1 - 4=
-** Week 1 - The Enterprise Linux Gap
+
+** Week 1: The Enterprise Linux Gap
+
 This is where I will be bridge the knowledge gap between personal Linux and enterprise Linux.
 
 + [ ] Install a RHEL-based distro ( Set up Rocky Linux or Fedora in a VM ) 
 + [ ] Master Package Management ( =dnf= or =rpm= instead of =pacman= )
 + [ ] Learn SELinux ( Learn how to check logs and =audit2allow= )
 + [ ] Firewall ( Learn =firewalld= )
+  
+** Week 2: Networking Fundamentals 
+
++ [ ] CIDR Notation ( Subnet ranges )
++ [ ] DNS Debugging ( Master =dig= and =nslookup= )
++ [ ] HTTP Status Codes ( Memorise difference between 401/403 and 502/503 )
++ [ ] The Packet Journey ( Be able to explain what happens when you type an address into a browser, e.g. =growing.wiki= )
 
 * PHASE 2
 
