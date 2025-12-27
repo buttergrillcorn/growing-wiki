@@ -99,11 +99,12 @@ Automate the deployment for Project A + B.
 Basically at this point, what's left will be to get interviews and land a role using my resume and portfolio.
 
 
-### Week 9: Resume Engineering {#week-9-resume-engineering}
+### Week 9: Resume Engineering + Literate Documentation {#week-9-resume-engineering-plus-literate-documentation}
 
 -   [ ] Retail Translation ( Rewrite retail experience to suit new career )
 -   [ ] Tech Highlights ( Linux and Terraform skills )
 -   [ ] Project Links ( Link my GitHub and projects )
+-   [ ] Polish `.org` files ( Make READMEs look professional )
 
 
 ### Week 10: London Market Integration {#week-10-london-market-integration}
