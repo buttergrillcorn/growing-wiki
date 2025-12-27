@@ -42,3 +42,5 @@ fnm install --latest
 
 
 ### Method 2 - Change the default directory for `npm` {#method-2-change-the-default-directory-for-npm}
+
+If you prefer to use the system Node package from you package manager, in my case, `sudo pacman -S nodejs npm`. You can redirect global installs (`=npm install -g`) to your `$HOME` directory.
