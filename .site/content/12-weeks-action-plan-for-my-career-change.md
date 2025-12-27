@@ -38,7 +38,7 @@ This is where I will be bridge the knowledge gap between personal Linux and ente
 ### Week 3 - 4:  AWS Certified Solutions Architect ( SAA-C03 ) {#week-3-4-aws-certified-solutions-architect--saa-c03}
 
 -   [ ] Course ( Complete Adrian Cantrill's or Stephane Maarek's AWS SAA-C03 course. Skip "coding" parts and focus on `VPC`, `S3`, `EC2` and `IAM` )
--   [ ] Practice Exams ( TutorialDojo practice exams )
+-   [ ] Practice Exams ( TutorialsDojo practice exams )
 
 
 ## PHASE 2 {#phase-2}
