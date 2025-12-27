@@ -5,7 +5,7 @@ date = 2025-12-14T16:50:00+00:00
 draft = false
 +++
 
-## What {#what}
+## What is it? {#what-is-it}
 
 This is my attempt at growing my own [Digital Garden](/digital-garden/#content) and [learning in public](/learning-in-public/#content).
 
