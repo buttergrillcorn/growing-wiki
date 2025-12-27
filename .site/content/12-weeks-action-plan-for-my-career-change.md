@@ -21,11 +21,8 @@ I will also be documenting my progress as well as what I learn here.
 
 This is where I will be bridge the knowledge gap between personal Linux and enterprise Linux.
 
--   [ ] Install a RHEL-based distro
-
-( Set up Rocky Linux or Fedora in a VM )
-
--   [ ]
+-   [ ] Install a RHEL-based distro ( Set up Rocky Linux or Fedora in a VM )
+-   [ ] Master Package Management ( `dnf` or `rpm` instead of `pacman` )
 
 
 ## PHASE 2 {#phase-2}
