@@ -14,7 +14,7 @@ I will also be documenting my progress as well as what I learn here.
 
 ## Phase 1 - The Foundation and Certification {#phase-1-the-foundation-and-certification}
 
-`Weeks 1-4`
+`WEEKS 1 - 4`
 
 
 ## Phase 2 {#phase-2}
