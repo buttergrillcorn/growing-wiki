@@ -1,0 +1,13 @@
+#+title: Career Change
+#+date: [2025-12-27 Sat 18:08]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: 
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2025-12-27
+#+EXPORT_FILE_NAME: career-change
+
+* TODO Content
+:PROPERTIES:
+:ID:       20251227T180818.717783
+:END:
+
