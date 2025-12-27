@@ -56,3 +56,15 @@ Then configure `npm` to use this new path:
 ```bash
 npm config set prefix '~/.local/share/npm-global'
 ```
+
+After that, you will then have to update your PATH. In my case, this would be `~/.zshrc`:
+
+```bash
+export PATH="$HOME/.local/share/npm-global/bin:$PATH"
+```
+
+Before you test or use this method, you must first source the new configuration to refresh your shell:
+
+```bash
+source ~/.zshrc
+```
