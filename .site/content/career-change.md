@@ -39,4 +39,4 @@ My first stepping stone would ideally be something along the lines of "Cloud Ops
 
 Like many things in life, the path is very unclear and likely to have many unpredictable changes.
 
-To make sure that I don't strafe off too far, I will need a plan.
+To make sure that I don't stray too far off, I will need a [plan](/12-weeks-action-plan-for-my-career-change/#phase-3).
