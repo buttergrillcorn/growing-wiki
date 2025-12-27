@@ -23,7 +23,15 @@ The point is *not* to have a highly polished final piece to showcase;
 
 Rather a W.I.P that is constantly evolving and *growing*, for the sake of always _learning_.
 
-* Why
+-----
+
+* So what's next?
+
+You can:
+
++ Why I made the Growing Wiki
++ Read the guide
+
 
 Because why not?
 
