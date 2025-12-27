@@ -55,4 +55,37 @@ The goal here is to build two professional projects using org mode.
 -   [ ] Set up Doom Emacs for writing code
 
 
-## PHASE 3 {#phase-3}
+### Week 6: Project A ( Static Site Migration `ongoingarchive.com` ) {#week-6-project-a--static-site-migration-ongoingarchive-dot-com}
+
+-   [ ] Architecture ( Migrate the site to `AWS S3` for storage and `CloudFront` for CDN )
+-   [ ] Terraform ( Write a literate `org` file documenting both explanation and Terraform code, required resources: `aws_s3_bucket`, `aws_cloudfront_distribution`, `aws_route53_record` )
+-   [ ] Security ( Implement Origin Access Control )
+
+
+### Week 7: Project B ( Container Orchestration `growing.wiki` ) {#week-7-project-b--container-orchestration-growing-dot-wiki}
+
+-   [ ] Containerise ( Write a multi-stage `Dockerfile`, from build stage to runtime stage, to keep the image small using Alpine Linux )
+-   [ ] Orchestrate ( Use Terraform to deploy this to `AWS ECS Fargate` )
+    -   [ ] Create a `VPC` with Public/Private subnets
+    -   [ ] Put the Application Load Balancer ( `ALB` ) in Public
+    -   [ ] Put the Fargate Tasks ( Containers ) in Private
+-   [ ] Outcome ( A URL that load balances traffic to the container )
+
+
+### Week 8: CI/CD Automation {#week-8-ci-cd-automation}
+
+-   [ ] GitHub Actions ( Create a workflow for both projects )
+    -   [ ] Project A: `git push -> sync to S3 -> invalidate CloudFront cache`
+    -   [ ] Project B: `git push -> build Docker image -> push to AWS ECR -> force new ECS deployment`
+
+
+## PHASE 3 - The Job Hunt {#phase-3-the-job-hunt}
+
+`WEEKS 9 - 12`
+
+Basically at this point, what's left will be to get interviews and land a role using my resume and portfolio.
+
+
+### Week 9: Resume Engineering {#week-9-resume-engineering}
+
+-   [ ] Retail Translation ( Rewrite retail experience to  )
