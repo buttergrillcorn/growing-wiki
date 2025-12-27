@@ -83,6 +83,10 @@ Build a secure **"Production"** environment.
 
 ### Week 8: CI/CD Automation {#week-8-ci-cd-automation}
 
+Automate the deployment for Project A + B.
+
+**This is where you transition from "someone who knows AWS" to "someone who works in DevOps".**
+
 -   [ ] GitHub Actions ( Create a workflow for both projects )
     -   [ ] Project A: `git push -> sync to S3 -> invalidate CloudFront cache`
     -   [ ] Project B: `git push -> build Docker image -> push to AWS ECR -> force new ECS deployment`
