@@ -11,3 +11,18 @@
 :ID:       20251227T155831.103223
 :END:
 
+This website is essentially my notebook that's kept in the open for everyone and anyone to see. I treat this as something like an [[https://obsidian.md/][Obsidian]] vault.
+The only difference being that it's public. I designed it to be this way to keep it as simple as possible, to reduce the friction to write and publish.
+
+My workflow is something like:
+
+#+begin_center
+=Write / Edit → Sync → Publish=
+#+end_center
+
+The underlined tools and programmes that I use are:
++ [[id:20251215T161118.828881][Emacs]] ( [[https://github.com/doomemacs/doomemacs][Doom Emacs]] ) :: For editing =.org= files, which is the base file format.
++ [[https://ox-hugo.scripter.co/][Ox-Hugo]] :: For exporting =.org= files to =.md= files. 
++ [[https://gohugo.io/][Hugo]] :: Static site generator, or /"The world's fastest framework for building websites"/.
++ Git ( and currently [[https://github.com][GitHub]] ) ::  For version control and syncing remotely.
++ [[https:www.cloudflare.com][Cloudflare]] :: For domain management and hosting.
