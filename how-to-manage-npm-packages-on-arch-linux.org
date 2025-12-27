@@ -33,4 +33,10 @@ You will then have to set up your shell, in my case =~/.zshrc=, like:
 eval "$(fnm evn --use-on-cd)"
 #+end_src
 
+And finally, install Node:
+
+#+begin_src bash
+fnm install --latest
+#+end_src
+
 
