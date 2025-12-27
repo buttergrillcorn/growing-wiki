@@ -7,7 +7,7 @@ draft = false
 
 ## Context {#context}
 
-This plan is design with my current life circumstances in mind - working 20 hours and other things that are more private. I have also taken into consideration related skills and experiences that I already process.
+This plan is design with my current life circumstances in mind - working 20 hours and private life things. In addition to that, I have also taken into consideration related skills and experiences that I already process.
 
 I will also be documenting my progress as well as what I learn here.
 
