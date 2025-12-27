@@ -30,7 +30,7 @@ Rather a W.I.P that is constantly evolving and *growing*, for the sake of always
 You can:
 
 + Find out [[id:20251227T155317.169024][why I made the Growing Wiki]]
-+ Read the guide
++ Read [[id:20251215T162248.587790][the guide]]
 
 
 * How 
