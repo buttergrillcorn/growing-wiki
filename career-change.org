@@ -6,8 +6,9 @@
 #+HUGO_DATE: 2025-12-27
 #+EXPORT_FILE_NAME: career-change
 
-* TODO Content
+* TODO From retail to ... 
 :PROPERTIES:
 :ID:       20251227T180818.717783
 :END:
+
 
