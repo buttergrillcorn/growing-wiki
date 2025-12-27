@@ -24,7 +24,8 @@ This is where I will be bridge the knowledge gap between personal Linux and ente
 
 #### <span class="org-todo todo ___">[ ]</span> Install a RHEL-based distro ( Set up Rocky Linux or Fedora in a VM ) {#install-a-rhel-based-distro--set-up-rocky-linux-or-fedora-in-a-vm}
 
--   [ ]
+
+#### <span class="org-todo todo ___">[ ]</span>  {#d41d8c}
 
 
 ## PHASE 2 {#phase-2}
