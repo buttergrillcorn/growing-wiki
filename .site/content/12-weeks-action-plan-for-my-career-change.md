@@ -23,6 +23,8 @@ This is where I will be bridge the knowledge gap between personal Linux and ente
 
 -   [ ] Install a RHEL-based distro ( Set up Rocky Linux or Fedora in a VM )
 -   [ ] Master Package Management ( `dnf` or `rpm` instead of `pacman` )
+-   [ ] Learn SELinux ( Learn how to check logs and `audit2allow` )
+-   [ ] Firewall ( Learn `firewalld` )
 
 
 ## PHASE 2 {#phase-2}
