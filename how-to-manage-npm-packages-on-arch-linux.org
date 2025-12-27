@@ -16,6 +16,21 @@ Avoid using =sudo= with =npm= to install packages as this can lead to permission
 * The "correct" methods
 ** Method 1 - Use a Version Manager
 
-The first method is to use something like =fnm= (Fast Node Manager) or =nvm=.
+The first method is to use something like =fnm= ([[https://github.com/Schniz/fnm][Fast Node Manager]]) or =nvm= ([[https://github.com/nvm-sh/nvm][Node Version Manager]]).
+
+These will allow you to install multiple versions of Node.js for development without the use of root privileges. Everything will be contained in your =$HOME= directory.
+
+So if you're on Arch Linux, you can install the managers using =pacman= like:
+
+#+begin_src bash
+sudo pacman -S fnm
+# or pacman -S nvm
+#+end_src
+
+You will then have to set up your shell, in my case =~/.zshrc=, like:
+
+#+begin_src bash
+eval "$(fnm evn --use-on-cd)"
+#+end_src
 
 
