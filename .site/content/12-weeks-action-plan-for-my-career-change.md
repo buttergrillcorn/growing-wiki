@@ -88,4 +88,19 @@ Basically at this point, what's left will be to get interviews and land a role u
 
 ### Week 9: Resume Engineering {#week-9-resume-engineering}
 
--   [ ] Retail Translation ( Rewrite retail experience to  )
+-   [ ] Retail Translation ( Rewrite retail experience to suit new career )
+-   [ ] Tech Highlights ( Linux and Terraform skills )
+-   [ ] Project Links ( Link my GitHub and projects )
+
+
+### Week 10: London Market Integration {#week-10-london-market-integration}
+
+-   [ ] Agencies ( Register specifically with LinuxRecruit, Oho Group and Client Server, call and not just email )
+-   [ ] Platforms ( Create profiles on Otta and Cord )
+-   [ ] Meetups ( Attend London DevOps and/or Cloud Native London, socialise and network )
+
+
+### Week 11-12: Interview Drill {#week-11-12-interview-drill}
+
+-   [ ] Scenario Prep ( Practice answer question like "A server is high on CPU, how do you debug it?" `top`, `htop`, `pidstat`, check logs )
+-   [ ] The "Arch" Question ( Be ready to answer questions like "Why Arch?" )
