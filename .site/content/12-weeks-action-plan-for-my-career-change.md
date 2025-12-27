@@ -39,9 +39,17 @@ This is where I will be bridge the knowledge gap between personal Linux and ente
 
 -   [ ] Course ( Complete Adrian Cantrill's or Stephane Maarek's AWS SAA-C03 course. Skip "coding" parts and focus on `VPC`, `S3`, `EC2` and `IAM` )
 -   [ ] Practice Exams ( TutorialsDojo practice exams )
+-   [ ] Exam ( PASS IT )
 
 
-## PHASE 2 {#phase-2}
+## PHASE 2 - The "Literate DevOps" Portfolio {#phase-2-the-literate-devops-portfolio}
+
+`WEEKS 5 - 8`
+
+The goal here is to build two professional projects using org mode.
+
+
+### Week 5: {#week-5}
 
 
 ## PHASE 3 {#phase-3}
