@@ -21,8 +21,10 @@ I will also be documenting my progress as well as what I learn here.
 
 This is where I will be bridge the knowledge gap between personal Linux and enterprise Linux.
 
+[ ] Install a RHEL-based distro
+: Set up Rocky Linux or Fedora in a VM
 
-## <span class="org-todo todo ___">[ ]</span> Install a RHEL-based distro {#install-a-rhel-based-distro}
+[ ]
 
 
 ## PHASE 2 {#phase-2}
