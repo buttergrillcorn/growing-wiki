@@ -59,6 +59,8 @@ The goal here is to build two professional projects using org mode.
   
 ** Week 6: Project A ( Static Site Migration =ongoingarchive.com= ) 
 
+Don't just make it work, make it *secure*!
+
 + [ ] Architecture ( Migrate the site to =AWS S3= for storage and =CloudFront= for CDN )
 + [ ] Terraform ( Write a literate =org= file documenting both explanation and Terraform code, required resources: =aws_s3_bucket=, =aws_cloudfront_distribution=, =aws_route53_record= )
 + [ ] Security ( Implement Origin Access Control )
