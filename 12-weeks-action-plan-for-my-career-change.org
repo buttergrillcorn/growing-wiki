@@ -33,6 +33,10 @@ This is where I will be bridge the knowledge gap between personal Linux and ente
 + [ ] DNS Debugging ( Master =dig= and =nslookup= )
 + [ ] HTTP Status Codes ( Memorise difference between 401/403 and 502/503 )
 + [ ] The Packet Journey ( Be able to explain what happens when you type an address into a browser, e.g. =growing.wiki= and =DNS= -> =IP= -> =TCP Handshake= -> =TLS= -> =HTTP= )
+  
+** Week 3 - 4:  AWS Certified Solutions Architect ( SAA-C03 )
+
++ [ ] Course ( Complete Adrian Cantrill's or Stephane Maarek's AWS SAA-C03 course )
 
 * PHASE 2
 

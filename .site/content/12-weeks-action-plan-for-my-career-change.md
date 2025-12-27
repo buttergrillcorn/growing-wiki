@@ -35,6 +35,11 @@ This is where I will be bridge the knowledge gap between personal Linux and ente
 -   [ ] The Packet Journey ( Be able to explain what happens when you type an address into a browser, e.g. `growing.wiki` and `DNS` -&gt; `IP` -&gt; `TCP Handshake` -&gt; `TLS` -&gt; `HTTP` )
 
 
+### Week 3 - 4:  AWS Certified Solutions Architect ( SAA-C03 ) {#week-3-4-aws-certified-solutions-architect--saa-c03}
+
+-   [ ] Course ( Complete Adrian Cantrill's or Stephane Maarek's AWS SAA-C03 course )
+
+
 ## PHASE 2 {#phase-2}
 
 
