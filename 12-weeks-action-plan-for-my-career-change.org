@@ -6,8 +6,9 @@
 #+HUGO_DATE: 2025-12-27
 #+EXPORT_FILE_NAME: 12-weeks-action-plan-for-my-career-change
 
-* TODO Content
+* Context
 :PROPERTIES:
 :ID:       20251227T183632.488529
 :END:
 
+This plan is design with my current life circumstances in mind - working 20 hours and other things that are more private. I have also taken into consideration related skills and experiences that I already process.
