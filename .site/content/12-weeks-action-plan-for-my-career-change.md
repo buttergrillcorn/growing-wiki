@@ -32,7 +32,7 @@ This is where I will be bridge the knowledge gap between personal Linux and ente
 -   [ ] CIDR Notation ( Subnet ranges )
 -   [ ] DNS Debugging ( Master `dig` and `nslookup` )
 -   [ ] HTTP Status Codes ( Memorise difference between 401/403 and 502/503 )
--   [ ] The Packet Journey ( Be able to explain what happens when you type an address into a browser, e.g. `growing.wiki` )
+-   [ ] The Packet Journey ( Be able to explain what happens when you type an address into a browser, e.g. `growing.wiki` and `DNS` -&gt; `IP` -&gt; `TCP Handshake` -&gt; `TLS` -&gt; `HTTP` )
 
 
 ## PHASE 2 {#phase-2}
