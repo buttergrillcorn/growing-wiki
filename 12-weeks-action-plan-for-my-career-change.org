@@ -17,7 +17,7 @@ I will also be documenting my progress as well as what I learn here.
 
 * PHASE 1 - The Foundation and Certification
 
-=WEEKS 1 - 4=
+=WEEKS 1 - 5=
 
 ** Week 1: The Enterprise Linux Gap
 
@@ -47,17 +47,17 @@ The goal is to have a local VM running a hardened web server ( SELinux Enforcing
 
 * PHASE 2 - The "Literate DevOps" Portfolio
 
-=WEEKS 5 - 8=
+=WEEKS 6 - 9=
 
 The goal here is to build two professional projects using org mode.
 
-** Week 5: Tooling + "Skeleton"
+** Week 6: Tooling + "Skeleton"
 
 + [ ] Learn and set up LSP's ( =terraform-ls= and =docker-langserver= )
 + [ ] Set up Doom Emacs for writing code
 + [ ] Set up Terraform Remote State ( S3 bucket for state and DynamoDB for locking )
   
-** Week 6: Project A ( Static Site Migration =ongoingarchive.com= ) 
+** Week 7: Project A ( Static Site Migration =ongoingarchive.com= ) 
 
 Don't just make it work, make it *secure*!
 
@@ -65,7 +65,7 @@ Don't just make it work, make it *secure*!
 + [ ] Terraform ( Write a literate =org= file documenting both explanation and Terraform code, required resources: =aws_s3_bucket=, =aws_cloudfront_distribution=, =aws_route53_record= )
 + [ ] Security ( Implement Origin Access Control )
   
-** Week 7: Project B ( Container Orchestration =growing.wiki= ) 
+** Week 8: Project B ( Container Orchestration =growing.wiki= ) 
 
 Build a secure *"Production"* environment.
 
@@ -76,7 +76,7 @@ Build a secure *"Production"* environment.
   + [ ] Put the Fargate Tasks ( Containers ) in Private
 + [ ] Outcome ( A URL that load balances traffic to the container )
   
-** Week 8: CI/CD Automation
+** Week 9: CI/CD Automation
 
 Automate the deployment for Project A + B.
 
@@ -88,7 +88,7 @@ Automate the deployment for Project A + B.
   
 * PHASE 3 - The Job Hunt
 
-=WEEKS 9 - 12=
+=WEEKS 10 - 12=
 
 Basically at this point, what's left will be to get interviews and land a role using my resume and portfolio.
 

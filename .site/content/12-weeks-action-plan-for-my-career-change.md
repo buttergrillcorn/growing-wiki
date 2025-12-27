@@ -14,7 +14,7 @@ I will also be documenting my progress as well as what I learn here.
 
 ## PHASE 1 - The Foundation and Certification {#phase-1-the-foundation-and-certification}
 
-`WEEKS 1 - 4`
+`WEEKS 1 - 5`
 
 
 ### Week 1: The Enterprise Linux Gap {#week-1-the-enterprise-linux-gap}
@@ -48,19 +48,19 @@ The goal is to have a local VM running a hardened web server ( SELinux Enforcing
 
 ## PHASE 2 - The "Literate DevOps" Portfolio {#phase-2-the-literate-devops-portfolio}
 
-`WEEKS 5 - 8`
+`WEEKS 6 - 9`
 
 The goal here is to build two professional projects using org mode.
 
 
-### Week 5: Tooling + "Skeleton" {#week-5-tooling-plus-skeleton}
+### Week 6: Tooling + "Skeleton" {#week-6-tooling-plus-skeleton}
 
 -   [ ] Learn and set up LSP's ( `terraform-ls` and `docker-langserver` )
 -   [ ] Set up Doom Emacs for writing code
 -   [ ] Set up Terraform Remote State ( S3 bucket for state and DynamoDB for locking )
 
 
-### Week 6: Project A ( Static Site Migration `ongoingarchive.com` ) {#week-6-project-a--static-site-migration-ongoingarchive-dot-com}
+### Week 7: Project A ( Static Site Migration `ongoingarchive.com` ) {#week-7-project-a--static-site-migration-ongoingarchive-dot-com}
 
 Don't just make it work, make it **secure**!
 
@@ -69,7 +69,7 @@ Don't just make it work, make it **secure**!
 -   [ ] Security ( Implement Origin Access Control )
 
 
-### Week 7: Project B ( Container Orchestration `growing.wiki` ) {#week-7-project-b--container-orchestration-growing-dot-wiki}
+### Week 8: Project B ( Container Orchestration `growing.wiki` ) {#week-8-project-b--container-orchestration-growing-dot-wiki}
 
 Build a secure **"Production"** environment.
 
@@ -81,7 +81,7 @@ Build a secure **"Production"** environment.
 -   [ ] Outcome ( A URL that load balances traffic to the container )
 
 
-### Week 8: CI/CD Automation {#week-8-ci-cd-automation}
+### Week 9: CI/CD Automation {#week-9-ci-cd-automation}
 
 Automate the deployment for Project A + B.
 
@@ -94,7 +94,7 @@ Automate the deployment for Project A + B.
 
 ## PHASE 3 - The Job Hunt {#phase-3-the-job-hunt}
 
-`WEEKS 9 - 12`
+`WEEKS 10 - 12`
 
 Basically at this point, what's left will be to get interviews and land a role using my resume and portfolio.
 
