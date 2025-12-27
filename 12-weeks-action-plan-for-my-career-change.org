@@ -16,6 +16,7 @@ This plan is design with my current life circumstances in mind - working 20 hour
 I will also be documenting my progress as well as what I learn here.
 
 * PHASE 1 - The Foundation and Certification
+
 =WEEKS 1 - 4=
 
 ** Week 1: The Enterprise Linux Gap
@@ -41,6 +42,7 @@ This is where I will be bridge the knowledge gap between personal Linux and ente
 + [ ] Exam ( PASS IT )
 
 * PHASE 2 - The "Literate DevOps" Portfolio
+
 =WEEKS 5 - 8=
 
 The goal here is to build two professional projects using org mode.
@@ -72,6 +74,7 @@ The goal here is to build two professional projects using org mode.
   + [ ] Project B: =git push -> build Docker image -> push to AWS ECR -> force new ECS deployment=
   
 * PHASE 3 - The Job Hunt
+
 =WEEKS 9 - 12=
 
 Basically at this point, what's left will be to get interviews and land a role using my resume and portfolio.
