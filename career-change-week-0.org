@@ -15,8 +15,17 @@ I gave myself a head start here, an initial "nitro boost" if you will.
 So instead of starting on the 1st of January 2026 like any other "New Year's Resolution" project.
 I dived right in, the very next day after making my [[id:20251227T183632.488529][12 weeks plan]] ( 2025-12-28 ).
 
-* Virtual Machine
+* Virtual Machine 
+DEADLINE: <2025-12-28 Sun>
 :LOGBOOK:
+#+BEGIN: clocktable :scope subtree :maxlevel 2
+#+CAPTION: Clock summary at [2025-12-28 Sun 13:28]
+| Headline   | Time |
+|------------+------|
+| *Total time* | *0:00* |
+#+END:
+
 CLOCK: [2025-12-28 Sun 13:27]
 :END:
-<2025-12-28 Sun>
+
+
