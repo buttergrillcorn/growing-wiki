@@ -19,4 +19,4 @@ I dived right in, the very next day after making my [12 weeks plan](/12-weeks-ac
 **Objective:**<br />
 Set up Virtual Machine and install a distro that's used for servers.
 
-Setting up
+[Here](/setting-up-vm-for-enterprise-environment/#components-for-the-stack) is how I do it for my purpose.
