@@ -10,3 +10,8 @@ draft = false
 I gave myself a head start here, an initial "nitro boost" if you will.
 So instead of starting on the 1st of January 2026 like any other "New Year's Resolution" project.
 I dived right in, the very next day after making my [12 weeks plan](/12-weeks-action-plan-for-my-career-change/#week-11-12-interview-drill) ( 2025-12-28 ).
+
+
+## Virtual Machine {#virtual-machine}
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2025-12-28 Sun&gt;</span></span>
