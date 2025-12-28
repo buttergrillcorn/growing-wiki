@@ -16,7 +16,7 @@ I dived right in, the very next day after making my [12 weeks plan](/12-weeks-ac
 
 <span class="timestamp-wrapper"><span class="timestamp">[2025-12-28 Sun]</span></span>
 
-**Objective:**
+**Objective:**<br />
 Set up Virtual Machine and install a distro that's used for servers.
 
 Setting up
