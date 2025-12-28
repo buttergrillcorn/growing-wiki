@@ -11,3 +11,6 @@
 :ID:       20251228T190207.612738
 :END:
 
+** What QEMU does and why it's important
+
+*** Hardware Emulation

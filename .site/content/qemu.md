@@ -6,3 +6,9 @@ draft = false
 +++
 
 ## <span class="org-todo todo TODO">TODO</span> Content {#content}
+
+
+### What QEMU does and why it's important {#what-qemu-does-and-why-it-s-important}
+
+
+#### Hardware Emulation {#hardware-emulation}
