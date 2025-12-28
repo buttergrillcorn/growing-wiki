@@ -28,6 +28,8 @@ CLOCK: [2025-12-28 Sun 13:27]
 :END:
 [2025-12-28 Sun]
 
-** Objective
+*Objective:*
 Set up Virtual Machine and install a distro that's used for servers.
+
+Setting up 
 
