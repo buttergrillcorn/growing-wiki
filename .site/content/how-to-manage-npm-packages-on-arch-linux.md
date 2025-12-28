@@ -19,8 +19,6 @@ The first method is to use something like `fnm` ([Fast Node Manager](https://git
 
 These will allow you to install multiple versions of Node.js for development without the use of root privileges. Everything will be contained in your `$HOME` directory.
 
-Note: You will not need the `npm` package to be installed, it will be managed using the manager.
-
 So if you're on Arch Linux, you can install the managers using `pacman` like:
 
 ```bash
