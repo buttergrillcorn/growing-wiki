@@ -11,6 +11,10 @@ This plan is design with my current life circumstances in mind - working 20 hour
 
 I will also be documenting my progress as well as what I learn throughout this project, if you're interested.
 
+The progress and documentation is tracked in week numbers:
+
+[Career change progress track](/career-change-progress-track/#weeks)
+
 
 ## PHASE 1 - The Foundation and Certification {#phase-1-the-foundation-and-certification}
 

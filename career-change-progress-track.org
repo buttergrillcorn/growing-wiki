@@ -6,8 +6,13 @@
 #+HUGO_DATE: 2025-12-28
 #+EXPORT_FILE_NAME: career-change-progress-track
 
-* Weeks
+* Overview
 :PROPERTIES:
 :ID:       20251228T131451.300099
 :END:
 
+On this page, I will link all the weeks and maybe a brief description/evaluation of each week.
+
+** [[id:20251228T131932.226837][Week 0]]
+
+I gave myself a head start here, an initial "nitro boost" if you will.
