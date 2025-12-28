@@ -1,4 +1,4 @@
-#+title: KVM Kernel-based Virtual Machine
+#+title: KVM ( Kernel-based Virtual Machine )
 #+date: [2025-12-28 Sun 13:41]
 #+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: 
@@ -6,8 +6,9 @@
 #+HUGO_DATE: 2025-12-28
 #+EXPORT_FILE_NAME: kvm-kernel-based-virtual-machine
 
-* TODO Content
+* What is it?
 :PROPERTIES:
 :ID:       20251228T134122.543389
 :END:
 
+KVM ( Kernel-based Virtual Machine ) is a hypervisor built into the Linux kernel.

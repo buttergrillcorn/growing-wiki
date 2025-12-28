@@ -17,7 +17,7 @@ So instead of using a third-party application like [[https://www.virtualbox.org/
 
 ** Components for the stack
 
-+ KVM ( Kernel-based Virtual Machine )
++ [[id:20251228T134122.543389][KVM ( Kernel-based Virtual Machine )]]
 + QEMU
 + Libvirt
 + Virt-manager
