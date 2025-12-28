@@ -16,7 +16,6 @@ So instead of starting on the 1st of January 2026 like any other "New Year's Res
 I dived right in, the very next day after making my [[id:20251227T183632.488529][12 weeks plan]] ( 2025-12-28 ).
 
 * Virtual Machine 
-DEADLINE: <2025-12-28 Sun>
 :LOGBOOK:
 #+BEGIN: clocktable :scope subtree :maxlevel 2
 #+CAPTION: Clock summary at [2025-12-28 Sun 13:28]
@@ -27,5 +26,6 @@ DEADLINE: <2025-12-28 Sun>
 
 CLOCK: [2025-12-28 Sun 13:27]
 :END:
+[2025-12-28 Sun]
 
 
