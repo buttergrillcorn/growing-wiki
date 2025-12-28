@@ -16,4 +16,7 @@ So instead of starting on the 1st of January 2026 like any other "New Year's Res
 I dived right in, the very next day after making my [[id:20251227T183632.488529][12 weeks plan]] ( 2025-12-28 ).
 
 * Virtual Machine
+:LOGBOOK:
+CLOCK: [2025-12-28 Sun 13:27]
+:END:
 <2025-12-28 Sun>
