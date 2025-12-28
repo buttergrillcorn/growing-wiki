@@ -14,7 +14,7 @@ So instead of using a third-party application like [VirtualBox](https://www.virt
 
 ### Components for the stack {#components-for-the-stack}
 
--   [KVM ( Kernel-based Virtual Machine )](/kvm-kernel-based-virtual-machine/#what-is-it)
--   QEMU
+-   [KVM ( Kernel-based Virtual Machine )](/kvm-kernel-based-virtual-machine/#what-is-it) - Handles the heavy lifting of CPU and memory
+-   [QEMU](/qemu/#hardware-emulation) - The "hands and feet" of the VM, providing the emulated hardware ( think USB ports and network cards, etc )
 -   Libvirt
 -   Virt-manager
