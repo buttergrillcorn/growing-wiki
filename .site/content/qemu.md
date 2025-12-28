@@ -12,3 +12,5 @@ draft = false
 
 
 #### Hardware Emulation {#hardware-emulation}
+
+A virtual machine will need to "see" hardware components such as a motherboard, BIOS and peripherals like mouse and keyboard. QEMU creates these components but in software.
