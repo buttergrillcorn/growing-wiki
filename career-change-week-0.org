@@ -6,8 +6,11 @@
 #+HUGO_DATE: 2025-12-28
 #+EXPORT_FILE_NAME: career-change-week-0
 
-* TODO Content
+* Nitro Boost ( for a head start )
 :PROPERTIES:
 :ID:       20251228T131932.226837
 :END:
 
+I gave myself a head start here, an initial "nitro boost" if you will.
+So instead of starting on the 1st of January 2026 like any other "New Year's Resolution" project.
+I dived right in, the very next day after making my [[id:20251227T183632.488529][12 weeks plan]] ( 2025-12-28 ).
