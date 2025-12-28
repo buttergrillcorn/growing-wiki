@@ -11,7 +11,7 @@
 :ID:       20251228T134122.543389
 :END:
 
-KVM ( Kernel-based Virtual Machine ) is a hypervisor built into the Linux kernel ( [[https://wiki.archlinux.org/title/KVM][source]] ).
+KVM ( Kernel-based Virtual Machine ) is a [[https://en.wikipedia.org/wiki/Hypervisor][hypervisor]] built into the Linux kernel ( [[https://wiki.archlinux.org/title/KVM][source]] ).
 
 It is basically a module in the Linux kernel that turns it into a "Type-1" hypervisor, so that the VM
 runs *directly* on the hardware for better performance than if it were on the software layer.
