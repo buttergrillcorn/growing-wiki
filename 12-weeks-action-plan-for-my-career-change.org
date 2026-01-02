@@ -24,6 +24,9 @@ The progress and documentation is tracked in week numbers:
 =WEEKS 1 - 5=
 
 ** Week 1: The Enterprise Linux Gap
+:PROPERTIES:
+:ID:       20260102T195227.107104
+:END:
 
 This is where I will be bridge the knowledge gap between personal Linux and enterprise Linux.
 

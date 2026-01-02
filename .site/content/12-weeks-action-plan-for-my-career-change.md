@@ -13,7 +13,7 @@ I will also be documenting my progress as well as what I learn throughout this p
 
 The progress and documentation is tracked in week numbers:
 
-[Career change progress track](/career-change-progress-track/#weeks)
+[Career change progress track](/career-change-progress-track/#id-20260102t193300-dot-407554-week-1)
 
 
 ## PHASE 1 - The Foundation and Certification {#phase-1-the-foundation-and-certification}
