@@ -30,3 +30,5 @@ Here's a copy of the tasks from my plan, for convenience.
 ** TODO Learn SELinux ( Learn how to check logs and =audit2allow= )
 ** TODO Learn =nmcli=
 ** TODO Firewall ( Learn =firewalld= )
+
+* Continuation of last weeks task

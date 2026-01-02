@@ -34,3 +34,6 @@ Here's a copy of the tasks from my plan, for convenience.
 
 
 ### <span class="org-todo todo TODO">TODO</span> Firewall ( Learn `firewalld` ) {#firewall--learn-firewalld}
+
+
+## Continuation of last weeks task {#continuation-of-last-weeks-task}
