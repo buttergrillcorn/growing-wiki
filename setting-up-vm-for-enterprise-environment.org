@@ -26,7 +26,15 @@ So instead of using a third-party application like [[https://www.virtualbox.org/
 
 I will be using =virt-install= to ensure the environment is reproducible.
 
+Before that, I need to make sure that [[id:20260102T200157.820374][Libvirt]] is installed and =libvirtd= is running.
+
+#+begin_src bash
+sudo pacman -S libvirt
+
+sudo systemctl start libvirtd
+#+end_src
+
 #+begin_src bash
 virt-install \
-    
+   --name  
 #+end_src

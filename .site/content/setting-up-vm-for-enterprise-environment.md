@@ -24,9 +24,17 @@ So instead of using a third-party application like [VirtualBox](https://www.virt
 
 I will be using `virt-install` to ensure the environment is reproducible.
 
+Before that, I need to make sure that [Libvirt](/libvirt/#security) is installed and `libvirtd` is running.
+
+```bash
+sudo pacman -S libvirt
+
+sudo systemctl start libvirtd
+```
+
 ```bash
 virt-install \
-
+   --name
 ```
 
 [^fn:1]: This is no longer part of the stack after [consideration](/virt-manager/#decision-and-shift)
