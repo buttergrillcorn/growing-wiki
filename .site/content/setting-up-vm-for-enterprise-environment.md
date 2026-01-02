@@ -19,4 +19,9 @@ So instead of using a third-party application like [VirtualBox](https://www.virt
 -   [Libvirt](/libvirt/#security) - The "engine" or "nervous system" of the VM; The API that controls the brain and body.
 -   [Virt-manager](/virt-manager/#decision-and-shift) - The "user interface" you interact with.&nbsp;[^fn:1]
 
+
+## Infrastructure Setup {#infrastructure-setup}
+
+I will be using `virt-install` to ensure a reproducible environment.
+
 [^fn:1]: This is no longer part of the stack after [consideration](/virt-manager/#decision-and-shift)
