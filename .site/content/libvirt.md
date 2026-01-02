@@ -40,5 +40,5 @@ able to transfer the skill set across different enterprise environment.
 ### Security {#security}
 
 For my use case ( learning VM using my local Arch machine ), Libvirt is managing most of the permissions for me. For instance, I would not require many elevated privileges or complex permissions required
-by QEMU ( if running directly ). This ensures that my VM run with the minimum necessary access to my
+by [QEMU](/qemu/#hardware-emulation) ( if running directly ). This ensures that my VM run with the minimum necessary access to my
 host system ( Arch ), which in return makes it more "secure".
