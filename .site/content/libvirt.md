@@ -7,4 +7,7 @@ draft = false
 
 ## <span class="org-todo todo TODO">TODO</span> Content {#content}
 
-Libvirt is
+Libvirt is technically an open-source API, daemon (libvirtd), and management tool.
+
+The main goal for libvirt is to provide a single way to manage multiple different virtualisation
+hypervisors. ( For example, [KVM](/kvm-kernel-based-virtual-machine/#what-is-it)/[QEMU](/qemu/#hardware-emulation) in [my use case](/setting-up-vm-for-enterprise-environment/#components-for-the-stack). )
