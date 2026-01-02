@@ -1,0 +1,8 @@
+#+title: Virt-manager
+#+date: [2026-01-02 Fri 20:25]
+
+* TODO Content
+:PROPERTIES:
+:ID:       20260102T202529.710382
+:END:
+
