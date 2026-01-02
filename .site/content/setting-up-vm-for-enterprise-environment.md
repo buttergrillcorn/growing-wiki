@@ -17,4 +17,9 @@ So instead of using a third-party application like [VirtualBox](https://www.virt
 -   [KVM ( Kernel-based Virtual Machine )](/kvm-kernel-based-virtual-machine/#what-is-it) - Handles the heavy lifting of CPU and memory
 -   [QEMU](/qemu/#hardware-emulation) - The "hands and feet" of the VM, providing the emulated hardware ( think USB ports and network cards, etc )
 -   [Libvirt](/libvirt/#security) - The "engine" or "nervous system" of the VM; The API that controls the brain and body.
--   [Virt-manager](/virt-manager/#what-is-virt-manager) - The "user interface" you interact with.
+-   [Virt-manager](/virt-manager/#what-is-virt-manager) - The "user interface" you interact with.&nbsp;[^fn:1] <sup>, </sup>[^fn:2]
+
+    [^fn:1]
+
+[^fn:1]: This is no longer part of the stack
+[^fn:2]: This is no longer part of the stack after consideration

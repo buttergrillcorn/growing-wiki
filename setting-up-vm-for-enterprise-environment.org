@@ -21,3 +21,5 @@ So instead of using a third-party application like [[https://www.virtualbox.org/
 + [[id:20251228T190207.612738][QEMU]] - The "hands and feet" of the VM, providing the emulated hardware ( think USB ports and network cards, etc )
 + [[id:20260102T200157.820374][Libvirt]] - The "engine" or "nervous system" of the VM; The API that controls the brain and body.
 + [[id:20260102T202529.710382][Virt-manager]] - The "user interface" you interact with. [fn:1] [fn:: This is no longer part of the stack after consideration]
+
+  [fn:1: This is no longer part of the stack]
