@@ -16,16 +16,6 @@ So instead of starting on the 1st of January 2026 like any other "New Year's Res
 I dived right in, the very next day after making my [[id:20251227T183632.488529][12 weeks plan]] ( 2025-12-28 ).
 
 * Virtual Machine 
-:LOGBOOK:
-#+BEGIN: clocktable :scope subtree :maxlevel 2
-#+CAPTION: Clock summary at [2025-12-28 Sun 13:28]
-| Headline   | Time |
-|------------+------|
-| *Total time* | *0:00* |
-#+END:
-
-CLOCK: [2025-12-28 Sun 13:27]
-:END:
 [2025-12-28 Sun]
 
 *Objective:*\\
@@ -34,4 +24,7 @@ Set up Virtual Machine and install a distro that's used for servers.
 [[id:20251228T133642.919409][Here]] is how I do it for my purpose.
 
 * Review
-
+:LOGBOOK:
+CLOCK: [2026-01-02 Fri 19:37]
+:END:
+[2026-01-02 Fri]

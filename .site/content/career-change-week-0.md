@@ -23,3 +23,5 @@ Set up Virtual Machine and install a distro that's used for servers.
 
 
 ## Review {#review}
+
+<span class="timestamp-wrapper"><span class="timestamp">[2026-01-02 Fri]</span></span>
