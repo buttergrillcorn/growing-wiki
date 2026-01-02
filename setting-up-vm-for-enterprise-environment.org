@@ -37,8 +37,8 @@ sudo systemctl start libvirtd
 #+end_src
 
 And we will also need a copy of the ISO, we could do so by using the =wget= to
-download a copy from Rocky Linux's website.
+download a copy from [[https://rockylinux.org/][Rocky Linux]]'s website.
 
 #+begin_src bash
-
+wget 
 #+end_src
