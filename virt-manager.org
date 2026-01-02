@@ -1,8 +1,17 @@
 #+title: Virt-manager
 #+date: [2026-01-02 Fri 20:25]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: 
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2026-01-02
+#+EXPORT_FILE_NAME: virt-manager
 
 * TODO Content
 :PROPERTIES:
 :ID:       20260102T202529.710382
 :END:
 
+Virt-manager or Virtual Machine Manager, is essentially the GUI that the user will be interacting with to
+manage the [[id:20260102T200157.820374][Libvirt]] API.
+
+This means that you can use buttons, sliders and menus instead of writing XML code or long commands.
