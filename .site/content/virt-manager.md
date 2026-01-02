@@ -22,4 +22,4 @@ Virt-manager is simply an UI for [Libvirt](/libvirt/#security); it generates the
 it's own "logic".
 
 A GUI will provide immediate visual feedback and this is very helpful for a beginner. You will be
-more likely to spot any error that may occur and
+more likely to spot any error that may occur as well as the reason or source of the error.
