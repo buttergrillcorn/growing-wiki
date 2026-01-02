@@ -28,3 +28,8 @@ Set up Virtual Machine and install a distro that's used for servers.
 
 It turns out that I haven't manage to do much for Week 0, which is okay.
 This project was not meant to be rushed, it would be better if I am able to
+execute objectives properly rather than ticking off a list as fast as I can.
+
+New year has already begun as the time of writing this. I have been quite anxious
+about the future and my current state. I fear that I am not able to complete this project
+in time, with the level of standard that I aim for.
