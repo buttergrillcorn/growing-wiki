@@ -33,3 +33,5 @@ Set up Virtual Machine and install a distro that's used for servers.
 
 [[id:20251228T133642.919409][Here]] is how I do it for my purpose.
 
+* Review
+

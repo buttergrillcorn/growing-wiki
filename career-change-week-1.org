@@ -1,0 +1,13 @@
+#+title: Career Change - Week 1
+#+date: [2026-01-02 Fri 19:33]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: 
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2026-01-02
+#+EXPORT_FILE_NAME: career-change-week-1
+
+* TODO Content
+:PROPERTIES:
+:ID:       20260102T193300.407554
+:END:
+
