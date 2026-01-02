@@ -14,4 +14,5 @@ hypervisors. ( For example, [KVM](/kvm-kernel-based-virtual-machine/#what-is-it)
 
 My understanding is that it provides a universal/unified way of operating and using a VM.
 So it's basically serving as an abstraction layer to make doing things easier. For example,
-instead of running long commands to execute actions like starting a VM, you simple
+instead of running long commands to execute actions like starting a VM, you simple rely on
+libvirt to "start" the VM regardless of the underlying technology.

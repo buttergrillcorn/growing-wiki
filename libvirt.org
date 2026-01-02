@@ -18,5 +18,6 @@ hypervisors. ( For example, [[id:20251228T134122.543389][KVM]]/[[id:20251228T190
 
 My understanding is that it provides a universal/unified way of operating and using a VM.
 So it's basically serving as an abstraction layer to make doing things easier. For example,
-instead of running long commands to execute actions like starting a VM, you simple 
+instead of running long commands to execute actions like starting a VM, you simple rely on
+libvirt to "start" the VM regardless of the underlying technology.
 
