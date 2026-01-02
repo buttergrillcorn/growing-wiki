@@ -47,3 +47,19 @@ wget https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.1-x86_64-
 # and download it onto the "Download" folder in our home directory.
 #+end_src
 
+** The Provisioning Command
+
+This command does not only "install" but also defined the virtual hardware.
+
+#+begin_src bash
+virt-install \
+    --name rocky-node-01 \
+    --ram 2048 \
+    --vcpus 2 \
+    --os-variant rocky10 \
+    --disk path=/var/lib/libvirt/images/rocky-node-01.qcow2,size=20,format=qcow2 \
+    --location ~/Downloads/Rocky-10.1-x86_64-minimal.iso \
+    --network network=default,model=virtio \
+    --graphics none \
+    --extra-args "console=ttyS0,115200n8"
+#+end_src
