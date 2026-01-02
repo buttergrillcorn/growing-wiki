@@ -26,7 +26,9 @@ So instead of using a third-party application like [[https://www.virtualbox.org/
 
 I will be using =virt-install= to ensure the environment is reproducible.
 
-Before that, I need to make sure that [[id:20260102T200157.820374][Libvirt]] is installed and =libvirtd= is running.
+** Preparation
+
+Before that, we need to make sure that [[id:20260102T200157.820374][Libvirt]] is installed and =libvirtd= is running.
 
 #+begin_src bash
 sudo pacman -S libvirt
@@ -34,7 +36,9 @@ sudo pacman -S libvirt
 sudo systemctl start libvirtd
 #+end_src
 
+And we will also need a copy of the ISO, we could do so by using the =wget= to
+download a copy from Rocky Linux's website.
+
 #+begin_src bash
-virt-install \
-   --name  
+
 #+end_src
