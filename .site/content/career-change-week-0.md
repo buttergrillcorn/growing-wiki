@@ -25,3 +25,6 @@ Set up Virtual Machine and install a distro that's used for servers.
 ## Review {#review}
 
 <span class="timestamp-wrapper"><span class="timestamp">[2026-01-02 Fri]</span></span>
+
+It turns out that I haven't manage to do much for Week 0, which is okay.
+This project was not meant to be rushed, it would be better if I am able to
