@@ -16,3 +16,6 @@ My understanding is that it provides a universal/unified way of operating and us
 So it's basically serving as an abstraction layer to make doing things easier. For example,
 instead of running long commands to execute actions like starting a VM, you simple rely on
 libvirt to "start" the VM regardless of the underlying technology.
+
+
+## How does it relate to my plan? {#how-does-it-relate-to-my-plan}

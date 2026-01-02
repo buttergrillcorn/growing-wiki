@@ -21,3 +21,5 @@ So it's basically serving as an abstraction layer to make doing things easier. F
 instead of running long commands to execute actions like starting a VM, you simple rely on
 libvirt to "start" the VM regardless of the underlying technology.
 
+* How does it relate to my plan?
+
