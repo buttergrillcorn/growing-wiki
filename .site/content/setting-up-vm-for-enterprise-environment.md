@@ -36,10 +36,12 @@ sudo systemctl start libvirtd
 ```
 
 And we will also need a copy of the ISO, we could do so by using the `wget` to
-download a copy from [Rocky Linux](https://rockylinux.org/)'s website.
+download a copy from [Rocky Linux](https://rockylinux.org/)'s website. In this case, I chose the minimal
+version which is likely to be better for learning purpose as we don't require
+"unnecessary" tools that the default ships with.
 
 ```bash
-wget
+wget https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.1-x86_64-minimal.iso
 ```
 
 [^fn:1]: This is no longer part of the stack after [consideration](/virt-manager/#decision-and-shift)
