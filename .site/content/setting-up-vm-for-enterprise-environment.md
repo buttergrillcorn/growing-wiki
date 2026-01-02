@@ -22,6 +22,11 @@ So instead of using a third-party application like [VirtualBox](https://www.virt
 
 ## Infrastructure Setup {#infrastructure-setup}
 
-I will be using `virt-install` to ensure a reproducible environment.
+I will be using `virt-install` to ensure the environment is reproducible.
+
+```bash
+virt-install \
+
+```
 
 [^fn:1]: This is no longer part of the stack after [consideration](/virt-manager/#decision-and-shift)

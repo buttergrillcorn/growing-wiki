@@ -24,4 +24,9 @@ So instead of using a third-party application like [[https://www.virtualbox.org/
   
 * Infrastructure Setup
 
-I will be using =virt-install= to ensure a reproducible environment.
+I will be using =virt-install= to ensure the environment is reproducible.
+
+#+begin_src bash
+virt-install \
+    
+#+end_src
