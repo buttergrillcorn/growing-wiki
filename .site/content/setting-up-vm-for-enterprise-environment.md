@@ -41,7 +41,9 @@ version which is likely to be better for learning purpose as we don't require
 "unnecessary" tools that the default ships with.
 
 ```bash
-wget https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.1-x86_64-minimal.iso
+wget https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.1-x86_64-minimal.iso ~/Download/
+# This basically pulls the minimal version of ISO from their website
+# and download it onto the "Download" folder in our home directory.
 ```
 
 [^fn:1]: This is no longer part of the stack after [consideration](/virt-manager/#decision-and-shift)
