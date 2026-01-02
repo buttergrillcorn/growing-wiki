@@ -16,4 +16,3 @@ manage the [[id:20260102T200157.820374][Libvirt]] API.
 
 This means that you can use buttons, sliders and menus instead of writing XML code or long commands.
 
-* 
