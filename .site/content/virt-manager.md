@@ -23,3 +23,12 @@ it's own "logic".
 
 A GUI will provide immediate visual feedback and this is very helpful for a beginner. You will be
 more likely to spot any error that may occur as well as the reason or source of the error.
+
+Virt-manager actually has an "XML" tab, where you are able to see the update to XML code upon changing a setting. This is a very useful way to learn the syntax without guessing.
+
+
+### My worry {#my-worry}
+
+I worry that having a GUI will add an unnecessary "abstraction layer" to my learning process.
+I would prefer to learn the XML code and CLI commands straightaway, which I believe is more
+likely to be the case in a professional enterprise environment or work setting.
