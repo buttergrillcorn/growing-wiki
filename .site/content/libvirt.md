@@ -30,4 +30,15 @@ This is where the Libvirt API comes in handy. Libvirt will be the interface that
 code will use.
 
 
-### Virtualisation Agnosticism {#virtualisation-agnosticism}
+### Virtualisation Unification {#virtualisation-unification}
+
+Libvirt doesn't only work for KVM, it is compatible with many other virtualisation tools.
+This means that if I'm able to use `virsh` ( the CLI tool for Libvirt ), I will be
+able to transfer the skill set across different enterprise environment.
+
+
+### Security {#security}
+
+For my use case ( learning VM using my local Arch machine ), Libvirt is managing most of the permissions for me. For instance, I would not require many elevated privileges or complex permissions required
+by QEMU ( if running directly ). This ensures that my VM run with the minimum necessary access to my
+host system ( Arch ), which in return makes it more "secure".
