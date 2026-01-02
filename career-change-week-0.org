@@ -25,7 +25,7 @@ Set up Virtual Machine and install a distro that's used for servers.
 
 * Review
 :LOGBOOK:
-CLOCK: [2026-01-02 Fri 19:37]
+CLOCK: [2026-01-02 Fri 19:37]--[2026-01-02 Fri 19:47] =>  0:10
 :END:
 [2026-01-02 Fri]
 
