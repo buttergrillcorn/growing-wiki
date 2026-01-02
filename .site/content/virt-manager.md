@@ -38,5 +38,5 @@ likely to be the case in a professional enterprise environment or work setting.
 
 I think it is probably better for me to go down the "harder" route, replacing GUI "point and click" with:
 
--   Learning and using `virsh` commands.
+-   Learning and using `virsh` commands and other CLI tools.
 -   Manually edit and define the XML code.
