@@ -16,5 +16,13 @@ manage the [[id:20260102T200157.820374][Libvirt]] API.
 
 This means that you can use buttons, sliders and menus instead of writing XML code or long commands.
 
-*  
+* Do we need this? ( For [[id:20251227T183632.488529][my plan]] )
+
+** Advantage of using Virt-manager
+
+Virt-manager is simply an UI for [[id:20260102T200157.820374][Libvirt]]; it generates the XML code and sends it to =libvirtd= without
+it's own "logic".
+
+A GUI will provide immediate visual feedback and this is very helpful for a beginner. You will be
+more likely to spot any error that may occur and 
 
