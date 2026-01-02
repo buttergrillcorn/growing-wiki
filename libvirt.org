@@ -16,3 +16,5 @@ Libvirt is technically an open-source API, daemon (libvirtd), and management too
 The main goal for libvirt is to provide a single way to manage multiple different virtualisation
 hypervisors. ( For example, [[id:20251228T134122.543389][KVM]]/[[id:20251228T190207.612738][QEMU]] in [[id:20251228T133642.919409][my use case]]. )
 
+My understanding is that it provides a universal/unified way of 
+
