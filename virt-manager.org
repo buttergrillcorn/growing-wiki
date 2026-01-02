@@ -35,6 +35,9 @@ I would prefer to learn the XML code and CLI commands straightaway, which I beli
 likely to be the case in a professional enterprise environment or work setting.
 
 ** Decision and shift
+:PROPERTIES:
+:ID:       20260102T205351.258562
+:END:
 
 I think it is probably better for me to go down the "harder" route, replacing GUI "point and click" with:
 + Learning and using =virsh= commands and other CLI tools.
