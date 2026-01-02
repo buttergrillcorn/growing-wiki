@@ -13,13 +13,25 @@
 
 Libvirt is technically an open-source API, daemon (libvirtd), and management tool.
 
-The main goal for libvirt is to provide a single way to manage multiple different virtualisation
+The main goal for Libvirt is to provide a single way to manage multiple different virtualisation
 hypervisors. ( For example, [[id:20251228T134122.543389][KVM]]/[[id:20251228T190207.612738][QEMU]] in [[id:20251228T133642.919409][my use case]]. )
 
 My understanding is that it provides a universal/unified way of operating and using a VM.
 So it's basically serving as an abstraction layer to make doing things easier. For example,
 instead of running long commands to execute actions like starting a VM, you simple rely on
-libvirt to "start" the VM regardless of the underlying technology.
+Libvirt to "start" the VM regardless of the underlying technology.
 
-* How does it relate to my plan?
+* How does it relate to [[id:20251227T183632.488529][my plan]]?
+
+The "Enterprise Perspective", if you will.
+
+** Automation Compatibility
+
+Modern tools like [[id:20260102T201231.900021][Terraform]], [[id:20260102T201238.961216][Ansible]] and [[id:20260102T201248.648900][Vagrant]] does not interact with [[id:20251228T190207.612738][QEMU]] or [[id:20251228T134122.543389][KVM]] directly.
+This is where the Libvirt API comes in handy. Libvirt will be the interface that your
+code will use.
+
+** Virtualisation Agnosticism
+
+
 
