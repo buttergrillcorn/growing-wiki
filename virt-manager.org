@@ -6,7 +6,7 @@
 #+HUGO_DATE: 2026-01-02
 #+EXPORT_FILE_NAME: virt-manager
 
-* TODO Content
+* TODO What is Virt-manager?
 :PROPERTIES:
 :ID:       20260102T202529.710382
 :END:
@@ -15,3 +15,5 @@ Virt-manager or Virtual Machine Manager, is essentially the GUI that the user wi
 manage the [[id:20260102T200157.820374][Libvirt]] API.
 
 This means that you can use buttons, sliders and menus instead of writing XML code or long commands.
+
+* 
