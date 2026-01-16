@@ -38,4 +38,4 @@ Here's a copy of the tasks from my plan, for convenience.
 
 ## Continuation of last weeks task {#continuation-of-last-weeks-task}
 
-I was working on [installing and setting up a VM](/setting-up-vm-for-enterprise-environment/#infrastructure-setup) on my laptop which runs Arch Linux, using [QEMU](/qemu/#hardware-emulation) and [KVM](/kvm-kernel-based-virtual-machine/#what-is-it).
+I was working on [installing and setting up a VM](/setting-up-vm-for-enterprise-environment/#the-provisioning-command) on my laptop which runs Arch Linux, using [QEMU](/qemu/#hardware-emulation) and [KVM](/kvm-kernel-based-virtual-machine/#what-is-it).

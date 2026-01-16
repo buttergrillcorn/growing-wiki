@@ -10,7 +10,7 @@ draft = false
 Libvirt is technically an open-source API, daemon (libvirtd), and management tool.
 
 The main goal for Libvirt is to provide a single way to manage multiple different virtualisation
-hypervisors. ( For example, [KVM](/kvm-kernel-based-virtual-machine/#what-is-it)/[QEMU](/qemu/#hardware-emulation) in [my use case](/setting-up-vm-for-enterprise-environment/#components-for-the-stack). )
+hypervisors. ( For example, [KVM](/kvm-kernel-based-virtual-machine/#what-is-it)/[QEMU](/qemu/#hardware-emulation) in [my use case](/setting-up-vm-for-enterprise-environment/#the-provisioning-command). )
 
 My understanding is that it provides a universal/unified way of operating and using a VM.
 So it's basically serving as an abstraction layer to make doing things easier. For example,
