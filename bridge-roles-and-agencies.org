@@ -6,8 +6,73 @@
 #+HUGO_DATE: 2026-01-18
 #+EXPORT_FILE_NAME: bridge-roles-and-agencies
 
-* TODO Content
+* Recruitment Agencies
 :PROPERTIES:
 :ID:       20260118T154357.136855
 :END:
 
+It's in my best interest to contact these agencies directly with a new project-focusd resume.
+
+** LinuxRecruit
+
+- *Focus:* Specialized leader in Linux, Cloud, and DevOps.
+- *Why:* They often have "Junior Linux Admin" roles not advertised on main boards.
+- *Link:* [[https://www.linuxrecruit.co.uk/][LinuxRecruit Website]]
+
+** Client Server
+
+- *Focus:* Technical recruitment for London fintechs and high-growth startups.
+- *Why:* Good for finding junior roles in environments that value hands-on lab work.
+- *Link:* [[https://www.client-server.com/][Client Server Website]]
+
+** Hays Technology
+
+- *Focus:* Broad IT support and infrastructure across the UK.
+- *Why:* Excellent for 1st Line Support roles with "guaranteed progression" tracks.
+- *Link:* [[https://www.hays.co.uk/it][Hays IT Website]]
+
+** Langley James
+
+- *Focus:* London-based IT recruitment specialist since 1999.
+- *Why:* Recruits across all sectors, from juniors to senior management.
+- *Link:* [[https://www.langleyjames.com/][Langley James Website]]
+
+* Live Bridge Roles (JANUARY 2026)
+
+These roles pay a full salary and are currently active.
+
+** 1st Line IT Engineer | Hays Technology
+
+- *Salary:* £26,000 - £29,000
+- *Location:* City of London (EC1) / Hybrid
+- *Profile:* Entry-level role requiring ~6 months of customer/ticket experience.
+- *Progression:* Guaranteed path to 2nd and 3rd line senior support.
+- *Link:* [[https://talents.studysmarter.co.uk/companies/hays-technology/london/1st-line-it-engineer-21720290/][Apply at Hays]]
+
+** Junior Linux Systems Administrator | Quant Capital
+
+- *Salary:* Up to £35,000 + bonus
+- *Location:* London (Retail Trading Business)
+- *Profile:* Focuses on Linux infrastructure support and monitoring critical systems.
+- *Why:* Matches your hands-on Arch/Rocky Linux build experience.
+- *Link:* [[https://www.quant-capital.co.uk/jobs/junior-linux-systems-administrator/][Apply at Quant Capital]]
+
+** Trainee IT Support Analyst | Nxstep Recruitment
+
+- *Salary:* £25,000 - £30,000
+- *Location:* London / Hybrid Remote
+- *Profile:* Ideal for individuals starting an IT career; no prior commercial experience required.
+- *Link:* [[https://findajob.dwp.gov.uk/details/17679190][Apply at Nxstep]]
+
+** IT Support Trainee | United Colleges Group
+
+- *Salary:* £27,050 - £28,383
+- *Location:* London (W2) / On-site
+- *Profile:* Providing first-line support while receiving training for progression.
+- *Link:* [[https://findajob.dwp.gov.uk/details/17669361][Apply at UCG]]
+
+* Strategic Application Tips
+
+- **The M&S Leverage:** Always highlight your 7 years of service experience in your opening sentence. It proves you are reliable and can handle high-pressure user environments.
+- **Project over Degree:** Since you left your degree, lead with your =growing-wiki= and =dotfiles= projects. These prove you have the /skills/ the degree was supposed to teach.
+- **Remote-First Boards:** Ensure you have active profiles on [[https://otta.com/][Otta]] and [[https://cord.co/][Cord]], as they prioritize technical proficiency and personal projects.
