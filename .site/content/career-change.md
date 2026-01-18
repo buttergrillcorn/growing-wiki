@@ -46,4 +46,4 @@ To make sure that I don't stray too far off, I will need a [plan](/12-weeks-acti
 
 Due to personal life circumstances, I am considering the option of a "bridge role". These are more "realistic" and approachable job options that I can obtain with my existing skill set and experience, not relying on the outcome of this plan.
 
-Some useful information and list of
+[Bridge Roles and Agencies](/bridge-roles-and-agencies/#strategic-application-tips)
