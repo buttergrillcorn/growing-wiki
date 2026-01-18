@@ -1,0 +1,13 @@
+#+title: Bridge Roles and Agencies
+#+date: [2026-01-18 Sun 15:43]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: 
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2026-01-18
+#+EXPORT_FILE_NAME: bridge-roles-and-agencies
+
+* TODO Content
+:PROPERTIES:
+:ID:       20260118T154357.136855
+:END:
+
