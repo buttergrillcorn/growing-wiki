@@ -16,3 +16,6 @@ Starting ahead of plan, so that I get a few extra days. Totally unnecessary and 
 
 
 ### [Week 1](/career-change-week-1/#continuation-of-last-weeks-task) {#week-1--career-change-week-1-dot-md}
+
+
+### Pause {#pause}
