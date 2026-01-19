@@ -32,7 +32,7 @@ Before that, we need to make sure that [Libvirt](/libvirt/#security) is installe
 ```bash
 sudo pacman -S libvirt
 
-sudo systemctl start libvirtd
+sudo systemctl enable libvirtd
 ```
 
 And we will also need a copy of the ISO, we could do so by using the `wget` to
