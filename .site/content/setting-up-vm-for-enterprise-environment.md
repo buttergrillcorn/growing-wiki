@@ -50,12 +50,12 @@ wget https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.1-x86_64-
 ### Virsh {#virsh}
 
 `Virsh` is the program we will use to manage our virtual machines in our terminal, without a GUI.
+The command will be available as part of the `libvirt` library.
 
-We will first have to install the package itself on Arch:
+You can run an interactive terminal by simply running just `virsh`, which also has support for tab completion.
 
-```bash
-sudo pacman -S virsh
-```
+
+#### Pools {#pools}
 
 
 ### The Provisioning Command {#the-provisioning-command}
