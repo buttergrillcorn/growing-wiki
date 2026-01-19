@@ -47,7 +47,7 @@ wget https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.1-x86_64-
 ```
 
 
-### Pool {#pool}
+### Virsh {#virsh}
 
 
 ### The Provisioning Command {#the-provisioning-command}
