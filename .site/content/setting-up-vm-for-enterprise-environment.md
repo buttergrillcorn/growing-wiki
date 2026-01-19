@@ -47,6 +47,9 @@ wget https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.1-x86_64-
 ```
 
 
+### Pool {#pool}
+
+
 ### The Provisioning Command {#the-provisioning-command}
 
 This command does not only "install" but also defined the virtual hardware.
