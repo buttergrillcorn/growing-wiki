@@ -51,6 +51,12 @@ wget https://download.rockylinux.org/pub/rocky/10/isos/x86_64/Rocky-10.1-x86_64-
 
 `Virsh` is the program we will use to manage our virtual machines in our terminal, without a GUI.
 
+We will first have to install the package itself on Arch:
+
+```bash
+sudo pacman -S virsh
+```
+
 
 ### The Provisioning Command {#the-provisioning-command}
 
