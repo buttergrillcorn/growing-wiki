@@ -55,7 +55,16 @@ The command will be available as part of the `libvirt` library.
 You can run an interactive terminal by simply running just `virsh`, which also has support for tab completion.
 
 
-#### Pools {#pools}
+#### Storage **Pools** {#storage-pools}
+
+To proceed with our installation of VM, we will need a specified location where our storage volume can be kept.
+This is often called "virtual disks" or "virtual machine images" in other tools.
+
+Pool locations can be:
+
+-   directory
+-   network filesystem
+-   partition
 
 
 ### The Provisioning Command {#the-provisioning-command}
