@@ -96,7 +96,7 @@ Pools can also be **toggled** active or inactive and allocated for space.
 After the pool has been created and started successfully, we will need a domain.
 A domain is basically the "virtual machine", think of it as an instance of a machine.
 
-We can do this in two main ways, either graphically using `virt-manager` or in terminal with a CLI tool.
+We can do this in two main ways, either graphically using `virt-manager` or in terminal with a CLI tool ( in this case, we will use `virt-install` ).
 
 This command does not only "install" but also defined the virtual hardware.
 
