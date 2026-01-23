@@ -17,9 +17,7 @@ I will also be documenting my progress as well as what I learn throughout this p
 
 The progress and documentation is tracked in week numbers:
 
-#+begin_center
 [[id:20251228T131451.300099][Progression Tracking]]
-#+end_center
 
 
 * PHASE 1 - The Foundation and Certification
