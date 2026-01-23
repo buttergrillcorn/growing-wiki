@@ -91,6 +91,8 @@ virsh pool-autostart poolname
 After the pool has been created and started successfully, we will need a domain.
 A domain is basically the "virtual machine", think of it as an instance of a machine.
 
+*** Installation
+
 We can do this in two main ways, either graphically using =virt-manager= or in terminal with a CLI tool ( in this case, we will use =virt-install= ).
 
 First, installed the package src_bash[:exports code]{sudo pacman -S virt-install}.
@@ -109,3 +111,11 @@ virt-install \
     --graphics=none \
     --extra-args="console=ttyS0"
 #+end_src
+
+**** Installation command break down
+
+=virt-install= = the tool for installing domains/VMs
+=--name rocky-node-01= = The name of the VM, "node-01" is just a naming convention
+=--memory 2048= = Assigned memory for the VM, in this case, 2GB
+=--vcpus 2= = Virtual CPU cores
+=--os-variant rocky10=

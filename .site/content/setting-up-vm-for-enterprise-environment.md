@@ -96,6 +96,9 @@ Pools can also be **toggled** active or inactive and allocated for space.
 After the pool has been created and started successfully, we will need a domain.
 A domain is basically the "virtual machine", think of it as an instance of a machine.
 
+
+#### Installation {#installation}
+
 We can do this in two main ways, either graphically using `virt-manager` or in terminal with a CLI tool ( in this case, we will use `virt-install` ).
 
 First, installed the package <span class="inline-src language-bash" data-lang="bash">`sudo pacman -S virt-install`</span>.
@@ -111,7 +114,18 @@ virt-install \
     --os-variant rocky10 \
     --disk pool=rocky,path=/home/dir/to/install-location,size=10 \
     --cdrom /home/dir/to/image/Rocky-10.1-x86_64-minimal.iso \
-    --graphics=none
+    --graphics=none \
+    --extra-args="console=ttyS0"
 ```
+
+<!--list-separator-->
+
+-  Installation command break down
+
+    `virt-install` = the tool for installing domains/VMs
+    `--name rocky-node-01` = The name of the VM, "node-01" is just a naming convention
+    `--memory 2048` = Assigned memory for the VM, in this case, 2GB
+    `--vcpus 2` = Virtual CPU cores
+    `--os-variant rocky10`
 
 [^fn:1]: This is no longer part of the stack after [consideration](/virt-manager/#decision-and-shift)
