@@ -15,6 +15,11 @@ CLOCK: [2026-01-02 Fri 19:47]
 :END:
 [2026-01-02 Fri]
 
+#+begin_comment
+I have decided to not go with this style of progression tracking, please refer to the
+[[id:20260123T191940.124275][progress tracking page]].
+#+end_comment
+
 It is officially 2026!
 
 Now, this week's objective is to set up a local VM running Linux, in a secure way.
