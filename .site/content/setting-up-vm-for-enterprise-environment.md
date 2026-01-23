@@ -66,7 +66,7 @@ Pool locations can be:
 -   network filesystem
 -   partition
 
-Pools can also be **toggled** active or inactive and allocaated for space.
+Pools can also be **toggled** active or inactive and allocated for space.
 
 
 ### The Provisioning Command {#the-provisioning-command}
