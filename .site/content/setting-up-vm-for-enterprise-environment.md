@@ -100,8 +100,8 @@ We can do this in two main ways, either graphically using `virt-manager` or in t
 
 First, installed the package <span class="inline-src language-bash" data-lang="bash">`sudo pacman -S virt-install`</span>.
 
-And then we will run the command like so, this command does not only "install",
-but also defined the virtual hardware:
+And then we will run the command like so ( with minor tweaks to the directories ):
+This command does not only "install" but also defined the virtual hardware:
 
 ```bash
 virt-install \
@@ -109,12 +109,9 @@ virt-install \
     --memory 2048 \
     --vcpus 2 \
     --os-variant rocky10 \
-    # --disk path=/var/lib/libvirt/images/rocky-node-01.qcow2,size=20,format=qcow2 \
-    --disk size=10,format=qcow2 \
-    --location ~/location/to/image/Rocky-10.1-x86_64-minimal.iso \
-    --network network=default,model=virtio \
-    --graphics none \
-    --extra-args "console=ttyS0,115200n8"
+    --disk pool=rocky,path=/home/dir/to/install-location,size=10 \
+    --cdrom /home/dir/to/image/Rocky-10.1-x86_64-minimal.iso \
+    --graphics=none
 ```
 
 [^fn:1]: This is no longer part of the stack after [consideration](/virt-manager/#decision-and-shift)
