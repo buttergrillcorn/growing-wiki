@@ -91,8 +91,9 @@ Pools can also be **toggled** active or inactive and allocated for space.
     ```
 
 
-### The Provisioning Command {#the-provisioning-command}
+### Domain {#domain}
 
+After the pool has been created and started successfully, we will need a domain.
 This command does not only "install" but also defined the virtual hardware.
 
 ```bash

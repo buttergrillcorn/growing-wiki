@@ -86,8 +86,9 @@ virsh pool-start poolname
 virsh pool-autostart poolname
 #+end_src
 
-** The Provisioning Command
+** Domain
 
+After the pool has been created and started successfully, we will need a domain.
 This command does not only "install" but also defined the virtual hardware.
 
 #+begin_src bash
