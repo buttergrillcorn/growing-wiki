@@ -96,7 +96,7 @@ We can do this in two main ways, either graphically using =virt-manager= or in t
 First, installed the package src_bash[:exports code]{sudo pacman -S virt-install}.
 
 And then we will run the command like so ( with minor tweaks to the directories ):
-This command does not only "install" but also defined the virtual hardware:
+This command does not only "install" but also defined the virtual hardware.
 
 #+begin_src bash
 virt-install \

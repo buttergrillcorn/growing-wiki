@@ -101,7 +101,7 @@ We can do this in two main ways, either graphically using `virt-manager` or in t
 First, installed the package <span class="inline-src language-bash" data-lang="bash">`sudo pacman -S virt-install`</span>.
 
 And then we will run the command like so ( with minor tweaks to the directories ):
-This command does not only "install" but also defined the virtual hardware:
+This command does not only "install" but also defined the virtual hardware.
 
 ```bash
 virt-install \
