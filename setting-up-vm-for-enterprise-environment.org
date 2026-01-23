@@ -69,6 +69,15 @@ Pool locations can be:
 
 Pools can also be *toggled* active or inactive and allocated for space.
 
+**** Creating a new pool
+
+There are couple of different ways to create a new pool, depending on the type
+of pool you wish to use.
+
+#+begin_src bash
+virsh pool-define-as 
+#+end_src
+
 ** The Provisioning Command
 
 This command does not only "install" but also defined the virtual hardware.

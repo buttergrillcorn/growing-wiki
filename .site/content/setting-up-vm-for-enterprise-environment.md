@@ -71,6 +71,17 @@ Pool locations can be:
 
 Pools can also be **toggled** active or inactive and allocated for space.
 
+<!--list-separator-->
+
+-  Creating a new pool
+
+    There are couple of different ways to create a new pool, depending on the type
+    of pool you wish to use.
+
+    ```bash
+    virsh pool-define-as
+    ```
+
 
 ### The Provisioning Command {#the-provisioning-command}
 
