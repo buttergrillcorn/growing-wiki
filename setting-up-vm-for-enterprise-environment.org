@@ -89,6 +89,10 @@ virsh pool-autostart poolname
 ** Domain
 
 After the pool has been created and started successfully, we will need a domain.
+A domain is basically the "virtual machine", think of it as an instance of a machine.
+
+We can do this in two main ways, either graphically using =virt-manager= or in terminal with a CLI tool.
+
 This command does not only "install" but also defined the virtual hardware.
 
 #+begin_src bash
