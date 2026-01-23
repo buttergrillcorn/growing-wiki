@@ -106,11 +106,12 @@ but also defined the virtual hardware:
 ```bash
 virt-install \
     --name rocky-node-01 \
-    --ram 2048 \
+    --memory 2048 \
     --vcpus 2 \
     --os-variant rocky10 \
-    --disk path=/var/lib/libvirt/images/rocky-node-01.qcow2,size=20,format=qcow2 \
-    --location ~/Downloads/Rocky-10.1-x86_64-minimal.iso \
+    # --disk path=/var/lib/libvirt/images/rocky-node-01.qcow2,size=20,format=qcow2 \
+    --disk size=10,format=qcow2 \
+    --location ~/location/to/image/Rocky-10.1-x86_64-minimal.iso \
     --network network=default,model=virtio \
     --graphics none \
     --extra-args "console=ttyS0,115200n8"
