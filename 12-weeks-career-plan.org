@@ -1,10 +1,10 @@
-#+title: 12 Weeks Action Plan for my career change
+#+TITLE: 12 Weeks Career Plan
 #+date: [2025-12-27 Sat 18:36]
 #+HUGO_BASE_DIR: /home/james/wiki/.site
 #+HUGO_SECTION: 
 #+HUGO_DRAFT: false
 #+HUGO_DATE: 2025-12-27
-#+EXPORT_FILE_NAME: 12-weeks-action-plan-for-my-career-change
+#+EXPORT_FILE_NAME: 12-weeks-career-plan
 
 * Context
 :PROPERTIES:
