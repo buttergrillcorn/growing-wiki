@@ -13,13 +13,7 @@ I will also be documenting my progress as well as what I learn throughout this p
 
 The progress and documentation is tracked in week numbers:
 
-<style>.org-center { margin-left: auto; margin-right: auto; text-align: center; }</style>
-
-<div class="org-center">
-
 [Progression Tracking](/career-change-progress-track/#week-4-and-going-forward)
-
-</div>
 
 
 ## PHASE 1 - The Foundation and Certification {#phase-1-the-foundation-and-certification}

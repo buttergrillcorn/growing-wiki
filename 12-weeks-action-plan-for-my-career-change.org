@@ -19,7 +19,6 @@ The progress and documentation is tracked in week numbers:
 
 [[id:20251228T131451.300099][Progression Tracking]]
 
-
 * PHASE 1 - The Foundation and Certification
 
 =WEEKS 1 - 5=
