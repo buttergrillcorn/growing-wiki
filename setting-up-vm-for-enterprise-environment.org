@@ -75,7 +75,15 @@ There are couple of different ways to create a new pool, depending on the type
 of pool you wish to use.
 
 #+begin_src bash
-virsh pool-define-as 
+virsh pool-define-as poolname /home/user/dir --targer /target/dir
+#+end_src
+
+Next up, we will have to build and start the pool that we've created:
+
+#+begin_src bash
+virsh pool-build poolname
+virsh pool-start poolname
+virsh pool-autostart poolname
 #+end_src
 
 ** The Provisioning Command

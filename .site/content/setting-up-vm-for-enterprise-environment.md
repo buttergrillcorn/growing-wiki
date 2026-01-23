@@ -79,7 +79,15 @@ Pools can also be **toggled** active or inactive and allocated for space.
     of pool you wish to use.
 
     ```bash
-    virsh pool-define-as
+    virsh pool-define-as poolname /home/user/dir --targer /target/dir
+    ```
+
+    Next up, we will have to build and start the pool that we've created:
+
+    ```bash
+    virsh pool-build poolname
+    virsh pool-start poolname
+    virsh pool-autostart poolname
     ```
 
 
