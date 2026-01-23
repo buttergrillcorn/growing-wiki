@@ -9,9 +9,7 @@ draft = false
 
 This plan is design with my current life circumstances in mind - working 20 hours and private life things. In addition to that, I have also taken into consideration related skills and experiences that I already process.
 
-I will also be documenting my progress as well as what I learn throughout this project, if you're interested.
-
-The progress and documentation is tracked in week numbers:
+I will also be **documenting my progress** as well as what I learn throughout this project, if you're interested:
 
 [Progression Tracking](/career-change-progress-track/#week-4-and-going-forward)
 
