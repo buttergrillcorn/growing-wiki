@@ -1,5 +1,5 @@
 +++
-title = "12 Weeks Action Plan for my career change"
+title = "12 Weeks Career Plan"
 author = ["James"]
 date = 2025-12-27T18:36:00+00:00
 draft = false
@@ -13,7 +13,7 @@ I will also be documenting my progress as well as what I learn throughout this p
 
 The progress and documentation is tracked in week numbers:
 
-[Career change progress track](/career-change-progress-track/#pause)
+[Career change progress track](/career-change-progress-track/#week-4-and-going-forward)
 
 
 ## PHASE 1 - The Foundation and Certification {#phase-1-the-foundation-and-certification}
