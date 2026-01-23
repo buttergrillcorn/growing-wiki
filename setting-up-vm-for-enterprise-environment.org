@@ -33,7 +33,8 @@ Before that, we need to make sure that [[id:20260102T200157.820374][Libvirt]] is
 #+begin_src bash
 sudo pacman -S libvirt
 
-sudo systemctl enable libvirtd
+sudo systemctl enable libvirtd.service    # This will also enable virtlogd.socket
+                                          # and virtlocked.socket
 #+end_src
 
 And we will also need a copy of the ISO, we could do so by using the =wget= to

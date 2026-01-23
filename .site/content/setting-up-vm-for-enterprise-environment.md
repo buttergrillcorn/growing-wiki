@@ -32,7 +32,8 @@ Before that, we need to make sure that [Libvirt](/libvirt/#security) is installe
 ```bash
 sudo pacman -S libvirt
 
-sudo systemctl enable libvirtd
+sudo systemctl enable libvirtd.service    # This will also enable virtlogd.socket
+                                          # and virtlocked.socket
 ```
 
 And we will also need a copy of the ISO, we could do so by using the `wget` to
