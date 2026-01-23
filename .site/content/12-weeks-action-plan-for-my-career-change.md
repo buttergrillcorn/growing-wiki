@@ -13,7 +13,7 @@ I will also be documenting my progress as well as what I learn throughout this p
 
 The progress and documentation is tracked in week numbers:
 
-[Career change progress track](/career-change-progress-track/#id-20260102t193300-dot-407554-week-1)
+[Career change progress track](/career-change-progress-track/#pause)
 
 
 ## PHASE 1 - The Foundation and Certification {#phase-1-the-foundation-and-certification}
@@ -27,7 +27,7 @@ This is where I will be bridge the knowledge gap between personal Linux and ente
 
 The goal is to have a local VM running a hardened web server ( SELinux Enforcing ).
 
--   [ ] Install a RHEL-based distro ( Set up Rocky Linux or Fedora in a VM )
+-   [X] Install a RHEL-based distro ( Set up Rocky Linux or Fedora in a VM )
 -   [ ] Master Package Management ( `dnf` or `rpm` instead of `pacman` )
 -   [ ] Learn SELinux ( Learn how to check logs and `audit2allow` )
 -   [ ] Learn `nmcli`
