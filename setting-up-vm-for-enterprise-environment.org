@@ -106,5 +106,6 @@ virt-install \
     --os-variant rocky10 \
     --disk pool=rocky,path=/home/dir/to/install-location,size=10 \
     --cdrom /home/dir/to/image/Rocky-10.1-x86_64-minimal.iso \
-    --graphics=none
+    --graphics=none \
+    --extra-args="console=ttyS0"
 #+end_src
