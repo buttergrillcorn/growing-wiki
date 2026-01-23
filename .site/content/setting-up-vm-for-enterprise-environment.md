@@ -98,7 +98,10 @@ A domain is basically the "virtual machine", think of it as an instance of a mac
 
 We can do this in two main ways, either graphically using `virt-manager` or in terminal with a CLI tool ( in this case, we will use `virt-install` ).
 
-This command does not only "install" but also defined the virtual hardware.
+First, installed the package <span class="inline-src language-bash" data-lang="bash">`sudo pacman -S virt-install`</span>.
+
+And then we will run the command like so, this command does not only "install",
+but also defined the virtual hardware:
 
 ```bash
 virt-install \
