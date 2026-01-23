@@ -17,6 +17,8 @@ Starting ahead of plan, so that I get a few extra days. Totally unnecessary and 
 
 ### [Week 1](/career-change-week-1/#continuation-of-last-weeks-task) {#week-1--career-change-week-1-dot-md}
 
+Here's the progress and planning I made before the "pause".
+
 
 ### Pause {#pause}
 
@@ -24,3 +26,5 @@ There has been a pause/delay in my progress for a number of weeks, due to person
 
 
 ### Week 4 ( and going forward ) {#week-4--and-going-forward}
+
+Instead of

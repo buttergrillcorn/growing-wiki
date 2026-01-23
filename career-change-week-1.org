@@ -34,4 +34,3 @@ Here's a copy of the tasks from my plan, for convenience.
 * Continuation of last weeks task
 
 I was working on [[id:20251228T133642.919409][installing and setting up a VM]] on my laptop which runs Arch Linux, using [[id:20251228T190207.612738][QEMU]] and [[id:20251228T134122.543389][KVM]].
-
