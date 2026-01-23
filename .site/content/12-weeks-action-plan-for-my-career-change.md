@@ -1,5 +1,5 @@
 +++
-title = "12 Weeks Career Plan"
+title = "12 Weeks Action Plan for my career change"
 author = ["James"]
 date = 2025-12-27T18:36:00+00:00
 draft = false
