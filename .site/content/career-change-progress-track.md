@@ -21,3 +21,6 @@ Starting ahead of plan, so that I get a few extra days. Totally unnecessary and 
 ### Pause {#pause}
 
 There has been a pause/delay in my progress for a number of weeks, due to personal and work reasons. I will be trying my best to catch up and continue this journey.
+
+
+### Week 4 ( and going forward ) {#week-4--and-going-forward}
