@@ -8,9 +8,11 @@ draft = false
 ## Context {#context}
 
 The plan was initially designed with my current situation in mind - tailored around my
-work and private life availability. I don't suppose that I will be able to keep up
+work and private life availability. I don't suppose that I will be able to execute this
+perfectly. But like everything in life, perfection shouldn't be pursued as the ultimate
+goal, but rather progression for better or the "journey" so to speak.
 
-I will also be **documenting my progress** as well as what I learn throughout this project, if you're interested:
+I will also be **documenting my progress** as well as what I learnt throughout this project, if you're interested:
 
 [Progression Tracking](/career-change-progress-track/#week-4-and-going-forward)
 
