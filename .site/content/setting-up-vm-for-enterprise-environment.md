@@ -113,7 +113,7 @@ virt-install \
     --vcpus 2 \
     --os-variant rocky10 \
     --disk pool=rocky,path=/home/dir/to/install-location,size=10 \
-    --cdrom /home/dir/to/image/Rocky-10.1-x86_64-minimal.iso \
+    --location /home/dir/to/image/Rocky-10.1-x86_64-minimal.iso \
     --graphics=none \
     --extra-args="console=ttyS0"
 ```
@@ -123,10 +123,13 @@ virt-install \
 -  Installation command break down
 
     `virt-install` = the tool for installing domains/VMs
-    `--name rocky-node-01` = The name of the VM, "node-01" is just a naming convention
-    `--memory 2048` = Assigned memory for the VM, in this case, 2GB
-    `--vcpus 2` = Virtual CPU cores
+    `--name rocky-node-01` = the name of the VM, "node-01" is just a naming convention
+    `--memory 2048` = assigned memory for the VM, in this case, 2GB
+    `--vcpus 2` = virtual CPU cores
     `--os-variant rocky10` = the OS we are installing (not required to be defined)
-    `--disk ...`
+    `--disk ...` = "pool" is the pool we made earlier, "path" is the path to the location where we want the VM file to be and "size" is the size of the VM image file (10G)
+    `--location` = location of the ISO file
+    `--graphics=none` = no graphical interface
+    `--extra-args` = "console=ttyS0" is
 
 [^fn:1]: This is no longer part of the stack after [consideration](/virt-manager/#decision-and-shift)
