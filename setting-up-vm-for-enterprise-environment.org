@@ -118,4 +118,5 @@ virt-install \
 =--name rocky-node-01= = The name of the VM, "node-01" is just a naming convention
 =--memory 2048= = Assigned memory for the VM, in this case, 2GB
 =--vcpus 2= = Virtual CPU cores
-=--os-variant rocky10=
+=--os-variant rocky10= = the OS we are installing (not required to be defined)
+=--disk ...=
