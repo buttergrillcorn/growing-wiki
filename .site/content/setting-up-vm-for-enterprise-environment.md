@@ -34,6 +34,8 @@ sudo pacman -S libvirt
 
 sudo systemctl enable libvirtd.service    # This will also enable virtlogd.socket
                                           # and virtlocked.socket
+
+sudo systemctl start libvirtd.service
 ```
 
 And we will also need a copy of the ISO, we could do so by using the `wget` to
