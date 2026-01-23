@@ -21,11 +21,11 @@ Now, this week's objective is to set up a local VM running Linux, in a secure wa
 
 [[id:20260102T195227.107104][Here]]'s the link to Week 1 part of my 12 Weeks Plan.
 
-* TODO Tasks [0/5]
+* TODO Tasks [1/5]
 
 Here's a copy of the tasks from my plan, for convenience.
 
-** TODO Install a RHEL-based distro ( Set up Rocky Linux or Fedora in a VM ) 
+** DONE Install a RHEL-based distro ( Set up Rocky Linux or Fedora in a VM ) 
 ** TODO Master Package Management ( =dnf= or =rpm= instead of =pacman= )
 ** TODO Learn SELinux ( Learn how to check logs and =audit2allow= )
 ** TODO Learn =nmcli=

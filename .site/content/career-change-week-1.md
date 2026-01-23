@@ -16,12 +16,12 @@ Now, this week's objective is to set up a local VM running Linux, in a secure wa
 [Here](/12-weeks-action-plan-for-my-career-change/#week-11-12-interview-drill)'s the link to Week 1 part of my 12 Weeks Plan.
 
 
-## <span class="org-todo todo TODO">TODO</span> Tasks <code>[0/5]</code> {#tasks}
+## <span class="org-todo todo TODO">TODO</span> Tasks <code>[1/5]</code> {#tasks}
 
 Here's a copy of the tasks from my plan, for convenience.
 
 
-### <span class="org-todo todo TODO">TODO</span> Install a RHEL-based distro ( Set up Rocky Linux or Fedora in a VM ) {#install-a-rhel-based-distro--set-up-rocky-linux-or-fedora-in-a-vm}
+### <span class="org-todo done DONE">DONE</span> Install a RHEL-based distro ( Set up Rocky Linux or Fedora in a VM ) {#install-a-rhel-based-distro--set-up-rocky-linux-or-fedora-in-a-vm}
 
 
 ### <span class="org-todo todo TODO">TODO</span> Master Package Management ( `dnf` or `rpm` instead of `pacman` ) {#master-package-management--dnf-or-rpm-instead-of-pacman}
@@ -38,4 +38,4 @@ Here's a copy of the tasks from my plan, for convenience.
 
 ## Continuation of last weeks task {#continuation-of-last-weeks-task}
 
-I was working on [installing and setting up a VM](/setting-up-vm-for-enterprise-environment/#the-provisioning-command) on my laptop which runs Arch Linux, using [QEMU](/qemu/#hardware-emulation) and [KVM](/kvm-kernel-based-virtual-machine/#what-is-it).
+I was working on [installing and setting up a VM](/setting-up-vm-for-enterprise-environment/#finalisation) on my laptop which runs Arch Linux, using [QEMU](/qemu/#hardware-emulation) and [KVM](/kvm-kernel-based-virtual-machine/#what-is-it).
