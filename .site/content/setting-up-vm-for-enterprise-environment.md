@@ -122,7 +122,7 @@ virt-install \
 
 -  Installation command break down
 
-    `virt-install` = the tool for installing domains/VMs
+    `virt-install` - the tool for installing domains/VMs
 
     `--name rocky-node-01` = the name of the VM, "node-01" is just a naming convention
 
