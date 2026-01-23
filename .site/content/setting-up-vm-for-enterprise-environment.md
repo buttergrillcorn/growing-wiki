@@ -140,4 +140,12 @@ virt-install \
 
     `--extra-args` = "console=ttyS0" is basically the first serial port, which mitigates the need for a graphical interface
 
+<!--list-separator-->
+
+-  Finalisation
+
+    After the `virt-install` command is run, we will get prompts and instructions on installing the system and some configurations. For now, it's safe to just choose the defaults. And all we need to do is set up password for the root account as well as user account ( which will also be given the admin/root privilege ).
+
+    And ... we should be able to boot up the brand new VM with the login prompt!
+
 [^fn:1]: This is no longer part of the stack after [consideration](/virt-manager/#decision-and-shift)
