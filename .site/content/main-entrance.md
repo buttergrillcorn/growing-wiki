@@ -25,7 +25,8 @@ Rather a W.I.P that is constantly evolving and **growing**, for the sake of alwa
 
 ## So what's next? {#so-what-s-next}
 
-You can read about:
+
+### You can read about: {#you-can-read-about}
 
 My [most recent project](/career-change/#the-middle-ground) of pivoting from 7 years of **retail and hospitality**, to **tech and IT**.
 

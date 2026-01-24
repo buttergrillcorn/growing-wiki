@@ -27,7 +27,7 @@ Rather a W.I.P that is constantly evolving and *growing*, for the sake of always
 
 * So what's next?
 
-You can read about:
+** You can read about:
 
 My [[id:20251227T180818.717783][most recent project]] of pivoting from 7 years of *retail and hospitality*, to *tech and IT*.
 
