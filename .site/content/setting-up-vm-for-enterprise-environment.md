@@ -151,6 +151,6 @@ virt-install \
 
 ## The Next Step {#the-next-step}
 
-So now we should have a running virtual machine. Let's proceed onto learning about
+So now we should have a running virtual machine. Let's proceed onto [learning about the new distro](/learning-rocky-linux/#content)!
 
 [^fn:1]: This is no longer part of the stack after [consideration](/virt-manager/#decision-and-shift)

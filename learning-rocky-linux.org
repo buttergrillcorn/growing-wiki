@@ -1,0 +1,13 @@
+#+title: Learning Rocky Linux
+#+date: [2026-01-24 Sat 17:06]
+#+HUGO_BASE_DIR: /home/james/wiki/.site
+#+HUGO_SECTION: 
+#+HUGO_DRAFT: false
+#+HUGO_DATE: 2026-01-24
+#+EXPORT_FILE_NAME: learning-rocky-linux
+
+* TODO Content
+:PROPERTIES:
+:ID:       20260124T170654.079743
+:END:
+
