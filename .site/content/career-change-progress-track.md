@@ -19,13 +19,17 @@ Starting ahead of plan, so that I get a few extra days. Totally unnecessary and 
 
 Here's the progress and planning I made before the "pause".
 
+---
+
 
 ### Pause {#pause}
 
 There has been a pause/delay in my progress for a number of weeks, due to personal and work reasons. I will be trying my best to catch up and continue this journey.
 
+---
 
-### Week 4 ( and going forward ) {#week-4--and-going-forward}
+
+### Week 4 ( and **going forward** ) {#week-4--and-going-forward}
 
 Instead of documenting my progress in week numbers like how I originally planned. I think that
 it may be better to simply use this page as sort of a "project journal".
