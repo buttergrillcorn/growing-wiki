@@ -27,7 +27,7 @@ Rather a W.I.P that is constantly evolving and **growing**, for the sake of alwa
 
 You can read about:
 
--   [why I made the Growing Wiki](/why-i-made-the-growing-wiki/#content)
+-   My [most recent project](/career-change/#the-middle-ground) of pivoting from 7 years of **retail and hospitality**, to **tech and IT**.
+-   [Why I made the Growing Wiki](/why-i-made-the-growing-wiki/#content)
 -   [The guide](/garden-guide/#growth-level) to this website
--   [How this website was made](/how-i-made-the-growing-wiki/#content) (and how it works)
--   My [most recent project](/career-change/#the-plan)
+-   [How this website was made](/how-i-made-the-growing-wiki/#content), and how it works.
