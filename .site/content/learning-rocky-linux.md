@@ -12,8 +12,18 @@ best interest to first check that the installation is "correct".
 
 We simply do a quick check on the state of RAM and CPU on our new VM.
 
+
+### RAM {#ram}
+
 To check RAM, we can do something like:
 
 ```bash
-
+free --human --total --wide
 ```
+
+`free` is a simple command that is the standard way for checking memory usage.
+In this case, I utilise three flags to help make the output to be visually clearer for myself.
+
+-   `--human` makes the output to be, well, more **"human"** readable
+-   `--total` will show the **total** of RAM + Swap
+-   `--wide` simply makes the output to be **wider** (for my screen), totally unnecessary.
