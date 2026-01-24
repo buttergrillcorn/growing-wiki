@@ -27,4 +27,7 @@ There has been a pause/delay in my progress for a number of weeks, due to person
 
 ### Week 4 ( and going forward ) {#week-4--and-going-forward}
 
-Instead of
+Instead of documenting my progress in week numbers like how I originally planned. I think that
+it may be better to simply use this page as sort of a "project journal".
+
+I will add "dated entries" with brief summary of what I've worked on and link to any relevant notes.
