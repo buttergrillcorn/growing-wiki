@@ -138,7 +138,6 @@ After the =virt-install= command is run, we will get prompts and instructions on
 
 And ... we should be able to boot up the brand new VM with the login prompt!
 
-
 * The Next Step
 
 So now we should have a running virtual machine. Let's proceed onto [[id:20260124T170654.079743][learning about the new distro]]!
