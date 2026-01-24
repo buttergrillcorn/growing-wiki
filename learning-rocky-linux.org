@@ -6,7 +6,7 @@
 #+HUGO_DATE: 2026-01-24
 #+EXPORT_FILE_NAME: learning-rocky-linux
 
-* TODO Content
+* TODO Prerequisite
 :PROPERTIES:
 :ID:       20260124T170654.079743
 :END:
