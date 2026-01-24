@@ -36,3 +36,7 @@ In this case, I utilise three flags to help make the output to be visually clear
 As for checking the CPU cores, we can use =nproc=. What =nproc= does is basically to check
 for the information regarding CPU core numbers, listed in =/proc/cpuinfo=. It will output
 a number which represents the amount of CPU cores that is present.
+
+#+begin_src bash
+nproc
+#+end_src
